@@ -1,0 +1,393 @@
+Year,Class,Season,Gender,Status,Team,Coach,Team Score,Opponent,Opponent Score
+1975,AA,Spring,Male,Champion,Northeast-AA,Harry Lentz,8,Northwood,4
+1975,AA,Spring,Male,Finalist,Northwood,Brady Straub,4,Northeast-AA,8
+1975,A,Spring,Male,Champion,Williamsport,Larry Wadel,9,Bruce,1
+1975,A,Spring,Male,Finalist,Bruce,George Wolfe,1,Williamsport,9
+1975,B,Spring,Male,Champion,Central,Jim Steele,6,Loch Raven,3
+1975,B,Spring,Male,Finalist,Loch Raven,Bill Dunham,3,Central,6
+1975,C,Spring,Male,Champion,Georgetown Prep,Pete Moylan,4,Sandy Spring,2
+1975,C,Spring,Male,Finalist,Sandy Spring,Tom Scott,2,Georgetown Prep,4
+1976,AA,Spring,Male,Champion,Arundel,Bernie Walter,3,Catonsville,1
+1976,AA,Spring,Male,Finalist,Catonsville,Jack Peddicord,1,Arundel,3
+1976,A,Spring,Male,Champion,Paint Branch,Kevin Kelly,3,Joppatowne,2
+1976,A,Spring,Male,Finalist,Joppatowne,Dan Gaughan,2,Paint Branch,3
+1976,B,Spring,Male,Champion,Loch Raven,Bill Dunham,7,Central,5
+1976,B,Spring,Male,Finalist,Central,Jim Steele,5,Loch Raven,7
+1976,C,Spring,Male,Champion,Sandy Spring,Tom Scott,3,Georgetown Prep,2
+1976,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,2,Sandy Spring,3
+1977,AA,Spring,Male,Champion,Arundel,Bernie Walter,4,Catonsville,3
+1977,AA,Spring,Male,Finalist,Catonsville,Jack Peddicord,3,Arundel,4
+1977,A,Spring,Male,Champion,Paint Branch,Kevin Kelly,7,Joppatowne,6
+1977,A,Spring,Male,Finalist,Joppatowne,Dan Gaughan,6,Paint Branch,7
+1977,B,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,4
+1977,B,Spring,Male,Finalist,Central,Jim Steele,4,Loch Raven,5
+1977,C,Spring,Male,Champion,Sandy Spring,Tom Scott,2,Georgetown Prep,0
+1977,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,0,Sandy Spring,2
+1978,AA,Spring,Male,Champion,Parkdale,Jim Cooper,6,Catonsville,4
+1978,AA,Spring,Male,Finalist,Catonsville,Jack Peddicord,4,Parkdale,6
+1978,A,Spring,Male,Champion,Joppatowne,Dan Gaughan,5,Paint Branch,4
+1978,A,Spring,Male,Finalist,Paint Branch,Kevin Kelly,4,Joppatowne,5
+1978,B,Spring,Male,Champion,Central,Jim Steele,8,Loch Raven,7
+1978,B,Spring,Male,Finalist,Loch Raven,Bill Dunham,7,Central,8
+1978,C,Spring,Male,Champion,Georgetown Prep,Pete Moylan,3,Sandy Spring,1
+1978,C,Spring,Male,Finalist,Sandy Spring,Tom Scott,1,Georgetown Prep,3
+1979,AA,Spring,Male,Champion,Parkdale,Jim Cooper,7,Northwestern-PG,3
+1979,AA,Spring,Male,Finalist,Northwestern-PG,Al Thomas,3,Parkdale,7
+1979,A,Spring,Male,Champion,Joppatowne,Dan Gaughan,4,Paint Branch,3
+1979,A,Spring,Male,Finalist,Paint Branch,Kevin Kelly,3,Joppatowne,4
+1979,B,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,2
+1979,B,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,5
+1979,C,Spring,Male,Champion,Georgetown Prep,Pete Moylan,2,St. John's,1
+1979,C,Spring,Male,Finalist,St. John's,Carl Morgan,1,Georgetown Prep,2
+1980,AA,Spring,Male,Champion,Parkdale,Jim Cooper,6,Arundel,3
+1980,AA,Spring,Male,Finalist,Arundel,Bernie Walter,3,Parkdale,6
+1980,A,Spring,Male,Champion,Joppatowne,Dan Gaughan,5,North Carroll,4
+1980,A,Spring,Male,Finalist,North Carroll,Jerry Vance,4,Joppatowne,5
+1980,B,Spring,Male,Champion,Loch Raven,Bill Dunham,3,Central,2
+1980,B,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,3
+1980,C,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,5
+1980,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,6
+1981,AA,Spring,Male,Champion,Parkdale,Jim Cooper,8,Northwestern-PG,3
+1981,AA,Spring,Male,Finalist,Northwestern-PG,Al Thomas,3,Parkdale,8
+1981,A,Spring,Male,Champion,Joppatowne,Dan Gaughan,4,Paint Branch,2
+1981,A,Spring,Male,Finalist,Paint Branch,Kevin Kelly,2,Joppatowne,4
+1981,B,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,4
+1981,B,Spring,Male,Finalist,Central,Jim Steele,4,Loch Raven,6
+1981,C,Spring,Male,Champion,St. John's,Carl Morgan,5,Georgetown Prep,4
+1981,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,4,St. John's,5
+1982,AA,Spring,Male,Champion,Northwestern-PG,Al Thomas,4,Parkdale,3
+1982,AA,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Northwestern-PG,4
+1982,A,Spring,Male,Champion,Joppatowne,Dan Gaughan,3,Paint Branch,1
+1982,A,Spring,Male,Finalist,Paint Branch,Kevin Kelly,1,Joppatowne,3
+1982,B,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,2
+1982,B,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,4
+1982,C,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,6
+1982,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,7
+1983,AA,Spring,Male,Champion,Northwestern-PG,Al Thomas,5,Catonsville,2
+1983,AA,Spring,Male,Finalist,Catonsville,Jack Peddicord,2,Northwestern-PG,5
+1983,A,Spring,Male,Champion,Joppatowne,Dan Gaughan,6,Patapsco,5
+1983,A,Spring,Male,Finalist,Patapsco,Tony DeLuca,5,Joppatowne,6
+1983,B,Spring,Male,Champion,Loch Raven,Bill Dunham,8,Central,3
+1983,B,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,8
+1983,C,Spring,Male,Champion,St. John's,Carl Morgan,4,Georgetown Prep,1
+1983,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,1,St. John's,4
+1984,AA,Spring,Male,Champion,Northwestern-PG,Al Thomas,4,Parkdale,2
+1984,AA,Spring,Male,Finalist,Parkdale,Jim Cooper,2,Northwestern-PG,4
+1984,A,Spring,Male,Champion,Patapsco,Tony DeLuca,5,Joppatowne,3
+1984,A,Spring,Male,Finalist,Joppatowne,Dan Gaughan,3,Patapsco,5
+1984,B,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,2
+1984,B,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,6
+1984,C,Spring,Male,Champion,St. John's,Carl Morgan,3,Georgetown Prep,0
+1984,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,0,St. John's,3
+1985,AA,Spring,Male,Champion,Northwestern-PG,Al Thomas,3,Arundel,1
+1985,AA,Spring,Male,Finalist,Arundel,Bernie Walter,1,Northwestern-PG,3
+1985,A,Spring,Male,Champion,Patapsco,Tony DeLuca,6,Joppatowne,4
+1985,A,Spring,Male,Finalist,Joppatowne,Dan Gaughan,4,Patapsco,6
+1985,B,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,3
+1985,B,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,5
+1985,C,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,6
+1985,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,7
+1986,AA,Spring,Male,Champion,Northwestern-PG,Al Thomas,5,Parkdale,3
+1986,AA,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Northwestern-PG,5
+1986,A,Spring,Male,Champion,Patapsco,Tony DeLuca,7,Joppatowne,2
+1986,A,Spring,Male,Finalist,Joppatowne,Dan Gaughan,2,Patapsco,7
+1986,B,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,4
+1986,B,Spring,Male,Finalist,Central,Jim Steele,4,Loch Raven,6
+1986,C,Spring,Male,Champion,St. John's,Carl Morgan,4,Georgetown Prep,3
+1986,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,3,St. John's,4
+1987,AA,Spring,Male,Champion,Northwestern-PG,Al Thomas,4,Arundel,1
+1987,AA,Spring,Male,Finalist,Arundel,Bernie Walter,1,Northwestern-PG,4
+1987,A,Spring,Male,Champion,Patapsco,Tony DeLuca,3,Joppatowne,0
+1987,A,Spring,Male,Finalist,Joppatowne,Dan Gaughan,0,Patapsco,3
+1987,B,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,2
+1987,B,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,5
+1987,C,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,5
+1987,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,6
+1988,AA,Spring,Male,Champion,Northwestern-PG,Al Thomas,6,Catonsville,4
+1988,AA,Spring,Male,Finalist,Catonsville,Jack Peddicord,4,Northwestern-PG,6
+1988,A,Spring,Male,Champion,Patapsco,Tony DeLuca,4,Joppatowne,1
+1988,A,Spring,Male,Finalist,Joppatowne,Dan Gaughan,1,Patapsco,4
+1988,B,Spring,Male,Champion,Loch Raven,Bill Dunham,3,Central,2
+1988,B,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,3
+1988,C,Spring,Male,Champion,St. John's,Carl Morgan,5,Georgetown Prep,4
+1988,C,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,4,St. John's,5
+1989,4A,Spring,Male,Champion,Northwestern-PG,Al Thomas,5,Arundel,4
+1989,4A,Spring,Male,Finalist,Arundel,Bernie Walter,4,Northwestern-PG,5
+1989,3A,Spring,Male,Champion,Patapsco,Tony DeLuca,8,Joppatowne,7
+1989,3A,Spring,Male,Finalist,Joppatowne,Dan Gaughan,7,Patapsco,8
+1989,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,4
+1989,2A,Spring,Male,Finalist,Central,Jim Steele,4,Loch Raven,6
+1989,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,6
+1989,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,7
+1990,4A,Spring,Male,Champion,Arundel,Bernie Walter,4,Northwestern-PG,2
+1990,4A,Spring,Male,Finalist,Northwestern-PG,Al Thomas,2,Arundel,4
+1990,3A,Spring,Male,Champion,Patapsco,Tony DeLuca,9,Joppatowne,5
+1990,3A,Spring,Male,Finalist,Joppatowne,Dan Gaughan,5,Patapsco,9
+1990,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,3
+1990,2A,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,5
+1990,1A,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,2
+1990,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,2,St. John's,6
+1991,4A,Spring,Male,Champion,Arundel,Bernie Walter,6,Parkdale,3
+1991,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,6
+1991,3A,Spring,Male,Champion,Patapsco,Tony DeLuca,4,North Hagerstown,1
+1991,3A,Spring,Male,Finalist,North Hagerstown,John Williamson,1,Patapsco,4
+1991,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,7,Central,5
+1991,2A,Spring,Male,Finalist,Central,Jim Steele,5,Loch Raven,7
+1991,1A,Spring,Male,Champion,St. John's,Carl Morgan,5,Georgetown Prep,3
+1991,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,3,St. John's,5
+1992,4A,Spring,Male,Champion,Arundel,Bernie Walter,8,Parkdale,2
+1992,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,2,Arundel,8
+1992,3A,Spring,Male,Champion,Patapsco,Tony DeLuca,6,North Hagerstown,4
+1992,3A,Spring,Male,Finalist,North Hagerstown,John Williamson,4,Patapsco,6
+1992,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,3
+1992,2A,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,4
+1992,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,5
+1992,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,7
+1993,4A,Spring,Male,Champion,Arundel,Bernie Walter,4,Northwestern-PG,2
+1993,4A,Spring,Male,Finalist,Northwestern-PG,Al Thomas,2,Arundel,4
+1993,3A,Spring,Male,Champion,Patapsco,Tony DeLuca,5,North Hagerstown,1
+1993,3A,Spring,Male,Finalist,North Hagerstown,John Williamson,1,Patapsco,5
+1993,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,3
+1993,2A,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,6
+1993,1A,Spring,Male,Champion,St. John's,Carl Morgan,5,Georgetown Prep,4
+1993,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,4,St. John's,5
+1994,4A,Spring,Male,Champion,Arundel,Bernie Walter,5,Northwestern-PG,4
+1994,4A,Spring,Male,Finalist,Northwestern-PG,Al Thomas,4,Arundel,5
+1994,3A,Spring,Male,Champion,North Hagerstown,John Williamson,6,Patapsco,3
+1994,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,3,North Hagerstown,6
+1994,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,2
+1994,2A,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,4
+1994,1A,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,5
+1994,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,6
+1995,4A,Spring,Male,Champion,Arundel,Bernie Walter,7,Northwestern-PG,5
+1995,4A,Spring,Male,Finalist,Northwestern-PG,Al Thomas,5,Arundel,7
+1995,3A,Spring,Male,Champion,North Hagerstown,John Williamson,4,Patapsco,3
+1995,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,3,North Hagerstown,4
+1995,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,3,Central,1
+1995,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,3
+1995,1A,Spring,Male,Champion,St. John's,Carl Morgan,4,Georgetown Prep,2
+1995,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,2,St. John's,4
+1996,4A,Spring,Male,Champion,Arundel,Bernie Walter,5,Parkdale,2
+1996,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,2,Arundel,5
+1996,3A,Spring,Male,Champion,North Hagerstown,John Williamson,6,Patapsco,3
+1996,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,3,North Hagerstown,6
+1996,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,4
+1996,2A,Spring,Male,Finalist,Central,Jim Steele,4,Loch Raven,5
+1996,1A,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,5
+1996,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,6
+1997,4A,Spring,Male,Champion,Arundel,Bernie Walter,4,Northwestern-PG,3
+1997,4A,Spring,Male,Finalist,Northwestern-PG,Al Thomas,3,Arundel,4
+1997,3A,Spring,Male,Champion,Patapsco,Tony DeLuca,6,North Hagerstown,4
+1997,3A,Spring,Male,Finalist,North Hagerstown,John Williamson,4,Patapsco,6
+1997,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,2
+1997,2A,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,4
+1997,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,6
+1997,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,7
+1998,4A,Spring,Male,Champion,Arundel,Bernie Walter,5,Northwestern-PG,1
+1998,4A,Spring,Male,Finalist,Northwestern-PG,Al Thomas,1,Arundel,5
+1998,3A,Spring,Male,Champion,North Hagerstown,John Williamson,7,Patapsco,3
+1998,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,3,North Hagerstown,7
+1998,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,4
+1998,2A,Spring,Male,Finalist,Central,Jim Steele,4,Loch Raven,6
+1998,1A,Spring,Male,Champion,St. John's,Carl Morgan,5,Georgetown Prep,4
+1998,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,4,St. John's,5
+1999,4A,Spring,Male,Champion,Arundel,Bernie Walter,4,Northwestern-PG,2
+1999,4A,Spring,Male,Finalist,Northwestern-PG,Al Thomas,2,Arundel,4
+1999,3A,Spring,Male,Champion,North Hagerstown,John Williamson,6,Patapsco,5
+1999,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,5,North Hagerstown,6
+1999,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,3,Central,1
+1999,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,3
+1999,1A,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,3
+1999,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,3,St. John's,6
+2000,4A,Spring,Male,Champion,Arundel,Bernie Walter,6,Northwestern-PG,5
+2000,4A,Spring,Male,Finalist,Northwestern-PG,Al Thomas,5,Arundel,6
+2000,3A,Spring,Male,Champion,North Hagerstown,John Williamson,5,Patapsco,4
+2000,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,4,North Hagerstown,5
+2000,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,2,Central,1
+2000,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,2
+2000,1A,Spring,Male,Champion,St. John's,Carl Morgan,8,Georgetown Prep,7
+2000,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,7,St. John's,8
+2001,4A,Spring,Male,Champion,Arundel,Bernie Walter,5,Northwestern-PG,3
+2001,4A,Spring,Male,Finalist,Northwestern-PG,Al Thomas,3,Arundel,5
+2001,3A,Spring,Male,Champion,North Hagerstown,John Williamson,4,Patapsco,2
+2001,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,2,North Hagerstown,4
+2001,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,7,Central,5
+2001,2A,Spring,Male,Finalist,Central,Jim Steele,5,Loch Raven,7
+2001,1A,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,4
+2001,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,4,St. John's,6
+2002,4A,Spring,Male,Champion,Arundel,Bernie Walter,3,Parkdale,2
+2002,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,2,Arundel,3
+2002,3A,Spring,Male,Champion,North Hagerstown,John Williamson,6,Patapsco,5
+2002,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,5,North Hagerstown,6
+2002,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,3
+2002,2A,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,4
+2002,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,6
+2002,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,7
+2003,4A,Spring,Male,Champion,Arundel,Bernie Walter,4,Parkdale,3
+2003,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,4
+2003,3A,Spring,Male,Champion,North Hagerstown,John Williamson,5,Patapsco,4
+2003,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,4,North Hagerstown,5
+2003,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,3,Central,1
+2003,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,3
+2003,1A,Spring,Male,Champion,St. John's,Carl Morgan,8,Georgetown Prep,5
+2003,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,8
+2004,4A,Spring,Male,Champion,Arundel,Bernie Walter,6,Parkdale,4
+2004,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,4,Arundel,6
+2004,3A,Spring,Male,Champion,North Hagerstown,John Williamson,7,Patapsco,3
+2004,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,3,North Hagerstown,7
+2004,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,2
+2004,2A,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,5
+2004,1A,Spring,Male,Champion,St. John's,Carl Morgan,8,Georgetown Prep,6
+2004,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,8
+2005,4A,Spring,Male,Champion,Arundel,Bernie Walter,4,Parkdale,3
+2005,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,4
+2005,3A,Spring,Male,Champion,North Hagerstown,John Williamson,5,Patapsco,2
+2005,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,2,North Hagerstown,5
+2005,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,7,Central,5
+2005,2A,Spring,Male,Finalist,Central,Jim Steele,5,Loch Raven,7
+2005,1A,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,4
+2005,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,4,St. John's,6
+2006,4A,Spring,Male,Champion,Arundel,Bernie Walter,3,Parkdale,2
+2006,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,2,Arundel,3
+2006,3A,Spring,Male,Champion,North Hagerstown,John Williamson,6,Patapsco,4
+2006,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,4,North Hagerstown,6
+2006,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,3
+2006,2A,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,5
+2006,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,5
+2006,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,7
+2007,4A,Spring,Male,Champion,Arundel,Bernie Walter,8,Parkdale,5
+2007,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,5,Arundel,8
+2007,3A,Spring,Male,Champion,North Hagerstown,John Williamson,9,Patapsco,4
+2007,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,4,North Hagerstown,9
+2007,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,3
+2007,2A,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,6
+2007,1A,Spring,Male,Champion,St. John's,Carl Morgan,4,Georgetown Prep,2
+2007,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,2,St. John's,4
+2008,4A,Spring,Male,Champion,Arundel,Bernie Walter,5,Parkdale,3
+2008,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,5
+2008,3A,Spring,Male,Champion,North Hagerstown,John Williamson,7,Patapsco,6
+2008,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,6,North Hagerstown,7
+2008,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,1
+2008,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,4
+2008,1A,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,4
+2008,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,4,St. John's,6
+2009,4A,Spring,Male,Champion,Arundel,Bernie Walter,3,Parkdale,2
+2009,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,2,Arundel,3
+2009,3A,Spring,Male,Champion,North Hagerstown,John Williamson,8,Patapsco,5
+2009,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,5,North Hagerstown,8
+2009,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,4
+2009,2A,Spring,Male,Finalist,Central,Jim Steele,4,Loch Raven,6
+2009,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,5
+2009,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,7
+2010,4A,Spring,Male,Champion,Arundel,Bernie Walter,5,Parkdale,3
+2010,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,5
+2010,3A,Spring,Male,Champion,North Hagerstown,John Williamson,6,Patapsco,4
+2010,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,4,North Hagerstown,6
+2010,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,1
+2010,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,4
+2010,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,6
+2010,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,7
+2011,4A,Spring,Male,Champion,Arundel,Bernie Walter,3,Parkdale,2
+2011,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,2,Arundel,3
+2011,3A,Spring,Male,Champion,North Hagerstown,John Williamson,7,Patapsco,5
+2011,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,5,North Hagerstown,7
+2011,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,4
+2011,2A,Spring,Male,Finalist,Central,Jim Steele,4,Loch Raven,5
+2011,1A,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,4
+2011,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,4,St. John's,6
+2012,4A,Spring,Male,Champion,Arundel,Bernie Walter,4,Parkdale,3
+2012,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,4
+2012,3A,Spring,Male,Champion,North Hagerstown,John Williamson,5,Patapsco,2
+2012,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,2,North Hagerstown,5
+2012,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,3,Central,1
+2012,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,3
+2012,1A,Spring,Male,Champion,St. John's,Carl Morgan,8,Georgetown Prep,6
+2012,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,8
+2013,4A,Spring,Male,Champion,Arundel,Bernie Walter,6,Parkdale,4
+2013,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,4,Arundel,6
+2013,3A,Spring,Male,Champion,North Hagerstown,John Williamson,7,Patapsco,3
+2013,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,3,North Hagerstown,7
+2013,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,2
+2013,2A,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,5
+2013,1A,Spring,Male,Champion,St. John's,Carl Morgan,4,Georgetown Prep,1
+2013,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,1,St. John's,4
+2014,4A,Spring,Male,Champion,Arundel,Bernie Walter,7,Parkdale,5
+2014,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,5,Arundel,7
+2014,3A,Spring,Male,Champion,North Hagerstown,John Williamson,8,Patapsco,4
+2014,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,4,North Hagerstown,8
+2014,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,3
+2014,2A,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,6
+2014,1A,Spring,Male,Champion,St. John's,Carl Morgan,5,Georgetown Prep,2
+2014,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,2,St. John's,5
+2015,4A,Spring,Male,Champion,Arundel,Bernie Walter,6,Parkdale,3
+2015,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,6
+2015,3A,Spring,Male,Champion,North Hagerstown,John Williamson,5,Patapsco,2
+2015,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,2,North Hagerstown,5
+2015,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,1
+2015,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,4
+2015,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,5
+2015,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,7
+2016,4A,Spring,Male,Champion,Arundel,Bernie Walter,5,Parkdale,2
+2016,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,2,Arundel,5
+2016,3A,Spring,Male,Champion,North Hagerstown,John Williamson,6,Patapsco,4
+2016,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,4,North Hagerstown,6
+2016,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,1
+2016,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,4
+2016,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,6
+2016,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,7
+2017,4A,Spring,Male,Champion,Arundel,Bernie Walter,6,Parkdale,3
+2017,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,6
+2017,3A,Spring,Male,Champion,North Hagerstown,John Williamson,5,Patapsco,4
+2017,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,4,North Hagerstown,5
+2017,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,7,Central,5
+2017,2A,Spring,Male,Finalist,Central,Jim Steele,5,Loch Raven,7
+2017,1A,Spring,Male,Champion,St. John's,Carl Morgan,6,Georgetown Prep,4
+2017,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,4,St. John's,6
+2018,4A,Spring,Male,Champion,Arundel,Bernie Walter,8,Parkdale,6
+2018,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,6,Arundel,8
+2018,3A,Spring,Male,Champion,North Hagerstown,John Williamson,9,Patapsco,7
+2018,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,7,North Hagerstown,9
+2018,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,5,Central,3
+2018,2A,Spring,Male,Finalist,Central,Jim Steele,3,Loch Raven,5
+2018,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,5
+2018,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,7
+2019,4A,Spring,Male,Champion,Arundel,Bernie Walter,5,Parkdale,3
+2019,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,5
+2019,3A,Spring,Male,Champion,North Hagerstown,John Williamson,6,Patapsco,4
+2019,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,4,North Hagerstown,6
+2019,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,4,Central,1
+2019,2A,Spring,Male,Finalist,Central,Jim Steele,1,Loch Raven,4
+2019,1A,Spring,Male,Champion,St. John's,Carl Morgan,8,Georgetown Prep,6
+2019,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,6,St. John's,8
+2021,4A,Spring,Male,Champion,Arundel,Bernie Walter,4,Parkdale,3
+2021,4A,Spring,Male,Finalist,Parkdale,Jim Cooper,3,Arundel,4
+2021,3A,Spring,Male,Champion,North Hagerstown,John Williamson,5,Patapsco,3
+2021,3A,Spring,Male,Finalist,Patapsco,Tony DeLuca,3,North Hagerstown,5
+2021,2A,Spring,Male,Champion,Loch Raven,Bill Dunham,6,Central,2
+2021,2A,Spring,Male,Finalist,Central,Jim Steele,2,Loch Raven,6
+2021,1A,Spring,Male,Champion,St. John's,Carl Morgan,7,Georgetown Prep,5
+2021,1A,Spring,Male,Finalist,Georgetown Prep,Pete Moylan,5,St. John's,7
+2022,4A,Spring,Male,Champion,Sherwood,Sean Davis,7,Urbana,4
+2022,4A,Spring,Male,Finalist,Urbana,Mike Frownfelter,4,Sherwood,7
+2022,3A,Spring,Male,Champion,River Hill,Wes McCoy,1,C. Milton Wright,0
+2022,3A,Spring,Male,Finalist,C. Milton Wright,Tony Blackburn,0,River Hill,1
+2022,2A,Spring,Male,Champion,Parkside,Brian Hollamon,3,Patuxent,1
+2022,2A,Spring,Male,Finalist,Patuxent,Keith Powell,1,Parkside,3
+2022,1A,Spring,Male,Champion,Clear Spring,Mark Shives,3,Colonel Richardson,2
+2022,1A,Spring,Male,Finalist,Colonel Richardson,Lee Hayden,2,Clear Spring,3
+2023,4A,Spring,Male,Champion,Sherwood,Sean Davis,7,Urbana,4
+2023,4A,Spring,Male,Finalist,Urbana,Mike Frownfelter,4,Sherwood,7
+2023,3A,Spring,Male,Champion,River Hill,Wes McCoy,1,C. Milton Wright,0
+2023,3A,Spring,Male,Finalist,C. Milton Wright,Tony Blackburn,0,River Hill,1
+2023,2A,Spring,Male,Champion,Parkside,Brian Hollamon,3,Patuxent,1
+2023,2A,Spring,Male,Finalist,Patuxent,Keith Powell,1,Parkside,3
+2023,1A,Spring,Male,Champion,Clear Spring,Mark Shives,3,Colonel Richardson,2
+2023,1A,Spring,Male,Finalist,Colonel Richardson,Lee Hayden,2,Clear Spring,3
+2024,4A,Spring,Male,Champion,Leonardtown,Donnie Gross,2,Walt Whitman,0
+2024,4A,Spring,Male,Finalist,Walt Whitman,Joe Cassidy,0,Leonardtown,2
+2024,3A,Spring,Male,Champion,Colonel Zadok Magruder,Tim Gilmore,4,Chesapeake-AA,0
+2024,3A,Spring,Male,Finalist,Chesapeake-AA,Ken King,0,Colonel Zadok Magruder,4
+2024,2A,Spring,Male,Champion,Middletown,Andy Baker,6,Glenelg,5
+2024,2A,Spring,Male,Finalist,Glenelg,Chris Garber,5,Middletown,6
+2024,1A,Spring,Male,Champion,Brunswick,Roger Dawson,4,Patterson Mill,1
+2024,1A,Spring,Male,Finalist,Patterson Mill,Matt Roseland,1,Brunswick,4
