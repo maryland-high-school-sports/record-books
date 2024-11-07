@@ -1,0 +1,83 @@
+year,sport,classification,champ,score,finalist
+1971,Golf,NA,Magruder,610,Robert E. Peary
+1972,Golf,NA,Frederick,627,Magruder
+1973,Golf,NA,Magruder,677,Gaithersburg
+1974,Golf,NA,Gaithersburg,632,Bowie
+1975,Golf,NA,Walt Whitman,646,Crossland
+1976,Golf,NA,Winston Churchill,630,Walt Whitman
+1977,Golf,NA,Walt Whitman,307,Bowie
+1978,Golf,NA,Robert E. Peary,657,Bowie
+1979,Golf,NA,Walt Whitman,635,Bowie
+1980,Golf,NA,Sherwood,641,Bowie
+1981,Golf,NA,Bowie,658,High Point
+1982,Golf,NA,Seneca Valley,699,Thomas S. Wootton
+1983,Golf,NA,Thomas S. Wootton,649,Seneca Valley
+1984,Golf,NA,Seneca Valley,627,James M. Bennett
+1985,Golf,NA,Gaithersburg,657,Westminster
+1986,Golf,NA,Bowie,668,Winston Churchill
+1987,Golf,NA,Winston Churchill,665,Gaithersburg
+1988,Golf,NA,Winston Churchill,632,Thomas Stone
+1989,Golf,NA,Quince Orchard,657,Walt Whitman
+1990,Golf,NA,Walt Whitman,649,Damascus
+1991,Golf,NA,Arundel,655,Damascus
+1992,Golf,NA,Arundel,629,Quince Orchard
+1993,Golf,1A/2A,Damascus,620,Cambridge/SD
+1993,Golf,3A/4A,Quince Orchard,620,Sherwood
+1994,Golf,1A/2A,Walkersville,626,Boonsboro
+1994,Golf,3A/4A,Sherwood,626,Dulaney
+1995,Golf,1A/2A,Cambridge-South Dorchester,637,Middletown
+1995,Golf,3A/4A,Winston Churchill,637,Winston Churchill
+1996,Golf,1A/2A,Middletown,638,North Caroline
+1996,Golf,3A/4A,Thomas S. Wootton,638,Winston Churchill
+1997,Golf,1A/2A,North Caroline,629,Middletown
+1997,Golf,3A/4A,Thomas S. Wootton,629,Watkins Mill
+1998,Golf,1A/2A,Walkersville,635,Pikesville
+1998,Golf,3A/4A,Winston Churchill,635,Winston Churchill
+1999,Golf,1A/2A,Walkersville,605,Urbana
+1999,Golf,3A/4A,Walt Whitman,605,Urbana
+2000,Golf,1A/2A,Pikesville,637,James M. Bennett
+2000,Golf,3A/4A,Dulaney,637,Winston Churchill
+2001,Golf,1A/2A,Pikesville,609,James M. Bennett
+2001,Golf,3A/4A,McDonough,609,Winston Churchill
+2002,Golf,1A/2A,J.M. Bennett,307,Liberty
+2002,Golf,3A/4A,Winston Churchill,307,Winston Churchill
+2003,Golf,1A/2A,J.M. Bennett,303,La Plata
+2003,Golf,3A/4A,Winston Churchill,303,La Plata
+2004,Golf,1A/2A,Parkside,608,Walkersville
+2004,Golf,3A/4A,Winston Churchill,608,Northern (Cal.)
+2005,Golf,1A/2A,Smithsburg,306,Smithsburg
+2005,Golf,3A/4A,Winston Churchill,306,Northern (Cal.)
+2006,Golf,1A/2A,Glenelg,604,Parkside
+2006,Golf,3A/4A,Winston Churchill,604,La Plata
+2007,Golf,1A/2A,Liberty,596,La Plata
+2007,Golf,3A/4A,Walt Whitman,596,La Plata
+2008,Golf,1A/2A,North Point,662,Glenelg
+2008,Golf,3A/4A,Winston Churchill,662,Glenelg
+2009,Golf,1A/2A,Middletown,652,Marriotts Ridge
+2009,Golf,3A/4A,Urbana,652,Urbana
+2010,Golf,1A/2A,North Carroll,618,McDonough
+2010,Golf,3A/4A,Urbana,618,Damascus
+2011,Golf,1A/2A,McDonough,615,Walt Whitman
+2011,Golf,3A/4A,Urbana,615,Walt Whitman
+2012,Golf,1A/2A,Marriotts Ridge,603,Glenelg
+2012,Golf,3A/4A,Thomas S. Wootton,603,Glenelg
+2013,Golf,1A/2A,Marriotts Ridge,633,Poolesville
+2013,Golf,3A/4A,Thomas S. Wootton,633,Winston Churchill
+2014,Golf,1A/2A,Marriotts Ridge,603,Walkersville
+2014,Golf,3A/4A,Winston Churchill,603,Thomas S. Wootton
+2015,Golf,1A/2A,Marriotts Ridge,572,Middletown
+2015,Golf,3A/4A,Winston Churchill,572,Walter Johnson
+2016,Golf,1A/2A,Marriotts Ridge,632,Middletown
+2016,Golf,3A/4A,Winston Churchill,632,Walt Whitman
+2017,Golf,1A/2A,Marriotts Ridge,605,Boonsboro
+2017,Golf,3A/4A,Walt Whitman,605,Winston Churchill
+2018,Golf,1A/2A,Marriotts Ridge,619,River Hill
+2018,Golf,3A/4A,Urbana,619,Northern (Cal.)
+2019,Golf,1A/2A,Oakdale,603,Oakdale
+2019,Golf,3A/4A,Winston Churchill,603,Urbana
+2021,Golf,1A/2A,Poolesville,620,Boonsboro
+2021,Golf,3A/4A,Urbana,620,Winston Churchill
+2022,Golf,1A/2A,Poolesville,576,Marriotts Ridge
+2022,Golf,3A/4A,River Hill,576,Sherwood
+2023,Golf,1A/2A,South Carroll,572,Marriotts Ridge
+2023,Golf,3A/4A,River Hill,572,Poolesville
