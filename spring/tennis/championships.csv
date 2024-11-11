@@ -1,58 +1,58 @@
-year,class,champ,coach,c_score,finalist,f_coach,f_score
-1975,District VI,Baltimore County,NA,NA,NA,NA,NA
-1976,District II,Montgomery County,NA,NA,NA,NA,NA
-1977,District II,Montgomery County,NA,NA,NA,NA,NA
-1978,District II,Montgomery County,NA,NA,NA,NA,NA
-1979,District II,Montgomery County,NA,NA,NA,NA,NA
-1980,District II,Montgomery County,NA,NA,NA,NA,NA
-1981,District VI,Baltimore County,NA,NA,NA,NA,NA
-1982,District II,Montgomery County,NA,NA,NA,NA,NA
-1983,District VIII,Eastern Shore,NA,NA,NA,NA,NA
-1984,District II,Montgomery County,NA,NA,NA,NA,NA
-1985,District V,Howard County,NA,NA,NA,NA,NA
-1986,District II,Montgomery County,NA,NA,NA,NA,NA
-1987,District II,Montgomery County,NA,NA,NA,NA,NA
-1988,District V,AA/Carroll/Harford/Howard Counties,NA,NA,NA,NA,NA
-1989,District II,Montgomery County,NA,NA,NA,NA,NA
-1990,District II,Montgomery County,NA,NA,NA,NA,NA
-1991,District V,AA/Carroll/Harford/Howard Counties,NA,NA,NA,NA,NA
-1992,District II,Montgomery County,NA,NA,NA,NA,NA
-1993,District II,Montgomery County,NA,NA,NA,NA,NA
-1994,Region II,Montgomery County,NA,NA,NA,NA,NA
-1995,Region II,Montgomery County,NA,NA,NA,NA,NA
-1996,Region VI,Baltimore County,NA,NA,NA,NA,NA
-1997,Region II,Montgomery County,NA,NA,NA,NA,NA
-1998,Region II,Montgomery County,NA,NA,NA,NA,NA
-1999,Region II,Montgomery County,NA,NA,NA,NA,NA
-2000,Region III,Prince George’s County,NA,NA,NA,NA,NA
-2001,Region II,Montgomery County,NA,NA,NA,NA,NA
-2002,Region II,Montgomery County,NA,NA,NA,NA,NA
-2003,Region II,Montgomery County,NA,NA,NA,NA,NA
-2004,Region II,Montgomery County,NA,NA,NA,NA,NA
-2005,Region II,Montgomery County,NA,NA,NA,NA,NA
-2006,Region II,Montgomery County,NA,NA,NA,NA,NA
-2007,Region II,Montgomery County,NA,NA,NA,NA,NA
-2008,Region II,Montgomery County,NA,NA,NA,NA,NA
-2009,Region II,Montgomery County,NA,NA,NA,NA,NA
-2010,Region II,Montgomery County,NA,NA,NA,NA,NA
-2011,Region II,Montgomery County,NA,NA,NA,NA,NA
-2012,Region II,Montgomery County,NA,NA,NA,NA,NA
-2013,Region II,Montgomery County,NA,NA,NA,NA,NA
-2014,Region II,Montgomery County,NA,NA,NA,NA,NA
-2015,Region II,Montgomery County,NA,NA,NA,NA,NA
-2019,1A,Sparrows Point,"C. Snyder, S. Quach",39,Frederick Douglass,Brian Wilson,38
-2019,2A,Marriotts Ridge,Scott Dingman,55,Hereford,Hal McVeigh,48
-2019,3A,Centennial,Erin Parisi,62,Huntingtown,Amy Trainer,52
-2019,4A,Walt Whitman,"Jasen Gohn, Meg Thatcher",49,Broadneck,Kathy Perotta,39
-2021,1A,Pikesville,Robb Johnson,58,F. Scott Key,"Steve French, Darian Naill",47
-2021,2A,Hereford,Hal McVeigh,75,Poolesville,"Tom Lang, Andrew Johnson",65
-2021,3A,Urbana,"Jon Walton, AJ Stuart",58,C. Milton Wright,Paul Shao,51
-2021,4A,Montgomery Blair,"David Ngbea, Peter Lynch",47,Winston Churchill,Peter Goodman,46
-2022,1A,Liberty,"Tim Brecker, Barry Green",46,Pikesville,Robb Johnson,26
-2022,2A,Poolesville,"Tom Lang, Andrew Johnson",58,C. Milton Wright,Paul Shao,48
-2022,3A,River Hill,Kelley Pfefferkorn,63,Howard,Chip Boling,29
-2022,4A,Thomas S. Wootton,"Nia Cresham, Victoria McCarthy",46,Montgomery Blair,"David Ngbea, Peter Lynch",35
-2023,1A,Liberty,"Tim Brecker, Hannah Shinsky",27,Boonsboro,Brian Myers,24
-2023,2A,Poolesville,"Tom Lang, Andrew Johnson",45,Eastern Technical,Casey Brady,16
-2023,3A,River Hill,Kelley Pfefferkorn,45,Centennial,Erin Parisi,21
-2023,4A,Montgomery Blair/Broadneck/Urbana,"David Ngbea, Peter Lynch/Kathy Perotta/Jon Walton, AJ Stuart",21,Severna Park,Mark Bieberich,15
+year,sport,class,champ,coach,c_score,finalist,f_coach,f_score
+1975,Tennis,District VI,Baltimore County,NA,NA,NA,NA,NA
+1976,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1977,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1978,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1979,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1980,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1981,Tennis,District VI,Baltimore County,NA,NA,NA,NA,NA
+1982,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1983,Tennis,District VIII,Eastern Shore,NA,NA,NA,NA,NA
+1984,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1985,Tennis,District V,Howard County,NA,NA,NA,NA,NA
+1986,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1987,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1988,Tennis,District V,AA/Carroll/Harford/Howard Counties,NA,NA,NA,NA,NA
+1989,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1990,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1991,Tennis,District V,AA/Carroll/Harford/Howard Counties,NA,NA,NA,NA,NA
+1992,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1993,Tennis,District II,Montgomery County,NA,NA,NA,NA,NA
+1994,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+1995,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+1996,Tennis,Region VI,Baltimore County,NA,NA,NA,NA,NA
+1997,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+1998,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+1999,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2000,Tennis,Region III,Prince George’s County,NA,NA,NA,NA,NA
+2001,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2002,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2003,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2004,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2005,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2006,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2007,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2008,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2009,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2010,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2011,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2012,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2013,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2014,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2015,Tennis,Region II,Montgomery County,NA,NA,NA,NA,NA
+2019,Tennis,1A,Sparrows Point,"C. Snyder, S. Quach",39,Frederick Douglass,Brian Wilson,38
+2019,Tennis,2A,Marriotts Ridge,Scott Dingman,55,Hereford,Hal McVeigh,48
+2019,Tennis,3A,Centennial,Erin Parisi,62,Huntingtown,Amy Trainer,52
+2019,Tennis,4A,Walt Whitman,"Jasen Gohn, Meg Thatcher",49,Broadneck,Kathy Perotta,39
+2021,Tennis,1A,Pikesville,Robb Johnson,58,F. Scott Key,"Steve French, Darian Naill",47
+2021,Tennis,2A,Hereford,Hal McVeigh,75,Poolesville,"Tom Lang, Andrew Johnson",65
+2021,Tennis,3A,Urbana,"Jon Walton, AJ Stuart",58,C. Milton Wright,Paul Shao,51
+2021,Tennis,4A,Montgomery Blair,"David Ngbea, Peter Lynch",47,Winston Churchill,Peter Goodman,46
+2022,Tennis,1A,Liberty,"Tim Brecker, Barry Green",46,Pikesville,Robb Johnson,26
+2022,Tennis,2A,Poolesville,"Tom Lang, Andrew Johnson",58,C. Milton Wright,Paul Shao,48
+2022,Tennis,3A,River Hill,Kelley Pfefferkorn,63,Howard,Chip Boling,29
+2022,Tennis,4A,Thomas S. Wootton,"Nia Cresham, Victoria McCarthy",46,Montgomery Blair,"David Ngbea, Peter Lynch",35
+2023,Tennis,1A,Liberty,"Tim Brecker, Hannah Shinsky",27,Boonsboro,Brian Myers,24
+2023,Tennis,2A,Poolesville,"Tom Lang, Andrew Johnson",45,Eastern Technical,Casey Brady,16
+2023,Tennis,3A,River Hill,Kelley Pfefferkorn,45,Centennial,Erin Parisi,21
+2023,Tennis,4A,Montgomery Blair/Broadneck/Urbana,"David Ngbea, Peter Lynch/Kathy Perotta/Jon Walton, AJ Stuart",21,Severna Park,Mark Bieberich,15
