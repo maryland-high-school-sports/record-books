@@ -1,0 +1,855 @@
+team,year,class,status,gender
+Allegany,1997,4A,CH,Girls
+Allegany,1998,4A,CH,Girls
+Allegany,1988,4A,FN,Girls
+Atholton,1987,4A,CH,Girls
+Atholton,1988,4A,CH,Girls
+Atholton,1989,4A,CH,Girls
+Atholton,1986,4A,FN,Girls
+Beall,2001,4A,FN,Girls
+Bel Air,1975,4A,FN,Girls
+Bel Air,2009,4A,FN,Girls
+Bel Air,2010,4A,FN,Girls
+Bel Air,2018,4A,FN,Girls
+Bel Air,2019,4A,FN,Girls
+Bethesda-Chevy Chase,1976,4A,CH,Girls
+Bethesda-Chevy Chase,1977,4A,CH,Girls
+Bethesda-Chevy Chase,1978,4A,CH,Girls
+Bethesda-Chevy Chase,2002,4A,CH,Girls
+Bethesda-Chevy Chase,2011,4A,CH,Girls
+Bethesda-Chevy Chase,2012,4A,CH,Girls
+Bethesda-Chevy Chase,1979,4A,FN,Girls
+Bethesda-Chevy Chase,2013,4A,FN,Girls
+Bethesda-Chevy Chase,2014,4A,FN,Girls
+Montgomery Blair,1979,4A,FN,Girls
+Bohemia Manor,2008,4A,CH,Girls
+Bohemia Manor,2009,4A,CH,Girls
+Bohemia Manor,2010,4A,CH,Girls
+Bohemia Manor,2011,4A,CH,Girls
+Bohemia Manor,2007,4A,FN,Girls
+Bohemia Manor,2014,4A,FN,Girls
+Boonsboro,1984,4A,CH,Girls
+Boonsboro,1989,4A,CH,Girls
+Boonsboro,1990,4A,CH,Girls
+Boonsboro,1994,4A,CH,Girls
+Boonsboro,1995,4A,CH,Girls
+Boonsboro,2012,4A,CH,Girls
+Boonsboro,2015,4A,CH,Girls
+Boonsboro,2016,4A,CH,Girls
+Boonsboro,2017,4A,CH,Girls
+Boonsboro,2018,4A,CH,Girls
+Boonsboro,1978,4A,FN,Girls
+Boonsboro,1981,4A,FN,Girls
+Boonsboro,1991,4A,FN,Girls
+Boonsboro,1992,4A,FN,Girls
+Boonsboro,1993,4A,FN,Girls
+Boonsboro,2011,4A,FN,Girls
+Bowie,1984,4A,FN,Girls
+Broadneck,2002,4A,CH,Girls
+Broadneck,2003,4A,CH,Girls
+Broadneck,1998,4A,FN,Girls
+Brunswick,1982,4A,CH,Girls
+Brunswick,1983,4A,CH,Girls
+Brunswick,1985,4A,CH,Girls
+Brunswick,1991,4A,CH,Girls
+Brunswick,1992,4A,CH,Girls
+Brunswick,1993,4A,CH,Girls
+Brunswick,1989,4A,FN,Girls
+Brunswick,1990,4A,FN,Girls
+Brunswick,2017,4A,FN,Girls
+Brunswick,2018,4A,FN,Girls
+Brunswick,2019,4A,FN,Girls
+Calvert,2012,4A,CH,Girls
+Cambridge/South Dorchester,2013,4A,CH,Girls
+Catoctin,2016,4A,FN,Girls
+Catonsville,1993,4A,CH,Girls
+Catonsville,1994,4A,FN,Girls
+Catonsville,1996,4A,FN,Girls
+Catonsville,1999,4A,FN,Girls
+Centennial,1990,4A,CH,Girls
+Centennial,2013,4A,CH,Girls
+Centennial,2015,4A,CH,Girls
+Centennial,1987,4A,FN,Girls
+Centennial,2012,4A,FN,Girls
+Century,2009,4A,CH,Girls
+Century,2010,4A,CH,Girls
+Century,2011,4A,CH,Girls
+Century,2005,4A,FN,Girls
+Century,2007,4A,FN,Girls
+Century,2008,4A,FN,Girls
+Century,2015,4A,FN,Girls
+Winston Churchill,1979,4A,CH,Girls
+Winston Churchill,1991,4A,CH,Girls
+Winston Churchill,1977,4A,FN,Girls
+Winston Churchill,1978,4A,FN,Girls
+Winston Churchill,1980,4A,FN,Girls
+Winston Churchill,1985,4A,FN,Girls
+Crossland,1982,4A,CH,Girls
+Crossland,1983,4A,CH,Girls
+Crossland,1981,4A,FN,Girls
+Damascus,1994,4A,CH,Girls
+Damascus,1995,4A,FN,Girls
+Digital Harbor,2005,4A,FN,Girls
+Dulaney,1981,4A,CH,Girls
+Dulaney,1992,4A,CH,Girls
+Dulaney,1994,4A,CH,Girls
+Dulaney,1995,4A,CH,Girls
+Dulaney,1996,4A,CH,Girls
+Dulaney,1997,4A,CH,Girls
+Dulaney,2001,4A,CH,Girls
+Dulaney,1982,4A,FN,Girls
+Dulaney,1993,4A,FN,Girls
+Dulaney,1998,4A,FN,Girls
+Dulaney,1999,4A,FN,Girls
+Dulaney,2000,4A,FN,Girls
+Dulaney,2004,4A,FN,Girls
+Dulaney,2005,4A,FN,Girls
+Dulaney,2006,4A,FN,Girls
+Dulaney,2015,4A,FN,Girls
+Albert Einstein,2014,4A,FN,Girls
+Fallston,1993,4A,FN,Girls
+Frederick,1989,4A,CH,Girls
+Frederick,1995,4A,CH,Girls
+Frederick,1980,4A,FN,Girls
+Frederick,1981,4A,FN,Girls
+Frederick,1988,4A,FN,Girls
+Frederick,1990,4A,FN,Girls
+Frederick,2004,4A,FN,Girls
+Friendly,1976,4A,FN,Girls
+Glenelg,1990,4A,CH,Girls
+Glenelg,2003,4A,CH,Girls
+Glenelg,1983,4A,FN,Girls
+Glenelg,1989,4A,FN,Girls
+Glenelg,1992,4A,FN,Girls
+Glenelg,1998,4A,FN,Girls
+Glenelg,1999,4A,FN,Girls
+Glenelg,2000,4A,FN,Girls
+Glenelg,2001,4A,FN,Girls
+Great Mills,1989,4A,CH,Girls
+Hereford,1978,4A,CH,Girls
+Hereford,1979,4A,CH,Girls
+Hereford,1980,4A,CH,Girls
+Hereford,2004,4A,CH,Girls
+Hereford,2005,4A,CH,Girls
+Hereford,2010,4A,CH,Girls
+Hereford,2011,4A,CH,Girls
+Hereford,2013,4A,CH,Girls
+Hereford,2015,4A,CH,Girls
+Hereford,2016,4A,CH,Girls
+Hereford,2017,4A,CH,Girls
+Hereford,2018,4A,CH,Girls
+Hereford,1984,4A,FN,Girls
+Hereford,1996,4A,FN,Girls
+Hereford,2002,4A,FN,Girls
+Hereford,2003,4A,FN,Girls
+Hereford,2006,4A,FN,Girls
+Hereford,2007,4A,FN,Girls
+Hereford,2008,4A,FN,Girls
+Hereford,2009,4A,FN,Girls
+Hereford,2014,4A,FN,Girls
+Howard,2006,4A,CH,Girls
+Howard,2007,4A,CH,Girls
+Howard,2019,4A,CH,Girls
+Howard,2018,4A,FN,Girls
+Thomas Johnson,2009,4A,FN,Girls
+Walter Johnson,1996,4A,CH,Girls
+Walter Johnson,1997,4A,CH,Girls
+Walter Johnson,1998,4A,CH,Girls
+Walter Johnson,1999,4A,CH,Girls
+Walter Johnson,2013,4A,CH,Girls
+Walter Johnson,2014,4A,CH,Girls
+Walter Johnson,2015,4A,CH,Girls
+Walter Johnson,2016,4A,CH,Girls
+Walter Johnson,2017,4A,CH,Girls
+Walter Johnson,1991,4A,FN,Girls
+Walter Johnson,1992,4A,FN,Girls
+Walter Johnson,1993,4A,FN,Girls
+Walter Johnson,2002,4A,FN,Girls
+John F. Kennedy,1983,4A,CH,Girls
+Francis Scott Key,1994,4A,FN,Girls
+Laurel,1985,4A,CH,Girls
+Laurel,1986,4A,FN,Girls
+Laurel,1987,4A,FN,Girls
+Leonardtown,1989,4A,FN,Girls
+Liberty,2014,4A,CH,Girls
+Liberty,2019,4A,CH,Girls
+Liberty,1990,4A,FN,Girls
+Linganore,1993,4A,CH,Girls
+Linganore,1994,4A,CH,Girls
+Linganore,1995,4A,CH,Girls
+Linganore,2000,4A,FN,Girls
+Loch Raven,2004,4A,CH,Girls
+Loch Raven,1982,4A,FN,Girls
+Loch Raven,1983,4A,FN,Girls
+Loch Raven,1985,4A,FN,Girls
+Loch Raven,1986,4A,FN,Girls
+Loch Raven,1991,4A,FN,Girls
+Loch Raven,2003,4A,FN,Girls
+Loch Raven,2010,4A,FN,Girls
+Manchester Valley,2012,4A,FN,Girls
+McDonough,1981,4A,CH,Girls
+McDonough,1984,4A,FN,Girls
+Middletown,1981,4A,CH,Girls
+Middletown,1991,4A,CH,Girls
+Middletown,1992,4A,CH,Girls
+Middletown,1997,4A,CH,Girls
+Middletown,1998,4A,CH,Girls
+Middletown,1999,4A,CH,Girls
+Middletown,2000,4A,CH,Girls
+Middletown,1980,4A,FN,Girls
+Middletown,1990,4A,FN,Girls
+Middletown,2019,4A,FN,Girls
+Mount Hebron,1997,4A,FN,Girls
+Mount Hebron,1998,4A,FN,Girls
+Mount Hebron,2010,4A,FN,Girls
+North Carroll,1983,4A,CH,Girls
+North Carroll,1984,4A,CH,Girls
+North Carroll,1985,4A,CH,Girls
+North Carroll,1986,4A,CH,Girls
+North Carroll,2000,4A,CH,Girls
+North Carroll,1982,4A,FN,Girls
+North Carroll,1999,4A,FN,Girls
+North Carroll,2001,4A,FN,Girls
+North Hagerstown,1987,4A,CH,Girls
+North Harford,1986,4A,CH,Girls
+Northern-C,2016,4A,CH,Girls
+Northern-C,2017,4A,CH,Girls
+Northern-C,2018,4A,CH,Girls
+Northern-C,2019,4A,CH,Girls
+Northern-C,2015,4A,FN,Girls
+Northern-G,2019,4A,CH,Girls
+Northern-G,2016,4A,FN,Girls
+Northwest,2002,4A,CH,Girls
+Northwest,2003,4A,CH,Girls
+Northwest,2004,4A,FN,Girls
+Northwest,2008,4A,FN,Girls
+Northwest,2010,4A,FN,Girls
+Northwood,1975,4A,CH,Girls
+Northwood,1977,4A,CH,Girls
+Northwood,1978,4A,CH,Girls
+Northwood,1976,4A,FN,Girls
+Oakdale,2018,4A,FN,Girls
+Oakland Mills,1995,4A,FN,Girls
+Oakland Mills,2012,4A,FN,Girls
+Oxon Hill,1977,4A,FN,Girls
+Perry Hall,1993,4A,CH,Girls
+Poolesville,2013,4A,FN,Girls
+Quince Orchard,2001,4A,CH,Girls
+Quince Orchard,1991,4A,FN,Girls
+Quince Orchard,1992,4A,FN,Girls
+Quince Orchard,1994,4A,FN,Girls
+Quince Orchard,1996,4A,FN,Girls
+Quince Orchard,2012,4A,FN,Girls
+Reservoir,2012,4A,CH,Girls
+River Hill,2007,4A,CH,Girls
+River Hill,2008,4A,CH,Girls
+River Hill,2009,4A,CH,Girls
+River Hill,2014,4A,CH,Girls
+River Hill,2000,4A,FN,Girls
+River Hill,2005,4A,FN,Girls
+River Hill,2006,4A,FN,Girls
+River Hill,2011,4A,FN,Girls
+River Hill,2013,4A,FN,Girls
+River Hill,2016,4A,FN,Girls
+River Hill,2017,4A,FN,Girls
+Rockville,1980,4A,FN,Girls
+Eleanor Roosevelt,1986,4A,CH,Girls
+Eleanor Roosevelt,1988,4A,CH,Girls
+Eleanor Roosevelt,2004,4A,CH,Girls
+Eleanor Roosevelt,2005,4A,CH,Girls
+Eleanor Roosevelt,2006,4A,CH,Girls
+Eleanor Roosevelt,1978,4A,FN,Girls
+Eleanor Roosevelt,1987,4A,FN,Girls
+Eleanor Roosevelt,2003,4A,FN,Girls
+Eleanor Roosevelt,2007,4A,FN,Girls
+Severna Park,1987,4A,CH,Girls
+Severna Park,1998,4A,CH,Girls
+Severna Park,2005,4A,CH,Girls
+Severna Park,2006,4A,CH,Girls
+Severna Park,2009,4A,CH,Girls
+Severna Park,2018,4A,CH,Girls
+Severna Park,1997,4A,FN,Girls
+Severna Park,2017,4A,FN,Girls
+Severna Park,2019,4A,FN,Girls
+Sherwood,1979,4A,FN,Girls
+Smithsburg,1978,4A,CH,Girls
+Smithsburg,2000,4A,CH,Girls
+Smithsburg,2001,4A,CH,Girls
+Smithsburg,2006,4A,CH,Girls
+Smithsburg,2014,4A,CH,Girls
+Smithsburg,1979,4A,FN,Girls
+Smithsburg,1984,4A,FN,Girls
+Smithsburg,1985,4A,FN,Girls
+Smithsburg,2009,4A,FN,Girls
+Smithsburg,2013,4A,FN,Girls
+Smithsburg,2015,4A,FN,Girls
+South Carroll,2007,4A,CH,Girls
+South Carroll,2008,4A,FN,Girls
+South Carroll,2011,4A,FN,Girls
+Southern (G),1996,4A,CH,Girls
+Southern (G),1999,4A,CH,Girls
+Southern (G),1995,4A,FN,Girls
+Southern (G),1997,4A,FN,Girls
+Southern (G),2002,4A,FN,Girls
+Towson,1980,4A,CH,Girls
+Towson,1982,4A,CH,Girls
+Towson,1984,4A,CH,Girls
+Towson,2001,4A,CH,Girls
+Towson,2008,4A,CH,Girls
+Towson,1981,4A,FN,Girls
+Walkersville,1982,4A,FN,Girls
+Walkersville,1983,4A,FN,Girls
+Westminster,1984,4A,CH,Girls
+Westminster,1983,4A,FN,Girls
+Walt Whitman,1990,4A,CH,Girls
+Walt Whitman,1991,4A,CH,Girls
+Walt Whitman,1992,4A,CH,Girls
+Walt Whitman,2010,4A,CH,Girls
+Walt Whitman,1988,4A,FN,Girls
+Walt Whitman,1989,4A,FN,Girls
+Walt Whitman,1995,4A,FN,Girls
+Walt Whitman,2011,4A,FN,Girls
+Wilde Lake,1996,4A,CH,Girls
+Wilde Lake,1997,4A,FN,Girls
+Williamsport,1979,4A,CH,Girls
+Williamsport,1980,4A,CH,Girls
+Williamsport,1981,4A,CH,Girls
+Williamsport,1982,4A,CH,Girls
+Williamsport,2002,4A,CH,Girls
+Williamsport,2003,4A,CH,Girls
+Williamsport,2005,4A,CH,Girls
+Williamsport,1978,4A,FN,Girls
+Williamsport,2004,4A,FN,Girls
+Williamsport,2006,4A,FN,Girls
+Winters Mill,2004,4A,FN,Girls
+Charles W. Woodward,1985,4A,CH,Girls
+Thomas S. Wootton,2016,4A,FN,Girls
+C. Milton Wright,1988,4A,CH,Girls
+C. Milton Wright,1999,4A,CH,Girls
+C. Milton Wright,2000,4A,CH,Girls
+C. Milton Wright,2004,4A,CH,Girls
+C. Milton Wright,2007,4A,CH,Girls
+C. Milton Wright,2008,4A,CH,Girls
+C. Milton Wright,1985,4A,FN,Girls
+C. Milton Wright,1994,4A,FN,Girls
+C. Milton Wright,1996,4A,FN,Girls
+C. Milton Wright,2001,4A,FN,Girls
+C. Milton Wright,2002,4A,FN,Girls
+C. Milton Wright,2003,4A,FN,Girls
+C. Milton Wright,201,4A,FN,Girls
+Allegany,1970,4A,CH,Boys
+Allegany,1993,4A,CH,Boys
+Allegany,2009,4A,FN,Boys
+Atholton,1967,4A,CH,Boys
+Atholton,1989,4A,CH,Boys
+Atholton,2008,4A,CH,Boys
+Atholton,1979,4A,FN,Boys
+Atholton,1982,4A,FN,Boys
+Atholton,1983,4A,FN,Boys
+Atholton,1986,4A,FN,Boys
+Atholton,1997,4A,FN,Boys
+Atholton,2003,4A,FN,Boys
+Atholton,2004,4A,FN,Boys
+Atholton,2005,4A,FN,Boys
+Atholton,2006,4A,FN,Boys
+Atholton,2014,4A,FN,Boys
+Atholton,2015,4A,FN,Boys
+Bethesda-Chevy Chase,1969,4A,CH,Boys
+Bethesda-Chevy Chase,1971,4A,CH,Boys
+Bethesda-Chevy Chase,1973,4A,CH,Boys
+Bethesda-Chevy Chase,2007,4A,CH,Boys
+Bethesda-Chevy Chase,1961,4A,FN,Boys
+Bethesda-Chevy Chase,1966,4A,FN,Boys
+Bethesda-Chevy Chase,1985,4A,FN,Boys
+Beall,1974,4A,CH,Boys
+Beall,1980,4A,CH,Boys
+Beall,1981,4A,CH,Boys
+Beall,2003,4A,CH,Boys
+Beall,2004,4A,CH,Boys
+Beall,2005,4A,CH,Boys
+Beall,1960,4A,FN,Boys
+Beall,1972,4A,FN,Boys
+Beall,1975,4A,FN,Boys
+Beall,1983,4A,FN,Boys
+Beall,2002,4A,FN,Boys
+Bel Air,1947,4A,CH,Boys
+Bel Air,1948,4A,CH,Boys
+Bel Air,1960,4A,CH,Boys
+Bel Air,1963,4A,CH,Boys
+Bel Air,1946,4A,FN,Boys
+Bel Air,2006,4A,FN,Boys
+Bel Air,2008,4A,FN,Boys
+Montgomery Blair,1963,4A,CH,Boys
+Montgomery Blair,1956,4A,FN,Boys
+Bohemia Manor,2008,4A,CH,Boys
+Bohemia Manor,2009,4A,CH,Boys
+Bohemia Manor,2011,4A,CH,Boys
+Bohemia Manor,2016,4A,CH,Boys
+Bohemia Manor,2017,4A,CH,Boys
+Bohemia Manor,2012,4A,FN,Boys
+Bohemia Manor,2014,4A,FN,Boys
+Bohemia Manor,2018,4A,FN,Boys
+Boonsboro,2012,4A,CH,Boys
+Boonsboro,2015,4A,CH,Boys
+Boonsboro,2018,4A,CH,Boys
+Boonsboro,1968,4A,FN,Boys
+Boonsboro,1978,4A,FN,Boys
+Boonsboro,1981,4A,FN,Boys
+Boonsboro,1984,4A,FN,Boys
+Boonsboro,1990,4A,FN,Boys
+Boonsboro,1996,4A,FN,Boys
+Bowie,1984,4A,CH,Boys
+Broadneck,1984,4A,CH,Boys
+Broadneck,2004,4A,CH,Boys
+Broadneck,2005,4A,CH,Boys
+Broadneck,1990,4A,FN,Boys
+Broadneck,2000,4A,FN,Boys
+Broadneck,2002,4A,FN,Boys
+Brooklyn Park,1964,4A,CH,Boys
+Brooklyn Park,1961,4A,FN,Boys
+Brooklyn Park,1962,4A,FN,Boys
+Brunswick,1946,4A,CH,Boys
+Brunswick,1947,4A,CH,Boys
+Brunswick,1948,4A,CH,Boys
+Brunswick,1965,4A,CH,Boys
+Brunswick,1966,4A,CH,Boys
+Brunswick,1989,4A,CH,Boys
+Brunswick,1967,4A,FN,Boys
+Calvert,2017,4A,FN,Boys
+Catoctin,2010,4A,CH,Boys
+Catoctin,2012,4A,CH,Boys
+Catoctin,2013,4A,CH,Boys
+Catoctin,2014,4A,CH,Boys
+Catoctin,1976,4A,FN,Boys
+Catonsville,1946,4A,CH,Boys
+Catonsville,1959,4A,CH,Boys
+Catonsville,1960,4A,CH,Boys
+Catonsville,1964,4A,CH,Boys
+Catonsville,1947,4A,FN,Boys
+Centennial,1978,4A,CH,Boys
+Centennial,1980,4A,CH,Boys
+Centennial,1993,4A,CH,Boys
+Centennial,2018,4A,CH,Boys
+Centennial,1988,4A,FN,Boys
+Centennial,1989,4A,FN,Boys
+Centennial,1994,4A,FN,Boys
+Centennial,2001,4A,FN,Boys
+Centennial,2002,4A,FN,Boys
+Centennial,2017,4A,FN,Boys
+Centennial,2019,4A,FN,Boys
+Central Consolidated,1961,4A,CH,Boys
+Central Consolidated,1960,4A,FN,Boys
+Central Consolidated,1963,4A,FN,Boys
+Central (PG),1965,4A,CH,Boys
+Central (PG),1966,4A,CH,Boys
+Central (PG),1969,4A,CH,Boys
+Central (PG),1968,4A,FN,Boys
+Centreville,1956,4A,CH,Boys
+Century,2016,4A,FN,Boys
+Winston Churchill,1968,4A,CH,Boys
+Winston Churchill,1975,4A,CH,Boys
+Winston Churchill,1977,4A,CH,Boys
+Winston Churchill,1978,4A,CH,Boys
+Winston Churchill,1967,4A,FN,Boys
+Winston Churchill,2009,4A,FN,Boys
+Winston Churchill,2010,4A,FN,Boys
+Clear Spring,2005,4A,CH,Boys
+Clear Spring,2006,4A,CH,Boys
+Damascus,1961,4A,CH,Boys
+Damascus,1965,4A,CH,Boys
+Damascus,2009,4A,CH,Boys
+Damascus,1960,4A,FN,Boys
+Damascus,1995,4A,FN,Boys
+Damascus,1996,4A,FN,Boys
+Douglass (PG),1970,4A,FN,Boys
+Dulaney,1968,4A,CH,Boys
+Dulaney,1979,4A,CH,Boys
+Dulaney,1980,4A,CH,Boys
+Dulaney,1981,4A,CH,Boys
+Dulaney,1983,4A,CH,Boys
+Dulaney,2015,4A,CH,Boys
+Dulaney,2016,4A,CH,Boys
+Dulaney,1967,4A,FN,Boys
+Dulaney,1982,4A,FN,Boys
+Dulaney,2001,4A,FN,Boys
+Dulaney,2013,4A,FN,Boys
+Dulaney,2014,4A,FN,Boys
+Dulaney,2017,4A,FN,Boys
+Dundalk,1946,4A,CH,Boys
+Dundalk,1961,4A,CH,Boys
+Dundalk,1948,4A,FN,Boys
+Dundalk,1949,4A,FN,Boys
+Dundalk,1960,4A,FN,Boys
+Dundalk,1963,4A,FN,Boys
+Dundalk,1964,4A,FN,Boys
+Duval,1972,4A,CH,Boys
+Duval,1971,4A,FN,Boys
+Easton,1992,4A,FN,Boys
+Easton,1993,4A,FN,Boys
+Albert Einstein,1971,4A,FN,Boys
+Albert Einstein,1980,4A,FN,Boys
+Albert Einstein,1985,4A,FN,Boys
+Albert Einstein,2010,4A,FN,Boys
+Elkridge,1948,4A,CH,Boys
+Elkridge,1949,4A,CH,Boys
+Fairmont Heights,1979,4A,CH,Boys
+Fairmont Heights,1960,4A,FN,Boys
+Fallston,1981,4A,CH,Boys
+Fallston,1980,4A,FN,Boys
+Fort Hill,1995,4A,CH,Boys
+Fort Hill,1997,4A,CH,Boys
+Fort Hill,1964,4A,FN,Boys
+Franklin,1963,4A,FN,Boys
+Friendly,1976,4A,CH,Boys
+Friendly,1977,4A,FN,Boys
+Friendly,1980,4A,FN,Boys
+Gaithersburg,1961,4A,CH,Boys
+Gaithersburg,1971,4A,CH,Boys
+Gaithersburg,2000,4A,CH,Boys
+Gaithersburg,1965,4A,FN,Boys
+Gaithersburg,1970,4A,FN,Boys
+Gaithersburg,1973,4A,FN,Boys
+Gaithersburg,2001,4A,FN,Boys
+Gaithersburg,2004,4A,FN,Boys
+Glenelg,1983,4A,CH,Boys
+Glenelg,1991,4A,CH,Boys
+Glenelg,2001,4A,CH,Boys
+Glenelg,2002,4A,CH,Boys
+Glenelg,2007,4A,CH,Boys
+Glenelg,1987,4A,FN,Boys
+Glenelg,1990,4A,FN,Boys
+Glenelg,1999,4A,FN,Boys
+Glenelg,2000,4A,FN,Boys
+Glenelg,2009,4A,FN,Boys
+Glenelg,2010,4A,FN,Boys
+Hagerstown,1947,4A,CH,Boys
+Hagerstown,1948,4A,CH,Boys
+Hagerstown,1949,4A,CH,Boys
+Hammond,1982,4A,FN,Boys
+Havre de Grace,1979,4A,FN,Boys
+Havre de Grace Consolidated,1960,4A,CH,Boys
+Hereford,1957,4A,CH,Boys
+Hereford,1958,4A,CH,Boys
+Hereford,1959,4A,CH,Boys
+Hereford,1960,4A,CH,Boys
+Hereford,1962,4A,CH,Boys
+Hereford,1968,4A,CH,Boys
+Hereford,1970,4A,CH,Boys
+Hereford,1971,4A,CH,Boys
+Hereford,1974,4A,CH,Boys
+Hereford,1976,4A,CH,Boys
+Hereford,1977,4A,CH,Boys
+Hereford,1978,4A,CH,Boys
+Hereford,2010,4A,CH,Boys
+Hereford,2011,4A,CH,Boys
+Hereford,2012,4A,CH,Boys
+Hereford,1961,4A,FN,Boys
+Hereford,1969,4A,FN,Boys
+Hereford,1975,4A,FN,Boys
+Hereford,1992,4A,FN,Boys
+Hereford,1995,4A,FN,Boys
+High Point,1977,4A,FN,Boys
+High Point,1978,4A,FN,Boys
+High Point,1979,4A,FN,Boys
+Howard,1966,4A,FN,Boys
+Howard,1977,4A,FN,Boys
+Thomas Johnson,2013,4A,CH,Boys
+Thomas Johnson,2012,4A,FN,Boys
+Walter Johnson,2008,4A,CH,Boys
+Walter Johnson,2009,4A,CH,Boys
+Walter Johnson,2010,4A,CH,Boys
+Walter Johnson,2011,4A,CH,Boys
+Walter Johnson,1991,4A,FN,Boys
+Walter Johnson,2003,4A,FN,Boys
+Walter Johnson,2012,4A,FN,Boys
+Joppatowne,1991,4A,CH,Boys
+Joppatowne,1992,4A,CH,Boys
+John F. Kennedy,1974,4A,CH,Boys
+Kenwood,1956,4A,CH,Boys
+Kenwood,1958,4A,CH,Boys
+Kenwood,1962,4A,CH,Boys
+Kenwood,1967,4A,CH,Boys
+Kenwood,1959,4A,FN,Boys
+Kenwood,1976,4A,FN,Boys
+Francis Scott Key,1990,4A,CH,Boys
+Francis Scott Key,2006,4A,CH,Boys
+Francis Scott Key,1970,4A,FN,Boys
+Francis Scott Key,1985,4A,FN,Boys
+Francis Scott Key,1991,4A,FN,Boys
+Francis Scott Key,2007,4A,FN,Boys
+Laurel,1987,4A,FN,Boys
+Leonardtown,1961,4A,FN,Boys
+Liberty,2003,4A,CH,Boys
+Liberty,2004,4A,CH,Boys
+Liberty,2005,4A,CH,Boys
+Liberty,2015,4A,CH,Boys
+Liberty,2016,4A,CH,Boys
+Liberty,2017,4A,CH,Boys
+Liberty,2018,4A,CH,Boys
+Liberty,1984,4A,FN,Boys
+Liberty,1985,4A,FN,Boys
+Liberty,1994,4A,FN,Boys
+Liberty,2014,4A,FN,Boys
+Liberty,2019,4A,FN,Boys
+Linganore,1967,4A,CH,Boys
+Linganore,1996,4A,CH,Boys
+Linganore,2017,4A,CH,Boys
+Linganore,1997,4A,FN,Boys
+Linganore,1999,4A,FN,Boys
+Linganore,2011,4A,FN,Boys
+Linganore,2016,4A,FN,Boys
+Linganore,2018,4A,FN,Boys
+Loch Raven,1976,4A,CH,Boys
+Loch Raven,1981,4A,CH,Boys
+Loch Raven,1983,4A,CH,Boys
+Loch Raven,1990,4A,CH,Boys
+Loch Raven,2002,4A,CH,Boys
+Loch Raven,1982,4A,FN,Boys
+Loch Raven,1986,4A,FN,Boys
+Loch Raven,1988,4A,FN,Boys
+Loch Raven,1989,4A,FN,Boys
+Loch Raven,2001,4A,FN,Boys
+Col. Zadok Magruder,1973,4A,FN,Boys
+Col. Zadok Magruder,1975,4A,FN,Boys
+Middletown,1970,4A,CH,Boys
+Middletown,1972,4A,CH,Boys
+Middletown,1973,4A,CH,Boys
+Middletown,1976,4A,CH,Boys
+Middletown,1979,4A,CH,Boys
+Middletown,1982,4A,CH,Boys
+Middletown,1983,4A,CH,Boys
+Middletown,1984,4A,CH,Boys
+Middletown,1963,4A,FN,Boys
+Middletown,1964,4A,FN,Boys
+Middletown,1966,4A,FN,Boys
+Middletown,1969,4A,FN,Boys
+Middletown,1971,4A,FN,Boys
+Middletown,1977,4A,FN,Boys
+Middletown,1980,4A,FN,Boys
+Middletown,1996,4A,FN,Boys
+Middletown,2000,4A,FN,Boys
+Milford Mill,1953,4A,FN,Boys
+Milford Mill,1989,4A,FN,Boys
+Richard Montgomery,1975,4A,CH,Boys
+Richard Montgomery,1980,4A,CH,Boys
+Richard Montgomery,1990,4A,CH,Boys
+Richard Montgomery,1995,4A,CH,Boys
+Richard Montgomery,1979,4A,FN,Boys
+Richard Montgomery,1981,4A,FN,Boys
+Mount Hebron,1969,4A,CH,Boys
+Mount Hebron,2008,4A,CH,Boys
+Mount Hebron,2013,4A,FN,Boys
+North Carroll,1985,4A,CH,Boys
+North Carroll,1988,4A,CH,Boys
+North Carroll,2011,4A,FN,Boys
+North Dorchester,1985,4A,CH,Boys
+North Hagerstown,1972,4A,CH,Boys
+North Hagerstown,1998,4A,SF,Boys
+North Harford,1969,4A,CH,Boys
+North Harford,1982,4A,CH,Boys
+North Harford,1981,4A,SF,Boys
+Northern (G),2006,4A,FN,Boys
+Northwest,2001,4A,CH,Boys
+Northwest,2002,4A,CH,Boys
+Northwest,2004,4A,FN,Boys
+Northwest,2007,4A,FN,Boys
+Northwestern-PG,1973,4A,CH,Boys
+Northwestern-PG,1972,4A,FN,Boys
+Northwood,1962,4A,FN,Boys
+Northwood,2018,4A,FN,Boys
+Northwood,2019,4A,FN,Boys
+Oakdale,2019,4A,CH,Boys
+Oakland Mills,1975,4A,CH,Boys
+Oakland Mills,1984,4A,CH,Boys
+Oakland Mills,1985,4A,CH,Boys
+Oakland Mills,1986,4A,CH,Boys
+Oakland Mills,1987,4A,CH,Boys
+Oakland Mills,1988,4A,CH,Boys
+Oakland Mills,1989,4A,CH,Boys
+Oakland Mills,1992,4A,CH,Boys
+Oakland Mills,1994,4A,CH,Boys
+Oakland Mills,1999,4A,CH,Boys
+Oakland Mills,2000,4A,CH,Boys
+Oakland Mills,2001,4A,CH,Boys
+Oakland Mills,1973,4A,FN,Boys
+Oakland Mills,1974,4A,FN,Boys
+Oakland Mills,1976,4A,FN,Boys
+Oakland Mills,1990,4A,FN,Boys
+Oakland Mills,1991,4A,FN,Boys
+Oakland Mills,1993,4A,FN,Boys
+Oakland Mills,1997,4A,FN,Boys
+Oakland Mills,2003,4A,FN,Boys
+Oakland Mills,2004,4A,FN,Boys
+Oakland Mills,2015,4A,FN,Boys
+Ocean City,1952,4A,CH,Boys
+Ocean City,1955,4A,CH,Boys
+Old Post,1947,4A,CH,Boys
+Old Post,1948,4A,FN,Boys
+Paint Branch,1973,4A,FN,Boys
+Paint Branch,1974,4A,FN,Boys
+Parkville,1986,4A,CH,Boys
+Patterson Mill,2010,4A,FN,Boys
+Robert E. Peary,1982,4A,CH,Boys
+Robert E. Peary,1983,4A,FN,Boys
+Perry Hall,1987,4A,CH,Boys
+Perry Hall,1994,4A,FN,Boys
+Perryville,2013,4A,CH,Boys
+Pittsville,1946,4A,CH,Boys
+Pittsville,1949,4A,CH,Boys
+Pittsville,1947,4A,FN,Boys
+Poolesville,1964,4A,CH,Boys
+Poolesville,1966,4A,CH,Boys
+Poolesville,1965,4A,FN,Boys
+Poolesville,1967,4A,FN,Boys
+Poolesville,2013,4A,FN,Boys
+Quince Orchard,1992,4A,CH,Boys
+Quince Orchard,1993,4A,CH,Boys
+Quince Orchard,1994,4A,CH,Boys
+Quince Orchard,2006,4A,CH,Boys
+Quince Orchard,2007,4A,CH,Boys
+Quince Orchard,1991,4A,FN,Boys
+Quince Orchard,2009,4A,FN,Boys
+River Hill,1998,4A,CH,Boys
+River Hill,1999,4A,CH,Boys
+River Hill,2004,4A,CH,Boys
+River Hill,2007,4A,CH,Boys
+River Hill,2014,4A,CH,Boys
+River Hill,2015,4A,CH,Boys
+River Hill,2016,4A,CH,Boys
+River Hill,2019,4A,CH,Boys
+River Hill,2000,4A,FN,Boys
+River Hill,2003,4A,FN,Boys
+River Hill,2008,4A,FN,Boys
+River Hill,2018,4A,FN,Boys
+Rockville,1985,4A,CH,Boys
+Rockville,1984,4A,FN,Boys
+Eleanor Roosevelt,1984,4A,FN,Boys
+Eleanor Roosevelt,1986,4A,FN,Boys
+St. Michaels,1965,4A,FN,Boys
+Seneca Valley,1977,4A,CH,Boys
+Seneca Valley,1994,4A,CH,Boys
+Seneca Valley,1978,4A,FN,Boys
+Seneca Valley,1981,4A,FN,Boys
+Severna Park,2012,4A,CH,Boys
+Severna Park,2013,4A,CH,Boys
+Severna Park,2014,4A,CH,Boys
+Severna Park,2017,4A,CH,Boys
+Severna Park,2018,4A,CH,Boys
+Severna Park,2019,4A,CH,Boys
+Severna Park,1987,4A,FN,Boys
+Severna Park,1989,4A,FN,Boys
+Severna Park,1999,4A,FN,Boys
+Severna Park,2008,4A,FN,Boys
+Severna Park,2011,4A,FN,Boys
+Severna Park,2015,4A,FN,Boys
+Severna Park,2016,4A,FN,Boys
+Sherwood,1979,4A,CH,Boys
+Sherwood,2003,4A,CH,Boys
+Sherwood,2005,4A,FN,Boys
+Sherwood,2006,4A,FN,Boys
+Smithsburg,1977,4A,CH,Boys
+Smithsburg,2015,4A,FN,Boys
+Smithsburg,2019,4A,FN,Boys
+Somerset,1964,4A,CH,Boys
+Somerset,1965,4A,CH,Boys
+Somerset,1967,4A,CH,Boys
+Somerset,1968,4A,CH,Boys
+Somerset,1962,4A,FN,Boys
+Somerset,1966,4A,FN,Boys
+South Carroll,1997,4A,CH,Boys
+South Carroll,1998,4A,CH,Boys
+South Carroll,2000,4A,CH,Boys
+South Carroll,1999,4A,FN,Boys
+South Carroll,2007,4A,FN,Boys
+South Carroll,2008,4A,FN,Boys
+South Dorchester,1958,4A,CH,Boys
+South Dorchester,1959,4A,CH,Boys
+Southern (G),1993,4A,CH,Boys
+Southern (G),1994,4A,CH,Boys
+Southern (G),1995,4A,CH,Boys
+Southern (G),1996,4A,CH,Boys
+Southern (G),1997,4A,CH,Boys
+Southern (G),2014,4A,CH,Boys
+Southern (G),1998,4A,FN,Boys
+Southern (G),2013,4A,FN,Boys
+Southern (G),2016,4A,FN,Boys
+Southern (G),2017,4A,FN,Boys
+Sparrows Point,1973,4A,CH,Boys
+Sparrows Point,1972,4A,FN,Boys
+Springbrook,1962,4A,CH,Boys
+Springbrook,1965,4A,FN,Boys
+Springbrook,1968,4A,FN,Boys
+Springbrook,1975,4A,FN,Boys
+Surrattsville,1969,4A,FN,Boys
+Surrattsville,1974,4A,FN,Boys
+Sykesville,1963,4A,CH,Boys
+Sykesville,1962,4A,FN,Boys
+Towson,1952,4A,CH,Boys
+Towson,1953,4A,CH,Boys
+Towson,1955,4A,CH,Boys
+Towson,1974,4A,CH,Boys
+Towson,1987,4A,CH,Boys
+Towson,1970,4A,FN,Boys
+Harriet Tubman,1962,4A,CH,Boys
+Harriet Tubman,1963,4A,CH,Boys
+Harriet Tubman,1959,4A,FN,Boys
+Harriet Tubman,1964,4A,FN,Boys
+Urbana,1999,4A,CH,Boys
+Urbana,2000,4A,CH,Boys
+Urbana,2003,4A,CH,Boys
+Urbana,2002,4A,FN,Boys
+Urbana,2005,4A,FN,Boys
+Washington,1949,4A,FN,Boys
+Westmar,1998,4A,CH,Boys
+Westminster,1982,4A,CH,Boys
+Westminster,1989,4A,CH,Boys
+Westminster,1991,4A,CH,Boys
+Westminster,1996,4A,CH,Boys
+Westminster,1997,4A,CH,Boys
+Westminster,1998,4A,CH,Boys
+Westminster,1999,4A,CH,Boys
+Westminster,1976,4A,FN,Boys
+Westminster,1988,4A,FN,Boys
+Westminster,1992,4A,FN,Boys
+Westminster,1993,4A,FN,Boys
+Westminster,1995,4A,FN,Boys
+Wheaton,1965,4A,CH,Boys
+Wheaton,1966,4A,CH,Boys
+Walt Whitman,1970,4A,CH,Boys
+Walt Whitman,1986,4A,CH,Boys
+Walt Whitman,1988,4A,CH,Boys
+Walt Whitman,1990,4A,CH,Boys
+Walt Whitman,1991,4A,CH,Boys
+Walt Whitman,1992,4A,CH,Boys
+Walt Whitman,1995,4A,CH,Boys
+Walt Whitman,1969,4A,FN,Boys
+Walt Whitman,1974,4A,FN,Boys
+Walt Whitman,1983,4A,FN,Boys
+Walt Whitman,1996,4A,FN,Boys
+Walt Whitman,1997,4A,FN,Boys
+Walt Whitman,1998,4A,FN,Boys
+Wilde Lake,1971,4A,CH,Boys
+Wilde Lake,1996,4A,CH,Boys
+Wilde Lake,2005,4A,CH,Boys
+Wilde Lake,2006,4A,CH,Boys
+Wilde Lake,1994,4A,FN,Boys
+Wilde Lake,1995,4A,FN,Boys
+Wilde Lake,2007,4A,FN,Boys
+Williamsport,1972,4A,CH,Boys
+Williamsport,1975,4A,CH,Boys
+Williamsport,2019,4A,CH,Boys
+Williamsport,1971,4A,FN,Boys
+Williamsport,1978,4A,FN,Boys
+Williamsport,2011,4A,FN,Boys
+Williamsport,2012,4A,FN,Boys
+Winters Mill,2009,4A,CH,Boys
+Winters Mill,2010,4A,CH,Boys
+Winters Mill,2011,4A,CH,Boys
+Woodson,1968,4A,FN,Boys
+Charles W. Woodward,1972,4A,FN,Boys
+Thomas S. Wootton,1978,4A,CH,Boys
+C. Milton Wright,2001,4A,CH,Boys
+C. Milton Wright,2002,4A,CH,Boys
+C. Milton Wright,1992,4A,FN,Boys
+C. Milton Wright,1993,4A,FN,Boys
+C. Milton Wright,1998,4A,FN,Boys
