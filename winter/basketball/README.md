@@ -4,50 +4,50 @@ editor_options:
     wrap: 72
 ---
 
-# Maryland High School Sports Championship Records Dataset - SOFTBALL
+# Maryland High School Sports Championship Records Dataset - BASKETBALL
 
 ## Introduction
 
 This repository contains historical championship and record data for
 Maryland high school sports, compiled from Maryland Public Secondary
 Schools Athletic Association (MPSSAA) records. Included in this folder
-are data for softball, both team and individual from 1976-2023.
+are data for basketball, both team and individual, from 1927-2023.
 
 **Contents**
 
 The dataset `championships.csv` contains the following columns:
 
-[Class:]{.underline} The Division that a school was in during the year
-that their data was recorded. The MPSSAA has gone through multiple
-periods of time where they have shuffled the names of classes (ie. AA
-turns into 1A) or have shifted teams between classes.
+[Team:]{.underline} The name of the school.
 
 [Year:]{.underline} The time window in which a team recorded a data
 point.
 
-[Team:]{.underline} The name of the school.
+[Final Standing:]{.underline} The end-of-season status of a team - which
+game they won. Either champion, finalist, or semifinalist.
 
-[Final_Score:]{.underline} The final score of the given game that the
-team played in. If the game ended after an abnormal number of innings,
-it will be listed in parentheses (the normal game is 7 innings). Common
-cases are extra innings or mercy rules. Only teams who won a
-championship have their final score listed. Others will be listed NA.
+[Gender]{.underline}: Either boys or girls.
+
+[Final Score:]{.underline} The final score of the given game that the
+team played in. If the game ended after an abnormal time, it will be
+listed in parentheses, ie. OT for overtime.
 
 [Coach:]{.underline} The Head Coach(es) of the given school during their
 data point. Only teams who won a championship have their champion coach
 listed. Others will be listed NA.
 
-[Final Standing:]{.underline} The end-of-season status of a team - which
-game they won. Either champion, finalist, or semifinalist.
-
-[Gender]{.underline}
-
-[Sport]{.underline}
+[Class:]{.underline} The Division that a school was in during the year
+that their data was recorded. The MPSSAA has gone through multiple
+periods of time where they have shuffled the names of classes (ie. AA
+turns into 1A) or have shifted teams between classes. There were also
+times in the earlier years of this data where there were segregated
+tournaments.
 
 The dataset `individuals.csv` contains the following columns:
 
 [Category:]{.underline} The type of record/award that a player or team
 set/achieved.
+
+[Gender:]{.underline} Either boys or girls.
 
 [Number/Record:]{.underline} The value, score or count of the
 record/award.
@@ -56,25 +56,38 @@ record/award.
 
 [School:]{.underline} The school of the record holding player.
 
-[Year(s):]{.underline} The year or years during which a player set the
-record.
+[Year:]{.underline} The year during which a player set the record.
 
-[Gender]{.underline}
+[Game:]{.underline} The game in which the record was achieved (ie.
+semifinal).
 
-There are two parts to this set: State Tournament Records and
-Career/Season Records. Career/Season records includes pitching and
-offense.
+[Game 1 Number:]{.underline} If a record was set across two games, the
+value, score, or total achieved in the first game.
+
+[Game 1 Opponent:]{.underline} If a record was set across two games, the
+opponent in the first game.
+
+[Game 2 Number:]{.underline} If a record was set across two games, the
+value, score, or total achieved in the second game.
+
+[Game 2 Opponent:]{.underline} If a record was set across two games, the
+opponent in the second game.
+
+There are many parts to this set: 32-Plus Point Scorers (Girls), 34-Plus
+Point Scorers (Boys), Individual Tournament Records, Team Tournament
+Records, Facts (additional info, in text), Mildred Haney Murray
+Sportsmanship Award (Girls), Jack Willard Sportsmanship Award (Boys).
 
 ## Methodology
 
 ### Data Collection/Organization
 
 The MPSSAA spring record book keeps all team/individual records and
-history for spring sports. The original pdf file on their website can be
+history for winter sports. The original pdf file on their website can be
 found [here](https://content.mpssaa.org/view/882333632/). I used the
 ChatGPT 4o AI model to convert this data from the pdf to a digital
 spreadsheet format. I then took the spring record book file and selected
-only the softball pages, then downoaded attached those pages as pdf
+only the basketball pages, then downloaded attached those pages as pdf
 files to give to ChatGPT. I then told the machine to create a
 spreadsheet file with the column names that I desire, and gave an
 example of how I wanted it to look. The machine was then able to go
@@ -87,15 +100,16 @@ final standings (semifinalist, finalist, champion). I had to merge these
 two sets together through R studio. The R software helped pick out
 matches in the two sets and merge them while eliminating duplicates.
 
-### Caveats 
+### Caveats
 
 `championships.csv`:
 
 As mentioned in the "Contents" section, there is no data for the final
-score, coach, or class for teams who were not champions in a given year
-(ie. finalists/semifinalists). There is possibility of an assumption to
-be made for a team if we can see from their champion record that they
-were in a certain class, but it does not apply to all of the data.
+score, coach, or class for most teams who were not champions in a given
+year (ie. finalists/semifinalists). There is possibility of an
+assumption to be made for a team if we can see from their champion
+record that they were in a certain class, but it does not apply to all
+of the data.
 
 When merging the two data sets (as mentioned in "Data Collection"),
 there were some problems in matching observations, specifically with the
@@ -107,7 +121,7 @@ standing twice under different names.
 
 `individuals.csv`:
 
-Since there are many different categories within the individual data, it
-is more difficult to perform analysis and compare the data; for example,
-one record may include the highest number of innings in a game, whereas
-another record may include the best pitching ERA.
+This is a much messier sheet of data. There are parts coming from the
+original MPSSAA file that were simply hard to organize into cells and
+categories because there are so many different records, and also some
+side notes like the "Facts" section.
