@@ -7,16 +7,16 @@ This repository contains historical championship data for Maryland high school s
 
 The dataset `championships.csv` contains the following columns:
 
-year: year of the tournament	
-sport: the sport played, which is soccer in this file	
-gender: girls or boys
-class: the schools are divided by class, so there are tournaments for each class
-champion: the winner of the championship game
-coach: the champion team's coach
-finalist: the second place team who lost the championship game
-opponent_coach: the finalist's coach
-team_score: the winning team's final score
-opponent_score: the finalist's final score
+year: year of the tournament,	
+sport: the sport played, which is soccer in this file,	
+gender: girls or boys,
+class: the schools are divided by class, so there are tournaments for each class,
+champion: the winner of the championship game,
+coach: the champion team's coach,
+finalist: the second place team who lost the championship game,
+opponent_coach: the finalist's coach,
+team_score: the winning team's final score,
+opponent_score: the finalist's final score,
 notes: if the game ended in a tie or other details left out of the main columns
 
 ## Methodology
