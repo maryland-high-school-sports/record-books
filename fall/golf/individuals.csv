@@ -1,0 +1,111 @@
+year,sport,gender,class,champ,school,score
+1971,Golf,Boys,NULL,Frank Reese,Parkdale,146
+1972,Golf,Boys,NULL,Paul Rapley,Winston Churchill,148
+1973,Golf,Boys,NULL,Al Roberts,Sherwood,153
+1974,Golf,Boys,NULL,Matt Sughrue,Winston Churchill,147
+1975,Golf,Boys,NULL,David Hughes,Walt Whitman,153
+1976,Golf,Boys,NULL,Regan O’Rourke,Winston Churchill,150
+1977,Golf,Boys,NULL,Webb Heintzelman,Walt Whitman,69
+1978,Golf,Boys,NULL,Pete Hiskey,Northwestern,143
+1979,Golf,Boys,NULL,Webb Heintzelman,Walt Whitman,144
+1980,Golf,Boys,NULL,Joe Venari,Atholton,147
+1981,Golf,Boys,NULL,Doug Monroe,Walt Whitman,145
+1982,Golf,Boys,NULL,Don Slebodnick,High Point,147
+1983,Golf,Boys,NULL,Mike Watson,Thomas S. Wootton,147
+1984,Golf,Boys,NULL,Doug Ridgeway,Magruder,149
+1985,Golf,Boys,NULL,Dave Patterson,Dulaney,154
+1986,Golf,Boys,NULL,Dave Patterson,Dulaney,149
+1987,Golf,Boys,NULL,Scooter Clark,Paint Branch,157
+1988,Golf,Boys,NULL,Clint Buytenhuys,Winston Churchill,149
+1989,Golf,Boys,NULL,Mike Rymer,Eleanor Roosevelt,144
+1990,Golf,Boys,NULL,Jim Cangiano,Poolesville,149
+1991,Golf,Boys,NULL,Colyn Keller,Walkersville,141
+1992,Golf,Boys,NULL,Gary Carpenter,Arundel,141
+1993,Golf,Boys,NULL,Bart Mease,Quince Orchard,143
+1994,Golf,Boys,NULL,Keith Unikel,Winston Churchill,145
+1995,Golf,Boys,NULL,Keith Unikel,Winston Churchill,150
+1996,Golf,Boys,NULL,Charles Hong,Walt Whitman,141
+1997,Golf,Boys,NULL,Brit Musser,Thomas S. Wootton,139
+1998,Golf,Boys,NULL,Jimmy Cunningham,Walkersville,143
+1999,Golf,Boys,NULL,John Scott Rattan,Watkins Mill,145
+2000,Golf,Boys,NULL,Sejji Jarai,Smithsburg,141
+2001,Golf,Boys,NULL,Joe Gross,McDonough,144
+2002,Golf,Boys,NULL,Brian Carneal,Northeast,68
+2003,Golf,Boys,1A/2A,Patrick Hinch,Aberdeen,75
+2003,Golf,Boys,3A/4A,Joe Gross,La Plata,70
+2004,Golf,Boys,NULL,Wilbert Lynn,City,140
+2005,Golf,Boys,NULL,Vincent Hancock,La Plata,72
+2005,Golf,Boys,NULL,Patrick Hinch,Aberdeen,72
+2005,Golf,Boys,NULL,Devin Kay,Winston Churchill,72
+2006,Golf,Boys,NULL,Josh Eure,South River,142
+2007,Golf,Boys,NULL,Alex Hoffman,Middletown,141
+2008,Golf,Boys,NULL,Josh Eure,South River,147
+2009,Golf,Boys,NULL,Alex Hoffman,Middletown,146
+2010,Golf,Boys,NULL,Connor Tendall,Thomas S. Wootton,143
+2011,Golf,Boys,NULL,Tyler Silberberg,Wilde Lake,142
+2012,Golf,Boys,NULL,Bennett Buch,Marriotts Ridge,138
+2013,Golf,Boys,NULL,Steven Segrist,Glenelg,146
+2014,Golf,Boys,NULL,Graham Hutchinson,Walt Whitman,141
+2015,Golf,Boys,NULL,Adam Gray,Winston Churchill,139
+2016,Golf,Boys,NULL,Nick Roberson,Bethesda-CC,144
+2017,Golf,Boys,1A/2A,David Stephens,Marriotts Ridge,153
+2017,Golf,Boys,3A/4A,Brad Riley,Sherwood,145
+2018,Golf,Boys,1A/2A,Kevin Hickey,River Hill,148
+2018,Golf,Boys,3A/4A,Edward Coffren,Northern-C,148
+2019,Golf,Boys,1A/2A,Gavin Ganter,La Plata,149
+2019,Golf,Boys,3A/4A,Jake Griffin,Walter Johnson,141
+2021,Golf,Boys,1A/2A,Noah Wallace,North East-Cecil,145
+2021,Golf,Boys,3A/4A,Benjamin Siriboury,River Hill,138
+2022,Golf,Boys,1A/2A,Noah Wallace,North East-Cecil,140
+2022,Golf,Boys,3A/4A,Benjamin Siriboury,River Hill,132
+2023,Golf,Boys,1A/2A,Noah Wallace,North East-Cecil,148
+2023,Golf,Boys,3A/4A,Owen Newberry,Crofton,142
+1982,Golf,Girls,NULL,Sandy Persinger,Dundalk,164
+1983,Golf,Girls,NULL,Clare Dolan,Seneca Valley,156
+1984,Golf,Girls,NULL,Clare Dolan,Seneca Valley,149
+1985,Golf,Girls,NULL,Tara Hipp,Gaithersburg,168
+1986,Golf,Girls,NULL,Kim Cayce,Winston Churchill,164
+1987,Golf,Girls,NULL,Kim Cayce,Winston Churchill,161
+1988,Golf,Girls,NULL,Kim Cayce,Winston Churchill,161
+1989,Golf,Girls,NULL,Alicia Denney,Thomas S. Wootton,197
+1990,Golf,Girls,NULL,Angela Wacker,Smithsburg,192
+1991,Golf,Girls,NULL,Kristen Dollenberg,Dulaney,167
+1992,Golf,Girls,NULL,Kristen Dollenberg,Dulaney,164
+1993,Golf,Girls,NULL,Wendy Spry,Old Mill,174
+1994,Golf,Girls,NULL,Julie Russum,Queen Anne’s,171
+1995,Golf,Girls,NULL,Jessica Fernandez,Patapsco,173
+1996,Golf,Girls,NULL,Jenelle D’Alessandro,LaPlata,162
+1997,Golf,Girls,NULL,Erin Clasper,Thomas S. Wootton,169
+1998,Golf,Girls,NULL,Erin Clasper,Thomas S. Wootton,163
+1999,Golf,Girls,NULL,Calli Vance,Arundel,159
+2000,Golf,Girls,NULL,Ashley Grier,Smithsburg,158
+2001,Golf,Girls,NULL,Stephanie Connelly,Northeast,148
+2001,Golf,Girls,NULL,Kelly Lynch,Severna Park,75
+2002,Golf,Girls,NULL,Stephanie Connelly,Northeast,74
+2003,Golf,Girls,1A/2A,Michelle Grilli,Pikesville,75
+2003,Golf,Girls,3A/4A,Christina Gonzalez,Great Mills,71
+2004,Golf,Girls,NULL,Stephanie Connelly,Northeast,144
+2005,Golf,Girls,NULL,Kelly Lynch,Severna Park,75
+2006,Golf,Girls,NULL,Lauren Smith,Arundel,149
+2007,Golf,Girls,NULL,Caroline Sweet,Eleanor Roosevelt,140
+2008,Golf,Girls,NULL,Haeun Lee,Smithsburg,156
+2009,Golf,Girls,NULL,Diana Brown,Winston Churchill,154
+2010,Golf,Girls,NULL,Elyse Smidinger,Arundel,143
+2011,Golf,Girls,NULL,Elyse Smidinger,Arundel,145
+2012,Golf,Girls,NULL,Bryana Nguyen,Atholton,144
+2013,Golf,Girls,NULL,Bryana Nguyen,Atholton,134
+2014,Golf,Girls,NULL,Delaney Shah,Thomas S. Wootton,148
+2015,Golf,Girls,NULL,Delaney Shah,Thomas S. Wootton,142
+2016,Golf,Girls,NULL,Lena Capoccia,Winston Churchill,151
+2017,Golf,Girls,1A/2A,Faith McIlvain,Marriotts Ridge,147
+2017,Golf,Girls,3A/4A,Bailey Davis,North Point,146
+2018,Golf,Girls,1A/2A,Faith McIlvain,Marriotts Ridge,153
+2018,Golf,Girls,3A/4A,Bailey Davis,North Point,147
+2019,Golf,Girls,1A/2A,Paula Moon,Patterson Mill,159
+2019,Golf,Girls,3A/4A,Bailey Davis,North Point,145
+2021,Golf,Girls,1A/2A,Olivia Cong,Poolesville,144
+2021,Golf,Girls,3A/4A,Helen Yeung,River Hill,146
+2022,Golf,Girls,1A/2A,Olivia Cong,Poolesville,141
+2022,Golf,Girls,3A/4A,Helen Yeung,River Hill,136
+2023,Golf,Girls,1A/2A,Olivia Cong,Poolesville,137
+2023,Golf,Girls,3A/4A,Helen Yeung,River Hill,132

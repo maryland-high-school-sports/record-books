@@ -1,26 +1,26 @@
-year,sport,classification,champ,score,finalist
-1971,Golf,NA,Magruder,610,Robert E. Peary
-1972,Golf,NA,Frederick,627,Magruder
-1973,Golf,NA,Magruder,677,Gaithersburg
-1974,Golf,NA,Gaithersburg,632,Bowie
-1975,Golf,NA,Walt Whitman,646,Crossland
-1976,Golf,NA,Winston Churchill,630,Walt Whitman
-1977,Golf,NA,Walt Whitman,307,Bowie
-1978,Golf,NA,Robert E. Peary,657,Bowie
-1979,Golf,NA,Walt Whitman,635,Bowie
-1980,Golf,NA,Sherwood,641,Bowie
-1981,Golf,NA,Bowie,658,High Point
-1982,Golf,NA,Seneca Valley,699,Thomas S. Wootton
-1983,Golf,NA,Thomas S. Wootton,649,Seneca Valley
-1984,Golf,NA,Seneca Valley,627,James M. Bennett
-1985,Golf,NA,Gaithersburg,657,Westminster
-1986,Golf,NA,Bowie,668,Winston Churchill
-1987,Golf,NA,Winston Churchill,665,Gaithersburg
-1988,Golf,NA,Winston Churchill,632,Thomas Stone
-1989,Golf,NA,Quince Orchard,657,Walt Whitman
-1990,Golf,NA,Walt Whitman,649,Damascus
-1991,Golf,NA,Arundel,655,Damascus
-1992,Golf,NA,Arundel,629,Quince Orchard
+year,sport,class,champ,score,finalist
+1971,Golf,NULL,Magruder,610,Robert E. Peary
+1972,Golf,NULL,Frederick,627,Magruder
+1973,Golf,NULL,Magruder,677,Gaithersburg
+1974,Golf,NULL,Gaithersburg,632,Bowie
+1975,Golf,NULL,Walt Whitman,646,Crossland
+1976,Golf,NULL,Winston Churchill,630,Walt Whitman
+1977,Golf,NULL,Walt Whitman,307,Bowie
+1978,Golf,NULL,Robert E. Peary,657,Bowie
+1979,Golf,NULL,Walt Whitman,635,Bowie
+1980,Golf,NULL,Sherwood,641,Bowie
+1981,Golf,NULL,Bowie,658,High Point
+1982,Golf,NULL,Seneca Valley,699,Thomas S. Wootton
+1983,Golf,NULL,Thomas S. Wootton,649,Seneca Valley
+1984,Golf,NULL,Seneca Valley,627,James M. Bennett
+1985,Golf,NULL,Gaithersburg,657,Westminster
+1986,Golf,NULL,Bowie,668,Winston Churchill
+1987,Golf,NULL,Winston Churchill,665,Gaithersburg
+1988,Golf,NULL,Winston Churchill,632,Thomas Stone
+1989,Golf,NULL,Quince Orchard,657,Walt Whitman
+1990,Golf,NULL,Walt Whitman,649,Damascus
+1991,Golf,NULL,Arundel,655,Damascus
+1992,Golf,NULL,Arundel,629,Quince Orchard
 1993,Golf,1A/2A,Damascus,620,Cambridge/SD
 1993,Golf,3A/4A,Quince Orchard,620,Sherwood
 1994,Golf,1A/2A,Walkersville,626,Boonsboro
