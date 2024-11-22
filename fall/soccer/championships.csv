@@ -1,4 +1,4 @@
-Year,Sport,Gender,Class,Champion,Coach ,Finalist,Opponent Coach ,Team Score,Opponent Score,Notes
+year,sport,gender,class,champion,coach ,finalist,opponent_coach ,team_score,opponent_score,notes
 1946,Field Ball,Girls,A ,Kenwood,,Frederick,,10,1,
 1946,Field Ball,Girls,B ,Westminister ,Miss DuVall,,,,,
 1946,Field Ball,Girls,C ,Easton,Mae Brooks ,Boonsboro,,8,6,
