@@ -1,0 +1,79 @@
+## Data Exploration of Baseball (Spring)
+
+#### Matthew Neus
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records.This data focuses on baseball records in the spring.
+
+### Loading Libraries
+
+
+```{r}
+library(tidyverse)
+```
+
+### Loading Data
+
+```{r}
+bballlogs <- read_csv("https://raw.githubusercontent.com/maryland-high-school-sports/record-books/refs/heads/main/spring/baseball/championships.csv")
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+champion_data <- bballlogs |> filter(Status == "Champion")
+
+
+championship_counts <- champion_data |>
+  group_by(Team) |>
+  summarize(championships_won = n()) |>
+  arrange(desc(championships_won))
+```
+
+```{r}
+finalist_data <- bballlogs |> filter(Status == "Finalist")
+
+
+finalist_counts <- finalist_data |>
+  group_by(Team) |>
+  summarize(finals_apps = n()) |>
+  arrange(desc(finals_apps))
+```
+
+```{r}
+coach_data <- bballlogs |>
+  group_by(Coach) |>
+  summarise(CoachApps = n()) |>
+arrange(desc(CoachApps))
+```
+
+### Visualizations
+
+```{r}
+top_champions <- coach_data |> top_n(10, CoachApps)
+
+ggplot(top_champions, aes(x = reorder(Coach, -CoachApps), y = CoachApps)) +
+  geom_bar(stat = "identity", fill = "grey") +
+  labs(title = "Bill Dunham, Jim Steele and Pete Moylan Know How to Win",
+       x = "Team", y = "Number of Championshipship Appearances") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r}
+top_champions <- championship_counts |> top_n(10, championships_won)
+
+ggplot(top_champions, aes(x = reorder(Team, -championships_won), y = championships_won)) +
+  geom_bar(stat = "identity", fill = "grey") +
+  labs(title = "Loch Raven, St. John's Swings for the Fences",
+       x = "Team", y = "Number of Championships") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+### Notes/Caveats/Problems
+
+I did not have any issues with the status of teams depending on if they were a champion or finalist when working with the data. I made a bar chart to show that Loch Raven and St. John's have the most championships, and that three coaches get to the finals more than most of their opposition.
+
+The only problem I ran into was in the fact checking portion. Some schools were listed as champions in years they didn't win a championship, and the same thing happened for some teams listed as finalists.

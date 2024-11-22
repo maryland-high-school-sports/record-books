@@ -1,0 +1,105 @@
+## Data Exploration of Dual Meet Wrestling (Winter)
+
+#### Pablo Suarez
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records, specifically for dual meet wrestling.
+
+### Loading Libraries
+
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(ggalt)
+library(dplyr)
+library(gt)
+library(cowplot)
+library(ggrepel)
+library(knitr)
+```
+
+### Loading Data
+
+```{r}
+
+championships <- read_csv("https://raw.githubusercontent.com/maryland-high-school-sports/record-books/refs/heads/main/winter/dual-meet-wrestling/championships.csv")
+
+championships
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+
+titles <- championships |>
+  group_by(Team) |>
+  filter(Status == "Champion") |>
+  summarise(count = n()) |>
+  arrange(desc(count))
+
+```
+
+```{r}
+
+championships |>
+  group_by(Team) |>
+  filter(Status == "Finalist") |>
+  summarise(count = n()) |>
+  arrange(desc(count))
+
+```
+
+```{r}
+
+coaches <- championships |>
+  filter(Status == "Champion") |>
+  group_by(Coach, Team) |>
+  summarise(count = n(), .groups = "drop") |>
+  arrange(desc(count))
+
+```
+
+
+
+### Visualizations
+
+Use the aggregations (or other dataframes you create) to make some simple charts
+
+```{r}
+
+ggplot(titles, aes(x = factor(Team), y = count)) +
+  geom_bar(stat = "identity", fill = "red") +
+  labs(title = "Damascus Sets the Standard for Powerhouse Programs",
+       subtitle = "MPSSAA Championship Dual Meet Wrestling Schools",
+       x = "Winning Schools",
+       y = "Number of Championships",
+       caption = "Data: MPSSAA") +
+  scale_y_continuous(breaks = seq(0, max_count, by = 1)) +  
+  theme_minimal() +
+  coord_flip()
+
+```
+
+```{r}
+coaches |> 
+  gt() |> 
+  cols_label(
+    count = "Championships Won"
+  ) |>
+  tab_header(
+    title = "The MPSSAA Dual Meet Wrestling Royalty",
+    subtitle = "Coaches with the most titles in MPSSAA history."
+  )
+```
+
+
+### Notes/Caveats/Problems
+
+Describe any issues you had with the data and any caveats a user should know.
+
+Naming Issues: In the first block of basic aggregation code, I noticed that one of the teams that appears in the output is listed as "SouthernN/AGarrett." The next code block saw a team appear with the name "NorthernN/ACalvert." I also noted other schools named as "NortheastN/AAA" and "ChesapeakeN/AAA."
+
