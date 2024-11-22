@@ -1,0 +1,53 @@
+## Data Exploration of Indoor Track (Winter)
+
+#### Ben Strober
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records.This data focuses on indoor track records in the winter.
+
+### Loading Libraries
+
+
+```{r}
+library(tidyverse)
+```
+
+### Loading Data
+
+```{r}
+logs <- read_csv("https://raw.githubusercontent.com/maryland-high-school-sports/record-books/refs/heads/main/winter/indoor-track/championships.csv")
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+champion_data <- logs |> filter(Status == "Champion")
+
+
+championship_counts <- champion_data |>
+  group_by(Team) |>
+  summarize(championships_won = n()) |>
+  arrange(desc(championships_won))
+```
+
+### Visualizations
+
+```{r}
+top_champions <- championship_counts |> top_n(10, championships_won)
+
+ggplot(top_champions, aes(x = reorder(Team, -championships_won), y = championships_won)) +
+  geom_bar(stat = "identity", fill = "blue") +
+  labs(title = "Eleanor Roosevelt Runs the Record Books",
+       x = "Team", y = "Number of Championships") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
+
+### Notes/Caveats/Problems
+
+I did not have any issues with this data set. It was very easy to understand and create into the simple bar chart visualization shown above. The summary counts reveal that 88 different schools have won state championships in indoor track, which is pretty interesting.
+
