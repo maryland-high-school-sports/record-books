@@ -1,65 +1,83 @@
-# Maryland High School Sports Championship Records Dataset - SOFTBALL
+# Maryland High School Sports Championship Records Dataset - Softball
 
 ## Introduction
 
-This repository contains historical championship and record data for Maryland high school sports, compiled from Maryland Public Secondary Schools Athletic Association (MPSSAA) records. Included in this folder are data for softball, both team and individual from 1976-2023.
+This repository contains historical championship and record data for Maryland high school sports, compiled from Maryland Public Secondary Schools Athletic Association (MPSSAA) records. Included in this folder are data for softball, both team and individual, from 1976–2023.
 
-**Contents**
+------------------------------------------------------------------------
+
+## Contents
 
 The dataset `championships.csv` contains the following columns:
 
-[Class:]{.underline} The Division that a school was in during the year that their data was recorded. The MPSSAA has gone through multiple periods of time where they have shuffled the names of classes (ie. AA turns into 1A) or have shifted teams between classes.
+-   **Class**: The division that a school was in during the year that their data was recorded. The MPSSAA has gone through multiple periods where they shuffled class names (e.g., AA turns into 1A) or shifted teams between classes.
 
-[Year:]{.underline} The time window in which a team recorded a data point.
+-   **Year**: The time window in which a team recorded a data point.
 
-[Team:]{.underline} The name of the school.
+-   **Team**: The name of the school.
 
-[Final_Score:]{.underline} The final score of the given game that the team played in. If the game ended after an abnormal number of innings, it will be listed in parentheses (the normal game is 7 innings). Common cases are extra innings or mercy rules. Only teams who won a championship have their final score listed. Others will be listed NA.
+-   **Final_Score**: The final score of the given game that the team played in. If the game ended after an abnormal number of innings, it will be listed in parentheses (e.g., extra innings or mercy rules; normal games are 7 innings). Only championship-winning teams have their final scores listed; others are marked as NA.
 
-[Coach:]{.underline} The Head Coach(es) of the given school during their data point. Only teams who won a championship have their champion coach listed. Others will be listed NA.
+-   **Coach**: The Head Coach(es) of the given school during their data point. Only championship-winning teams have their coaches listed; others are marked as NA.
 
-[Final Standing:]{.underline} The end-of-season status of a team - which game they won. Either champion, finalist, or semifinalist.
+-   **Final Standing**: The end-of-season status of a team — which game they won (e.g., champion, finalist, or semifinalist).
 
-[Gender]{.underline}
+-   **Gender**: Gender of the team.
 
-[Sport]{.underline}
+-   **Sport**: The sport (softball).
 
 The dataset `individuals.csv` contains the following columns:
 
-[Record Level:]{.underline} The classification of the duration that an award occurred. Either in the state tournament, in a career, or in a season.
+-   **Record Level**: The classification of the duration that an award occurred (e.g., state tournament, career, or season).
 
-[Category:]{.underline} The type of record/award that a player or team set/achieved. For example, offense.
+-   **Category**: The type of record/award that a player or team set/achieved (e.g., offense).
 
-[Title:]{.underline} The statistic that a player or team set their record/award in. For example, RBI's.
+-   **Title**: The statistic that a player or team set their record/award in (e.g., RBIs).
 
-[Number/Record:]{.underline} The value, score or count of the record/award.
+-   **Number/Record**: The value, score, or count of the record/award.
 
-[Name:]{.underline} The name of the record holding player.
+-   **Name**: The name of the record-holding player.
 
-[School:]{.underline} The school of the record holding player.
+-   **School**: The school of the record-holding player.
 
-[Year(s):]{.underline} The year or years during which a player set the record.
+-   **Year(s)**: The year or years during which a player set the record.
 
-[Gender]{.underline}
+-   **Gender**: Gender of the player or team.
 
-There are two parts to this set: State Tournament Records and Career/Season Records. Career/Season records includes pitching and offense.
+This dataset is divided into two parts:
+
+1.  **State Tournament Records**
+
+2.  **Career/Season Records** (including pitching and offense).
+
+------------------------------------------------------------------------
 
 ## Methodology
 
 ### Data Collection/Organization
 
-The MPSSAA spring record book keeps all team/individual records and history for spring sports. The original pdf file on their website can be found [here](https://content.mpssaa.org/view/882333632/). I used the ChatGPT 4o AI model to convert this data from the pdf to a digital spreadsheet format. I then took the spring record book file and selected only the softball pages, then downoaded attached those pages as pdf files to give to ChatGPT. I then told the machine to create a spreadsheet file with the column names that I desire, and gave an example of how I wanted it to look. The machine was then able to go section-by-section and create a spreadsheet for me.
+The MPSSAA spring record book keeps all team/individual records and history for spring sports. The original PDF file can be found [here](https://content.mpssaa.org/view/882333632/).
 
-For team–based data being loaded into `championships.csv`, there were two separate lists of records that were in the record book, one including a list of champions by year, and another including a list of final standings (semifinalist, finalist, champion). I had to merge these two sets together through R studio. The R software helped pick out matches in the two sets and merge them while eliminating duplicates.
+I used the ChatGPT-4 model to convert this data from the PDF to a digital spreadsheet format. After selecting only the softball pages from the spring record book, I processed them into a digital spreadsheet with pre-defined column names.
 
-### Caveats
+For team-based data (`championships.csv`), there were two lists in the record book:
 
-`championships.csv`:
+1.  A list of champions by year.
 
-As mentioned in the "Contents" section, there is no data for the final score, coach, or class for teams who were not champions in a given year (ie. finalists/semifinalists). There is possibility of an assumption to be made for a team if we can see from their champion record that they were in a certain class, but it does not apply to all of the data.
+2.  A list of final standings (semifinalist, finalist, champion).
 
-When merging the two data sets (as mentioned in "Data Collection"), there were some problems in matching observations, specifically with the names of schools. Some schools are listed with different names in the two sets, for example "Winston Churchill" in one set was "Churchill" in another set. The R software was not able to pick up this match properly. There are some duplicate entries in the model that list a team's final standing twice under different names.
+These were merged in R Studio to create the final dataset, eliminating duplicates where possible.
 
-`individuals.csv`:
+------------------------------------------------------------------------
 
-Since there are many different categories within the individual data, it is more difficult to perform analysis and compare the data; for example, one record may include the highest number of innings in a game, whereas another record may include the best pitching ERA.
+## Caveats
+
+### `championships.csv`
+
+-   Data for the final score, coach, or class is often missing for teams that were not champions (e.g., finalists/semifinalists).
+
+-   School names sometimes vary between the two source lists (e.g., "Winston Churchill" vs. "Churchill"), leading to duplicate entries.
+
+### `individuals.csv`
+
+-   The diversity of categories within the individual data makes analysis challenging. For instance, one record may include the highest number of innings in a game, while another may include the best pitching ERA, making direct comparisons difficult.
