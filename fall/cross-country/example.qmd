@@ -1,0 +1,60 @@
+## Data Exploration of Cross Country (Fall)
+
+#### Matthew Neus
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records.This data focuses on cross country records in the fall.
+
+### Loading Libraries
+
+
+```{r}
+library(tidyverse)
+```
+
+### Loading Data
+
+```{r}
+logs <- read_csv("https://raw.githubusercontent.com/maryland-high-school-sports/record-books/refs/heads/main/fall/cross-country/championships.csv")
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+champion_data <- logs |> filter(status == "CH")
+
+
+championship_counts <- champion_data |>
+  group_by(team) |>
+  summarize(championships_won = n()) |>
+  arrange(desc(championships_won))
+
+finalist_data <- logs |> filter(status == "FN")
+
+
+finalist_counts <- finalist_data |>
+  group_by(team) |>
+  summarize(championships_won = n()) |>
+  arrange(desc(championships_won))
+```
+
+### Visualizations
+
+```{r}
+top_champions <- championship_counts |> top_n(10, championships_won)
+
+ggplot(top_champions, aes(x = reorder(team, -championships_won), y = championships_won)) +
+  geom_bar(stat = "identity", fill = "grey") +
+  labs(title = "Hereford Runs Quickets to the Finish",
+       x = "Team", y = "Number of Championships") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+### Notes/Caveats/Problems
+
+I did not have any issues with the status of teams depending on if they were a champion or finalist. I was able to make a bar chart to show that Hereford has the most championships in cross country, racking up 27 titles and 12 more than any other school. I was able to find similar data for teams that were finalists, but not champions.
+
+The only problem I had was in the fact checking portion with classifications. It seems that every school is listed as 4A, regardless of year. That should be the only thing that needs to be fixed.
