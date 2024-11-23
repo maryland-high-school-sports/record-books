@@ -1,0 +1,162 @@
+## Data Exploration of Lacrosse Championships (Spring)
+
+#### Pablo Suarez
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records, specifically for lacrosse team championships.
+
+### Loading Libraries
+
+
+```{r}
+
+library(tidyverse)
+library(ggplot2)
+library(ggalt)
+library(dplyr)
+library(gt)
+library(cowplot)
+library(ggrepel)
+library(knitr)
+library(tidyr)
+
+```
+
+### Loading Data
+
+Joining the separate boys and girls dataframes since they contain the same data.
+
+```{r}
+
+b_championships <- read_csv("https://raw.githubusercontent.com/maryland-high-school-sports/record-books/refs/heads/main/spring/lacrosse/BOYS%20LACROSSE%20DATA.csv") |>
+  mutate(Source = "Boys")
+g_championship <- read_csv("https://raw.githubusercontent.com/maryland-high-school-sports/record-books/refs/heads/main/spring/lacrosse/GIRLS%20LACROSSE%20CHAMPS.csv") |>
+  mutate(Source = "Girls")
+
+championships <- bind_rows(b_championships, g_championship) |>
+  arrange(Year, Source)
+
+championships <- championships |>
+  select(-Source)
+
+championships
+
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+
+titles <- championships |>
+  group_by(School) |>
+  filter(Status == "Champion") |>
+  summarise(count = n()) |>
+  arrange(desc(count))
+
+```
+
+```{r}
+
+gender_count <- championships |>
+  filter(Status == "Champion") |>
+  group_by(School, Gender) |>
+  summarise(count = n()) |>
+  arrange(desc(count))
+
+```
+
+```{r}
+
+coaches <- championships |>
+  filter(Status == "Champion") |>
+  group_by(Coach, School, Gender) |>
+  summarise(count = n()) |>
+  arrange(desc(count))
+
+```
+
+
+
+### Visualizations
+
+Use the aggregations (or other dataframes you create) to make some simple charts
+
+```{r}
+
+ggplot(titles, aes(x = factor(School), y = count)) +
+  geom_bar(stat = "identity", fill = "red") +
+  labs(title = "Severna Park Sets the Standard for Powerhouse Programs",
+       subtitle = "MPSSAA Championship Lacrosse Schools (Boys and Girls)",
+       x = "Winning Schools",
+       y = "Number of Championships",
+       caption = "Data: MPSSAA") +
+  scale_y_continuous(breaks = seq(0, max_count, by = 1)) +  
+  theme_minimal() +
+  coord_flip()
+
+```
+
+```{r}
+
+ggplot(gender_count, aes(x = School, y = count, fill = Gender)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8), width = 0.7) +
+  coord_flip() +
+  scale_fill_manual(values = c("Boys" = "blue", "Girls" = "pink")) +
+  labs(
+    title = "The Mount Hebron Girls Get it Done",
+    subtitle = "MPSSAA Lacrosse Championships by School and Gender",
+    x = "School",
+    y = "Count of Championships",
+    fill = "Gender",
+    caption = "Data: MPSSAA"
+  ) +
+  theme_minimal()
+
+```
+
+```{r}
+
+#Was having a lot of trouble with data being nested in the table despite not being nested within the dataframe
+
+coaches |> 
+  gt() |> 
+  cols_label(
+    Coach = "Coach",
+    School = "School",
+    Gender = "Gender",
+    count = "Championships Won"
+  ) |>
+  tab_header(
+    title = "The MPSSAA Lacrosse Coaching Royalty",
+    subtitle = "Coaches with the most titles in MPSSAA history."
+  ) |>
+  tab_source_note(
+    source_note = "Data: MPSSAA"
+  ) |>
+  cols_align(
+    align = "center",
+    columns = everything() 
+  ) |>
+  opt_table_lines(extent = "all")
+```
+
+
+
+### Notes/Caveats/Problems
+
+Describe any issues you had with the data and any caveats a user should know.
+
+Opponents: 
+The information for the champion on row 54 is correct. However, the opponent column lists Mount Hebron as the opposing school when the record book does not denote an opponent for a specific championship team. My concern is that whatever process was used to pull data was reading the next line over, which shows Mount Hebron as the winning school in their classification that year.
+
+The same goes for row 52, with Mount Hebron listed as the correct winner, but the opponent listed is a winning school from another classification that year.
+
+Non-championship Teams:
+If we have the time this semester, it would be worth converting the other tournament history data, including finalists, semi-finalists and quarter-finalists. It could be useful for reporters, but it requires accurately identifying each school’s classification, and I don’t know how feasible it is with two weeks remaining in the semester.
+
+Table Issues:
+I attempted to make a table with a dataframe of coaching data. For some reason, the gt function was nesting the coach and school names in the same cell, while also ignoring two of the column names. I made several attempts to resolve this, but the issue persists.
+
