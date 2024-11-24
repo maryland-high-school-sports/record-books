@@ -1,0 +1,59 @@
+## Data Exploration of Golf (Fall)
+
+#### Ben Strober
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records.In this study, we focus on golf records.
+
+### Loading Libraries
+
+
+```{r}
+library(tidyverse)
+```
+
+### Loading Data
+
+```{r}
+logs <- read.csv("https://raw.githubusercontent.com/maryland-high-school-sports/record-books/refs/heads/main/fall/golf/championships.csv")
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+championship_counts <- logs |>
+group_by(champ) |>
+  summarize(championships_won = n()) |>
+  arrange(desc(championships_won))
+
+
+
+
+
+  
+  
+```
+
+### Visualizations
+
+```{r}
+top_champions <- championship_counts |> top_n(10, championships_won)
+
+ggplot(top_champions, aes(x = reorder(champ, -championships_won), y = championships_won)) +
+  geom_bar(stat = "identity", fill = "blue") +
+  labs(title = "Winston Churchill Dominates the Greens of Maryland",
+       x = "School", y = "Number of Championships") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
+
+### Notes/Caveats/Problems
+
+I did not notice any issues with the data presented. The championship data was easy to follow and work with, revealing a dynasty in golf from Winston Churchill. The chart above indicates the pure dominance the school has held within the respective sport. 
+
+The only thing that is a bit harder to understand is the score part of the data. It might not be very obvious to the viewers what the score means in that case. Is that total for the team at the championships? I'm not sure.
+
