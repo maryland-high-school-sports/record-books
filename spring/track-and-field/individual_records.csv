@@ -1,0 +1,41 @@
+event,record,record_holder,school,year,gender,sport
+100 meters,:11.63,Jaida Smith,Frederick,2018,Girls,Track and Field
+200 meters,:23.64,Ebony Robinson,Eleanor Roosevelt,1992,Girls,Track and Field
+400 meters,:53.15,Olivia Ekponé,Northwest,2011,Girls,Track and Field
+800 meters,2:11.00,Donna Neale,Oakland Mills,1982,Girls,Track and Field
+1600 meters,4:46.20,Kristen Nicolini,Annapolis,1995,Girls,Track and Field
+3200 meters,10:15.79,Christy Nichols,Arundel,1996,Girls,Track and Field
+100m High Hurdles,13.64sf,Theresa Lewis,Western,2005,Girls,Track and Field
+300m Low Hurdles,:41.31,Alexis Franklin,Old Mill,2012,Girls,Track and Field
+4x100m Relay,:46.83,Natalie McKenzie et al.,Largo,2002,Girls,Track and Field
+4x200m Relay,1:37.41,Doris Anyanwu et al.,Eleanor Roosevelt,2006,Girls,Track and Field
+4x400m Relay,3:46.22,Tiara Wellman et al.,Northwest,2011,Girls,Track and Field
+4x800m Relay,9:04.39,Corinne Duvall et al.,Thomas S. Wootton,2010,Girls,Track and Field
+Long Jump,20-01 1/2,Pun Chittchang,South Carroll,1999,Girls,Track and Field
+Triple Jump,42-05 3/4,Valerie Williams,Frederick,1996,Girls,Track and Field
+High Jump,6-00,Tanya Hughes,Great Mills,1989,Girls,Track and Field
+Pole Vault,12-07,Ava Allen,Middletown,2023,Girls,Track and Field
+Shot Put,48-07 3/4,Emily Vannoy,Thomas Johnson,2008,Girls,Track and Field
+Discus,155-10,Lindsay Grigoriev,Atholton,2003,Girls,Track and Field
+100 meters,:10.35,Brody Buffington,Catoctin,2023,Boys,Track and Field
+100m Wheelchair,:25.78,Robbie Reightler,North Carroll,2014,Boys,Track and Field
+200 meters,:20.90,Judson Lincoln IV,Oakland Mills,2022,Boys,Track and Field
+200m Wheelchair,:50.55,Robbie Reightler,North Carroll,2014,Boys,Track and Field
+400 meters,:46.24,Ato Modibo,High Point,1997,Boys,Track and Field
+400m Wheelchair,1:08.87,Ben Mayforth,Bel Air,2012,Boys,Track and Field
+800 meters,1:50.90,Kieran McDermott,Bel Air,2018,Boys,Track and Field
+1600 meters,4:04.09,Matthew Centrowitz,Broadneck,2007,Boys,Track and Field
+1600m Wheelchair,4:33.03,Ben Mayforth,Bel Air,2012,Boys,Track and Field
+3200 meters,9:06.13,Solomon Haile,Sherwood,2008,Boys,Track and Field
+110m High Hurdles,:13.59,Dondre Echols,Potomac,2012,Boys,Track and Field
+300m Inter. Hurdles,:36.26,Dondre Echols,Potomac,2012,Boys,Track and Field
+4x100m Relay,:41.08,Various,Potomac,2012,Boys,Track and Field
+4x200m Relay,1:26.25,Various,"Dr. Henry A. Wise, Jr.",2012,Boys,Track and Field
+4x400m Relay,3:12.05,Various,Northwestern-PG,1999,Boys,Track and Field
+4x800m Relay,7:44.67,Various,Quince Orchard,2008,Boys,Track and Field
+Long Jump,24-04,Chris Smith,Long Reach,1998,Boys,Track and Field
+Triple Jump,51-10 1/2,Clarence Foote-Talley,Northwest,2019,Boys,Track and Field
+High Jump,7-00 1/4,Jon Hill,Walkersville,2008,Boys,Track and Field
+Pole Vault,15-03,Bradley Hollowell,Stephen Decatur,2011,Boys,Track and Field
+Shot Put,64-06 1/2,Tom Brosius,Springbrook,1968,Boys,Track and Field
+Discus,200-02,Vikas Gowda,Frederick,2001,Boys,Track and Field
