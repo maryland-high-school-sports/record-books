@@ -1,0 +1,63 @@
+## Data Exploration of Swimming and Diving (Winter)
+
+#### Marwa Barakat
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records.
+
+### Loading Libraries
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(ggplot2)
+```
+
+### Loading Data
+
+```{r}
+championships <- read_csv('championships.csv') |> clean_names()
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+championships |>
+  group_by(school) |>
+  summarise(
+    total_finals = n()
+  ) |> arrange(desc(total_finals))
+```
+
+```{r}
+swim_by_gender <- championships |>
+  filter(status=='Champion') |>
+  group_by(school, gender) |>
+  summarise(
+    total_champs = n()
+  ) |> arrange(desc(total_champs))
+
+swim_by_gender
+```
+
+### Visualizations
+
+```{r}
+ggplot() + 
+  geom_bar(
+    data=swim_by_gender, 
+    aes(x=reorder(school, total_champs), weight=total_champs, fill=gender)) + 
+  coord_flip() +
+  labs(
+    title = 'Championship Titles per School',
+    x = 'School',
+    y = 'Total Championships'
+  )
+```
+
+### Notes/Caveats/Problems
+
+I had no issues analyzing this data with the methods I used.
