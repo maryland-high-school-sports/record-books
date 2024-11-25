@@ -24,6 +24,6 @@ The data was organized in columns "School, Year, Status, Sport, Gender, Season".
 
 ### Missing Data
 
-There is no missing data in the championship data or the meet records for the individuals. However, I still need to add the boys state individual records and one more page for the girls. 
+There is no missing data in this, I was able to scrape all the championship data and individual records data. 
 ---
 *Last updated: November 2024*  

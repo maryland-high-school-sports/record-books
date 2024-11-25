@@ -1,32 +1,32 @@
 Category,Record Holder,School,Year,Value,Gender,Sport,Season,Status
-Kills/Game,Elisa Davidson,Glenelg,1995,14,Female,Volleyball,Fall,f
-Assists/Game,Jaime Pirotte,Severna Park,1992,22,Female,Volleyball,Fall,f
-Aces/Game,Shannon Patrick,River Hill,1999,6,Female,Volleyball,Fall,sf
-Blocks/Game,Jen Thompson,C. Milton Wright,1997,5,Female,Volleyball,Fall,sf
-Blocks/Game,Carey Brennan,Smithsburg,1998,5,Female,Volleyball,Fall,sf
-Blocks/Game,Ijeoma Ekeocha,Perry Hall,2002,5,Female,Volleyball,Fall,sf
-Kills/Match,Elisa Davidson,Glenelg,1995,37,Female,Volleyball,Fall,f
-Kills/Match,Jessica Benchoff,Williamsport,1992,70,Female,Volleyball,Fall,f
-Aces/Match,Kelly Quinn,Mount Hebron,1992,11,Female,Volleyball,Fall,f
-Blocks/Match,Becky Stephens,Williamsport,1992,12,Female,Volleyball,Fall,f
-Blocks/Match,Ashley Olszeski,North Hagerstown,1998,12,Female,Volleyball,Fall,sf
-Service Points/Game,Megan Mitchell,River Hill,2000,14,Female,Volleyball,Fall,sf
-Service Points/Match,Shannon Patrick,River Hill,1999,24,Female,Volleyball,Fall,sf
-Service %/Match,Jen Anderson,North Hagerstown,1998,29/29,Female,Volleyball,Fall,sf
-Service %/Match,Casey Nogle,Smithsburg,1998,29/29,Female,Volleyball,Fall,sf
-Service %/Match,Cara Franklin,Glenelg,1995,27/27,Female,Volleyball,Fall,f 
-Service %/Match,Megan Getty,Allegany,1998,27/27,Female,Volleyball,Fall,sf
-Service %/Match,Christy Mann,North East-C,1996,26/26,Female,Volleyball,Fall,f 
-Service %/Match,Denise Sullivan,Williamsport,2001,26/26,Female,Volleyball,Fall,sf
-Service %/Match,Lauren Boyd,Severna Park,1998,25/25,Female,Volleyball,Fall,sf
-Service %/Match,Leanne Costa,Dulaney,1999,25/25,Female,Volleyball,Fall,sf
-Service %/Match,Katy Powell,Smithsburg,2001,25/25,Female,Volleyball,Fall,f 
-Kill Efficiency/Match,Emily Berman,Towson,2002,0.765,Female,Volleyball,Fall,sf
-Kills/Match,Shannon Patrick,River Hill,1999,49,Female,Volleyball,Fall,f & sf
-Assists/Match,Tera Blevins,Northern-Calvert,1997,79,Female,Volleyball,Fall,f & sf
-Aces/Match,Robyn West,Centennial,1997,12,Female,Volleyball,Fall,f & sf
-Blocks/Match,Ashley Olszeski,North Hagerstown,1998,44,Female,Volleyball,Fall,f & sf
-Service Points/Match,Brandi Blevins,Northern-Calvert,1996,32,Female,Volleyball,Fall,f & sf
-Service Percentage(40+ attempts),Stacey Carroll,Mt. Hebron,2002,1,Female,Volleyball,Fall,f & sf
-Kill Efficiency,Lisa Cline,Northern-Calvert,1994,0.545,Female,Volleyball,Fall,f & sf
-Kill Efficiency,Briana Zolak,Centennial,1997,0.545,Female,Volleyball,Fall,f & sf
+Kills/Game,Elisa Davidson,Glenelg,1995,14,Female,Volleyball,Fall,Finalist
+Assists/Game,Jaime Pirotte,Severna Park,1992,22,Female,Volleyball,Fall,Finalist
+Aces/Game,Shannon Patrick,River Hill,1999,6,Female,Volleyball,Fall,Semifinialist
+Blocks/Game,Jen Thompson,C. Milton Wright,1997,5,Female,Volleyball,Fall,Semifinialist
+Blocks/Game,Carey Brennan,Smithsburg,1998,5,Female,Volleyball,Fall,Semifinialist
+Blocks/Game,Ijeoma Ekeocha,Perry Hall,2002,5,Female,Volleyball,Fall,Semifinialist
+Kills/Match,Elisa Davidson,Glenelg,1995,37,Female,Volleyball,Fall,Finalist
+Kills/Match,Jessica Benchoff,Williamsport,1992,70,Female,Volleyball,Fall,Finalist
+Aces/Match,Kelly Quinn,Mount Hebron,1992,11,Female,Volleyball,Fall,Finalist
+Blocks/Match,Becky Stephens,Williamsport,1992,12,Female,Volleyball,Fall,Finalist
+Blocks/Match,Ashley Olszeski,North Hagerstown,1998,12,Female,Volleyball,Fall,Semifinialist
+Service Points/Game,Megan Mitchell,River Hill,2000,14,Female,Volleyball,Fall,Semifinialist
+Service Points/Match,Shannon Patrick,River Hill,1999,24,Female,Volleyball,Fall,Semifinialist
+Service %/Match,Jen Anderson,North Hagerstown,1998,29/29,Female,Volleyball,Fall,Semifinialist
+Service %/Match,Casey Nogle,Smithsburg,1998,29/29,Female,Volleyball,Fall,Semifinialist
+Service %/Match,Cara Franklin,Glenelg,1995,27/27,Female,Volleyball,Fall,Finalist
+Service %/Match,Megan Getty,Allegany,1998,27/27,Female,Volleyball,Fall,Semifinialist
+Service %/Match,Christy Mann,North East-C,1996,26/26,Female,Volleyball,Fall,Finalist
+Service %/Match,Denise Sullivan,Williamsport,2001,26/26,Female,Volleyball,Fall,Semifinialist
+Service %/Match,Lauren Boyd,Severna Park,1998,25/25,Female,Volleyball,Fall,Semifinialist
+Service %/Match,Leanne Costa,Dulaney,1999,25/25,Female,Volleyball,Fall,Semifinialist
+Service %/Match,Katy Powell,Smithsburg,2001,25/25,Female,Volleyball,Fall,Finalist
+Kill Efficiency/Match,Emily Berman,Towson,2002,0.765,Female,Volleyball,Fall,Semifinialist
+Kills/Match,Shannon Patrick,River Hill,1999,49,Female,Volleyball,Fall,Finalist & Semifinalist 
+Assists/Match,Tera Blevins,Northern-Calvert,1997,79,Female,Volleyball,Fall,Finalist & Semifinalist 
+Aces/Match,Robyn West,Centennial,1997,12,Female,Volleyball,Fall,Finalist & Semifinalist 
+Blocks/Match,Ashley Olszeski,North Hagerstown,1998,44,Female,Volleyball,Fall,Finalist & Semifinalist 
+Service Points/Match,Brandi Blevins,Northern-Calvert,1996,32,Female,Volleyball,Fall,Finalist & Semifinalist 
+Service Percentage(40+ attempts),Stacey Carroll,Mt. Hebron,2002,1,Female,Volleyball,Fall,Finalist & Semifinalist 
+Kill Efficiency,Lisa Cline,Northern-Calvert,1994,0.545,Female,Volleyball,Fall,Finalist & Semifinalist 
+Kill Efficiency,Briana Zolak,Centennial,1997,0.545,Female,Volleyball,Fall,Finalist & Semifinalist 

@@ -1,0 +1,54 @@
+## Data Exploration of Volleyball (Fall)
+
+#### Mauriah Allen
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records.
+
+### Loading Libraries
+
+
+```{r}
+library(tidyverse)
+```
+
+### Loading Data
+
+```{r}
+volleyball <- read_csv("championships.csv")
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+championdata <- volleyball |> group_by(School, Status = "Champion") |> summarise(count=n())
+```
+```{r}
+champover10 <- championdata |> filter(count > 10) 
+```
+
+### Visualizations
+
+```{r}
+ggplot() + 
+  geom_bar(
+    data=champover10, 
+    aes(x=reorder(School, count),
+        weight=count))  + 
+  labs(
+    title="Top Volleyball Programs By Championship",
+    subtitle = "With 25 championships, Williamsport is leading the state",
+    x="School", 
+    y="Championships") + 
+  theme_minimal() + 
+  coord_flip()
+```
+
+
+### Notes/Caveats/Problems
+
+I had no problems with this data set, the data is imported from the Maryland State record book. In the state of Maryland, there are no boy volleyball championship data or individual data, so this data is just for the high school girls. 
+

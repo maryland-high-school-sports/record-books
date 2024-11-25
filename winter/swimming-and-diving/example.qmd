@@ -1,0 +1,56 @@
+## Data Exploration of Swimming and Diving (Winter)
+
+#### Mauriah Allen
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records.
+
+### Loading Libraries
+
+
+```{r}
+library(tidyverse)
+```
+
+### Loading Data
+
+```{r}
+swimanddive <- read_csv("championships.csv")
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+championswimdata <- swimanddive |> group_by(school, Status = "Champion") |> summarise(count=n())
+```
+
+```{r}
+champover4 <- championswimdata |> filter(count > 4) 
+```
+
+### Visualizations
+
+```{r}
+ggplot() + 
+  geom_bar(
+    data=champover4, 
+    aes(x=reorder(school, count),
+        weight=count))  + 
+  labs(
+    title="Top Swim and Dive Programs By Championship",
+    subtitle = "Poolesville is exceding the rest of the schools championship record by double ",
+    x="School", 
+    y="Championships") + 
+  theme_minimal() + 
+  coord_flip()
+```
+
+
+
+### Notes/Caveats/Problems
+
+I had no problems with this data set, the data is imported from the Maryland State record book. In the state of Maryland, there are both boy and girl swim championship data and individual data. 
+
