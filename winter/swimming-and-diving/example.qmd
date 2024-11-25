@@ -1,6 +1,10 @@
 ## Data Exploration of Swimming and Diving (Winter)
 
+<<<<<<< HEAD
 #### Mauriah Allen
+=======
+#### Marwa Barakat
+>>>>>>> fd9fe7c277eb5e69ec49e83dc01e81b71e2c385a
 
 ### Introduction
 
@@ -8,15 +12,26 @@ This notebook serves as an example of basic data analysis of Maryland high schoo
 
 ### Loading Libraries
 
+<<<<<<< HEAD
 
 ```{r}
 library(tidyverse)
+=======
+```{r}
+library(tidyverse)
+library(janitor)
+library(ggplot2)
+>>>>>>> fd9fe7c277eb5e69ec49e83dc01e81b71e2c385a
 ```
 
 ### Loading Data
 
 ```{r}
+<<<<<<< HEAD
 swimanddive <- read_csv("championships.csv")
+=======
+championships <- read_csv('championships.csv') |> clean_names()
+>>>>>>> fd9fe7c277eb5e69ec49e83dc01e81b71e2c385a
 ```
 
 ### Basic Aggregation
@@ -24,11 +39,30 @@ swimanddive <- read_csv("championships.csv")
 Some examples using group_by() and summarize()
 
 ```{r}
+<<<<<<< HEAD
 championswimdata <- swimanddive |> group_by(school, Status = "Champion") |> summarise(count=n())
 ```
 
 ```{r}
 champover4 <- championswimdata |> filter(count > 4) 
+=======
+championships |>
+  group_by(school) |>
+  summarise(
+    total_finals = n()
+  ) |> arrange(desc(total_finals))
+```
+
+```{r}
+swim_by_gender <- championships |>
+  filter(status=='Champion') |>
+  group_by(school, gender) |>
+  summarise(
+    total_champs = n()
+  ) |> arrange(desc(total_champs))
+
+swim_by_gender
+>>>>>>> fd9fe7c277eb5e69ec49e83dc01e81b71e2c385a
 ```
 
 ### Visualizations
@@ -36,6 +70,7 @@ champover4 <- championswimdata |> filter(count > 4)
 ```{r}
 ggplot() + 
   geom_bar(
+<<<<<<< HEAD
     data=champover4, 
     aes(x=reorder(school, count),
         weight=count))  + 
@@ -54,3 +89,18 @@ ggplot() +
 
 I had no problems with this data set, the data is imported from the Maryland State record book. In the state of Maryland, there are both boy and girl swim championship data and individual data. 
 
+=======
+    data=swim_by_gender, 
+    aes(x=reorder(school, total_champs), weight=total_champs, fill=gender)) + 
+  coord_flip() +
+  labs(
+    title = 'Championship Titles per School',
+    x = 'School',
+    y = 'Total Championships'
+  )
+```
+
+### Notes/Caveats/Problems
+
+I had no issues analyzing this data with the methods I used.
+>>>>>>> fd9fe7c277eb5e69ec49e83dc01e81b71e2c385a

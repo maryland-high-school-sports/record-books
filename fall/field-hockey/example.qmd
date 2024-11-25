@@ -1,0 +1,64 @@
+## Data Exploration of Field Hockey (Fall)
+
+#### Marwa Barakat
+
+### Introduction
+
+This notebook serves as an example of basic data analysis of Maryland high school sports records.
+
+### Loading Libraries
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(janitor)
+```
+
+### Loading Data
+
+```{r}
+
+championships <- read_csv('championships.csv') |> clean_names()
+```
+
+### Basic Aggregation
+
+Some examples using group_by() and summarize()
+
+```{r}
+championships |>
+  group_by(team) |>
+  summarise(
+    total_finals = n()
+  ) |> arrange(desc(total_finals))
+```
+
+```{r}
+total_champs <- championships |>
+  filter(status=='Champion') |>
+  group_by(team) |>
+  summarise(
+    total_champ = n()
+  ) |> arrange(desc(total_champ)) 
+
+total_champs
+```
+
+### Visualizations
+
+```{r}
+ggplot() + 
+  geom_bar(
+    data=total_champs, 
+    aes(x=reorder(team, total_champ), weight=total_champ, fill=total_champ)) + 
+  coord_flip() +
+  labs(
+    title = 'Championship Titles per School',
+    x = 'School',
+    y = 'Total Championships'
+  )
+```
+
+### Notes/Caveats/Problems
+
+It's difficult to do any analysis using the Classes of teams because most rows don't have a class listed. Also, the schools are all labeled in all caps font, which looks busy on graphs.

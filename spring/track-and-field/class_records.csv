@@ -1,0 +1,158 @@
+event,class,record,record_holder,school,year,gender,sport
+100 meters,Class 1A (C),:11.86,Alyssa McClure,Digital Harbor,2009,Girls,Track and Field
+100 meters,Class 2A (B),:11.74-sf,Kisha Jett,Hammond,1994,Girls,Track and Field
+100 meters,Class 3A (A),:11.63,Jaida Smith,Frederick,2018,Girls,Track and Field
+100 meters,Class 4A (AA),:11.64-sf,India Ransom,Largo,2002,Girls,Track and Field
+200 meters,Class 1A (C),:24.60,Chelsea Walker,Digital Harbor,2008,Girls,Track and Field
+200 meters,Class 2A (B),:24.14-sf,Kisha Jett,Hammond,1994,Girls,Track and Field
+200 meters,Class 3A (A),:23.91,Jaida Smith,Frederick,2018,Girls,Track and Field
+200 meters,Class 4A (AA),:23.64,Ebony Robinson,Eleanor Roosevelt,1992,Girls,Track and Field
+Wheelchair 200 meters,Class 3A,:29.62,Tatyana McFadden,Atholton (3A),2008,Girls,Track and Field
+400 meters,Class 1A (C),:55.26,Ekundayo Sogbesan,Forestville,2010,Girls,Track and Field
+400 meters,Class 2A (B),:53.72,Caitlyn Bobb,Harford Technical,2021,Girls,Track and Field
+400 meters,Class 3A (A),:54.35,Sharkara Grant,Wheaton,1995,Girls,Track and Field
+400 meters,Class 4A (AA),:53.15,Olivia Ekponé,Northwest,2011,Girls,Track and Field
+Wheelchair 400 meters,Class 2A,:56.45,Tatyana McFadden,Atholton (2A),2007,Girls,Track and Field
+800 meters,Class 1A (C),2:14.25,Mary Delaney,Mountain Ridge,2023,Girls,Track and Field
+800 meters,Class 2A (B),2:11.00 ht,Donna Neale,Oakland Mills,1982,Girls,Track and Field
+800 meters,Class 3A (A),2:11.27,Nyjari McNeil,Franklin,2017,Girls,Track and Field
+800 meters,Class 4A (AA),2:11.27,Kristen Nicolini,Annapolis,1995,Girls,Track and Field
+Wheelchair 800 meters,Class 3A,1:59.77,Tatyana McFadden,Atholton,2008,Girls,Track and Field
+1600 meters,Class 1A (C),5:01.28,Mary Delaney,Mountain Ridge,2023,Girls,Track and Field
+1600 meters,Class 2A (B),4:51.21,Hayley Jackson,Patuxent,2017,Girls,Track and Field
+1600 meters,Class 3A (A),4:49.85,Sally Glynn,Walter Johnson,1994,Girls,Track and Field
+1600 meters,Class 4A (AA),4:46.20 ht,Kristen Nicolini,Annapolis,1995,Girls,Track and Field
+Wheelchair 1600 meters,Class 3A,4:10.05,Tatyana McFadden,Atholton (3A),2008,Girls,Track and Field
+Shot Put,Class 1A (C),41-03,Courtney Hawkins,Henry E. Lackey,2018,Girls,Track and Field
+Shot Put,Class 2A (B),44-01 1/4,Lindsay Grigoriev,Atholton,2003,Girls,Track and Field
+Shot Put,Class 3A (A),43-11 1/4,Amanda Deller,Aberdeen,2009,Girls,Track and Field
+Shot Put,Class 4A (AA),48-07 3/4,Emily Vannoy,Thomas Johnson,2008,Girls,Track and Field
+Discus,Class 1A (C),138-01,Byrna Jones,Wilde Lake,1983,Girls,Track and Field
+Discus,Class 2A (B),155-10,Lindsay Grigoriev,Atholton,2003,Girls,Track and Field
+Discus,Class 3A (A),152-07,Amy Bilmanis,Thomas Stone,2003,Girls,Track and Field
+Discus,Class 4A (AA),153-06,Amy Bilmanis,Thomas Stone,2004,Girls,Track and Field
+High Jump,Class 1A (C),5-09,Kathy Messner,Catoctin,1997,Girls,Track and Field
+High Jump,Class 2A (B),6-00,Tanya Hughes,Great Mills,1989,Girls,Track and Field
+High Jump,Class 3A (A),5-09,Nana Jeffrey-Idun,Wheaton,1995,Girls,Track and Field
+High Jump,Class 4A (AA),5-08 1/4,Taylor Wright,Northwest,2018,Girls,Track and Field
+Pole Vault,Class 1A (C),11-07,Emma Gerhold,Smithsburg,2014,Girls,Track and Field
+Pole Vault,Class 2A (B),12-07,Ava Allen,Middletown,2023,Girls,Track and Field
+Pole Vault,Class 3A (A),12-03,Elisa Ramos,Gov. Thomas Johnson,2022,Girls,Track and Field
+Pole Vault,Class 4A (AA),12-01,Megan Wall,Dulaney,2011,Girls,Track and Field
+Long Jump,Class 1A (C),19-06,Kim Brooks,Colonel Richardson,1978,Girls,Track and Field
+Long Jump,Class 2A (B),18-09 1/2,Tanya Hughes,Great Mills,1989,Girls,Track and Field
+Long Jump,Class 3A (A),20-01 1/2,Pun Chittchang,South Carroll,1999,Girls,Track and Field
+Long Jump,Class 4A (AA),20-04 (wind),Madeleine Akobundu,DuVal,2016,Girls,Track and Field
+Triple Jump,Class 1A (C),38-02 1/2,Kathy Messner,Catoctin,1996,Girls,Track and Field
+Triple Jump,Class 2A (B),40-09 1/2,Amiya Anoma,Randallstown,2016,Girls,Track and Field
+Triple Jump,Class 3A (A),42-05 3/4,Valerie Williams,Frederick,1996,Girls,Track and Field
+Triple Jump,Class 4A (AA),42-08 1/2-wind,Valerie Williams,Frederick,1997,Girls,Track and Field
+3200 meters,Class 1A (C),11:03.02,Mary Delaney,Mountain Ridge,2023,Girls,Track and Field
+3200 meters,Class 2A (B),10:21.73,Hayley Jackson,Patuxent,2017,Girls,Track and Field
+3200 meters,Class 3A (A),10:24.77,Sally Glynn,Walter Johnson,1995,Girls,Track and Field
+3200 meters,Class 4A (AA),10:15.79,Christy Nichols,Arundel,1996,Girls,Track and Field
+100 Meter High Hurdles,Class 1A (C),:14.28 sf,Mya King,Sparrows Point,2019,Girls,Track and Field
+100 Meter High Hurdles,Class 2A (B),:14.12,Nyla Littlejohn,Wilde Lake,1997,Girls,Track and Field
+100 Meter High Hurdles,Class 3A (A),:13.64 sf,Theresa Lewis,Western-B,2005,Girls,Track and Field
+100 Meter High Hurdles,Class 4A (AA),:13.75,Mobolaji Adeokun,DuVal,2012,Girls,Track and Field
+300 Meter Low Hurdles,Class 1A (C),:43.13,Mya King,Sparrows Point,2019,Girls,Track and Field
+300 Meter Low Hurdles,Class 2A (B),:43.34,Maggie Sullivan,Boonsboro,2014,Girls,Track and Field
+300 Meter Low Hurdles,Class 3A (A),:43.44,Karen Woods,Central-PG,1982,Girls,Track and Field
+300 Meter Low Hurdles,Class 4A (AA),:41.31,Alexis Franklin,Old Mill,2012,Girls,Track and Field
+4x100 Meter Relay,Class 1A (C),:48.46,Various,Western STES,2008,Girls,Track and Field
+4x100 Meter Relay,Class 2A (B),:48.25,Various,Oakland Mills,2016,Girls,Track and Field
+4x100 Meter Relay,Class 3A (A),:47.49,Various,Howard,1995,Girls,Track and Field
+4x100 Meter Relay,Class 4A (AA),:46.83,Various,Largo,2002,Girls,Track and Field
+4x200 Meter Relay,Class 1A (C),1:42.20,Various,Harford Technical,2011,Girls,Track and Field
+4x200 Meter Relay,Class 2A (B),1:41.36,Various,Harford Technical,2019,Girls,Track and Field
+4x200 Meter Relay,Class 3A (A),1:38.43,Various,James Hubert Blake,2019,Girls,Track and Field
+4x200 Meter Relay,Class 4A (AA),1:37.41,Various,Eleanor Roosevelt,2006,Girls,Track and Field
+4x400 Meter Relay,Class 1A (C),3:56.15,Various,Western STES,2012,Girls,Track and Field
+4x400 Meter Relay,Class 2A (B),3:53.38,Various,Fairmont Heights,1995,Girls,Track and Field
+4x400 Meter Relay,Class 3A (A),3:50.68,Various,Mount Hebron,2019,Girls,Track and Field
+4x400 Meter Relay,Class 4A (AA),3:46.22,Various,Northwest,2011,Girls,Track and Field
+4x800 Meter Relay,Class 1A (C),9:25.82,Various,Mountain Ridge,2013,Girls,Track and Field
+4x800 Meter Relay,Class 2A (B),9:16.43,Various,Western STES,2014,Girls,Track and Field
+4x800 Meter Relay,Class 3A (A),9:17.20,Various,Western-B,2009,Girls,Track and Field
+4x800 Meter Relay,Class 4A (AA),9:04.39,Various,Thomas S. Wootton,2010,Girls,Track and Field
+100 Meters,Class 1A (C),:10.35,Brody Buffington,Catoctin,2023,Boys,Track and Field
+100 Meters,Class 2A (B),:10.65,Jasper Savoy,Gwynn Park,2012,Boys,Track and Field
+100 Meters,Class 3A (A),:10.42 sf,Devon Smith,Westlake,2008,Boys,Track and Field
+100 Meters,Class 4A (AA),:10.42,Kamel Winfield Jr.,Old Mill,2022,Boys,Track and Field
+100 Meters/Wheelchair,Class 1A ,:25.78,Robbie Reightler,North Carroll (1A),2014,Boys,Track and Field
+200 Meters,Class 1A (C),:21.06,Brody Buffington,Catoctin,2023,Boys,Track and Field
+200 Meters,Class 2A (B),:20.90,Judson Lincoln IV,Oakland Mills,2022,Boys,Track and Field
+200 Meters,Class 3A (A),:21.09,Talil Atkins,Baltimore Polytechnic,2022,Boys,Track and Field
+200 Meters,Class 4A (AA),:21.04,Jermaine Lewis,Eleanor Roosevelt,1992,Boys,Track and Field
+200 Meters/Wheelchair,Class 1A  ,:50.55,Robbie Reightler,North Carroll (1A),2014,Boys,Track and Field
+400 Meters,Class 1A (C),:47.81,Kyle Farmer,Oakland Mills,2000,Boys,Track and Field
+400 Meters,Class 2A (B),:47.25,Brandon Chase,Edgewood,2012,Boys,Track and Field
+400 Meters,Class 3A (A),:47.42,Judson Lincoln IV,Oakland Mills,2022,Boys,Track and Field
+400 Meters,Class 4A (AA),:46.24,Ato Modibo,High Point,1997,Boys,Track and Field
+400 Meters/Wheelchair,Class 2A,1:08.87,Ben Mayforth,Bel Air,2012,Boys,Track and Field
+800 Meters,Class 1A (C),1:56.33,Josh Keyfauver,Clear Spring,2006,Boys,Track and Field
+800 Meters,Class 2A (B),1:53.50,Riley McDermott,Middletown,2017,Boys,Track and Field
+800 Meters,Class 3A (A),1:50.90,Kieran McDermott,Bel Air,2018,Boys,Track and Field
+800 Meters,Class 4A (AA),1:51.20 ht,Donald Battle,Suitland,1982,Boys,Track and Field
+1600 Meters,Class 1A (C),4:18.87,Jordan Davis,Allegany,2003,Boys,Track and Field
+1600 Meters,Class 2A (B),4:14.83,Andrew Revelle,Atholton,2007,Boys,Track and Field
+1600 Meters,Class 3A (A),4:07.11,Shane Stroup,River Hill,2002,Boys,Track and Field
+1600 Meters,Class 4A (AA),4:04.09,Matthew Centrowitz,Broadneck,2007,Boys,Track and Field
+1600 Meters/Wheelchair,Class 2A,4:33.03,Ben Mayforth,Bel Air,2012,Boys,Track and Field
+3200 Meters,Class 1A (C),9:25.14,David Wilson,Smithsburg,2010,Boys,Track and Field
+3200 Meters,Class 2A (B),9:17.28,Robby Creese,Glenelg,2010,Boys,Track and Field
+3200 Meters,Class 3A (A),9:11.32,Baidy Ba,Oakland Mills,2021,Boys,Track and Field
+3200 Meters,Class 4A (AA),9:06.13,Solomon Haile,Sherwood,2008,Boys,Track and Field
+110 Meter High Hurdles,Class 1A (C),:14.05,Jaden Shelton,Mardela,2022,Boys,Track and Field
+110 Meter High Hurdles,Class 2A (B),:14.14,Jalen Stanton,Century,2019,Boys,Track and Field
+110 Meter High Hurdles,Class 3A (A),:13.59,Dondre Echols,Potomac,2012,Boys,Track and Field
+110 Meter High Hurdles,Class 4A (AA),:13.84,Jerry Roney,Woodlawn,1988,Boys,Track and Field
+300 Meter Intermediate Hurdles,Class 1A (C),:39.00,Derek Martin,Smithsburg,2006,Boys,Track and Field
+300 Meter Intermediate Hurdles,Class 2A (B),:37.76,Andrew Peresta,Southern-AA,2003,Boys,Track and Field
+300 Meter Intermediate Hurdles,Class 3A (A),:36.26,Dondre Echols,Potomac,2012,Boys,Track and Field
+300 Meter Intermediate Hurdles,Class 4A (AA),:36.51,James Graham,Northwestern-PG,1999,Boys,Track and Field
+4x100 Meter Relay,Class 1A (C),:42.56,"Stefan Pastor, Jean Brunache, Chris Barksdale, Kyle Farmer",Oakland Mills,2000,Boys,Track and Field
+4x100 Meter Relay,Class 2A (B),:42.03,"Trevin McHargh, Shane King, Xavier Doctor, Mife Osinubi",Oakland Mills,2023,Boys,Track and Field
+4x100 Meter Relay,Class 3A (A),:41.08,"Tavon Young, Dondre Echols, Joshua Thome, Ronald Darby",Potomac,2012,Boys,Track and Field
+4x100 Meter Relay,Class 4A (AA),:41.64,"Eddie Hightower, Mancel Johnson, Duan Jones, Jermaine Lewis",Eleanor Roosevelt,1992,Boys,Track and Field
+4x100 Meter Relay,Class 4A (AA),:41.64,"Tavon Jacobs, David Winter, Tyrell Dias, Tyrell Scarsborough",Suitland,2012,Boys,Track and Field
+4x200 Meter Relay,Class 1A (C),1:27.19,"Stefan Pastor, Jean Brunache, Chris Barksdale, Kyle Farmer",Oakland Mills,2000,Boys,Track and Field
+4x200 Meter Relay,Class 2A (B),1:26.90,"Trevin McHargh, Judson Lincoln IV, Kanye Holland, Shane King",Oakland Mills,2022,Boys,Track and Field
+4x200 Meter Relay,Class 3A (A),1:26.40,"Greg Walker, Kenard Harris, Jesse Mitchell, Devon Smith",Westlake,2008,Boys,Track and Field
+4x200 Meter Relay,Class 4A (AA),1:26.25,"Antwan Whitaker, Beyshawn Hamilton, Rasaan Johnson, Champ Page",Henry A. Wise Jr.,2012,Boys,Track and Field
+4x400 Meter Relay,Class 1A (C),3:22.35,"Courtland Robinson, Kenneth McCuin, Jamal Henson, Donald Salmond",Northwestern-B,2011,Boys,Track and Field
+4x400 Meter Relay,Class 2A (B),3:19.02,"Artavius Williams, Lemuel Pridgen, Rashaan Johnson, James Gallman",Baltimore Poly,2007,Boys,Track and Field
+4x400 Meter Relay,Class 3A (A),3:15.50c,"Ronnie Franklin, John Wallace, Darryl Gill, Tyrone Cross",Fairmont Heights,1979,Boys,Track and Field
+4x400 Meter Relay,Class 4A (AA),3:12.05,"Robert Wingate-Robinson, Dwayne Thomas, Ali Najjar, James Graham",Northwestern-PG,1999,Boys,Track and Field
+4x800 Meter Relay,Class 1A (C),8:04.72,"Ackerly Mulcaster, Brendan Kline, Wil Haberlein, Casey Culler",Mountain Ridge,2023,Boys,Track and Field
+4x800 Meter Relay,Class 2A (B),7:56.50c,"Dallas Hurley, John Cornwell, Charles Covington, John Roemer IV",Hereford,1978,Boys,Track and Field
+4x800 Meter Relay,Class 3A (A),7:49.15,"Anthony Wimbush, Aaron Robinson, Randy Serville, Gary Ross",Oxon Hill,2017,Boys,Track and Field
+4x800 Meter Relay,Class 4A (AA),7:44.67,"Wayne Bartholomew, Ryan Priovolos, David Laratta, Josh Joson",Quince Orchard,2008,Boys,Track and Field
+Long Jump,Class 1A (C),23-01 1/2,David Alexander,Sollers Point,1966,Boys,Track and Field
+Long Jump,Class 1A (C),23-07 wind,Dontay Taylor,Carver Vo-Tech,2008,Boys,Track and Field
+Long Jump,Class 2A (B),24-04,Chris Smith,Long Reach,1998,Boys,Track and Field
+Long Jump,Class 3A (A),24-00 1/4,William Henderson,Baltimore Polytechnic,2016,Boys,Track and Field
+Long Jump,Class 4A (AA),24-00 1/2,Allen Simms,Eleanor Roosevelt,1999,Boys,Track and Field
+Triple Jump,Class 1A (C),48-08 3/4,Steve Waithe,Loch Raven,2010,Boys,Track and Field
+Triple Jump,Class 2A (B),48-00,Kelly Davis,Centennial,1988,Boys,Track and Field
+Triple Jump,Class 2A (B),49-01 wind,Ishmael Kamara,Patuxent,2013,Boys,Track and Field
+Triple Jump,Class 3A (A),48-05,Ravaughn Dillard,North Hagerstown,2017,Boys,Track and Field
+Triple Jump,Class 4A (AA),51-10 1/2,Clarence Foote-Talley,Northwest,2019,Boys,Track and Field
+High Jump,Class 1A (C),6-08,Mike Savoy,Gwynn Park,1975,Boys,Track and Field
+High Jump,Class 1A (C),6-08,Billy Lawrence,Smithsburg,2009,Boys,Track and Field
+High Jump,Class 2A (B),7-00 1/4,Jon Hill,Walkersville,2008,Boys,Track and Field
+High Jump,Class 3A (A),6-10,Malcolm Reynolds,Great Mills,1999,Boys,Track and Field
+High Jump,Class 4A (AA),7-00,Mike Lofty,Northwestern-PG,1984,Boys,Track and Field
+Pole Vault,Class 1A (C),14-06,Jackson Tuomey,Brunswick,2021,Boys,Track and Field
+Pole Vault,Class 2A (B),15-00,Chandler Kennel,Century,2014,Boys,Track and Field
+Pole Vault,Class 2A (B),15-00,Nick Neral,Century,2015,Boys,Track and Field
+Pole Vault,Class 3A (A),15-03,Bradley Hollowell,Stephen Decatur,2011,Boys,Track and Field
+Pole Vault,Class 4A (AA),15-02,Erick Artusio,Thomas Johnson,2009,Boys,Track and Field
+Shot Put,Class 1A (C),58-07 1/2,Gerome Jones,Digital Harbor,2005,Boys,Track and Field
+Shot Put,Class 2A (B),58-11 3/4,Glenwood Edwards,Lansdowne,2003,Boys,Track and Field
+Shot Put,Class 3A (A),63-06,Jim Joyce,Gaithersburg,1979,Boys,Track and Field
+Shot Put,Class 4A (AA),64-06 1/2,Tom Brosius,Springbrook,1968,Boys,Track and Field
+Discus,Class 1A (C),168-00,Carter Hess,Fort Hill,2023,Boys,Track and Field
+Discus,Class 2A (B),172-00,Ruichen He,Glenelg,2023,Boys,Track and Field
+Discus,Class 3A (A),185-08,Tim Bilmanis,Thomas Stone,1999,Boys,Track and Field
+Discus,Class 4A (AA),200-02,Vikas Gowda,Frederick,2001,Boys,Track and Field
