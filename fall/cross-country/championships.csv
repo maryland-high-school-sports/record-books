@@ -1,855 +1,931 @@
-team,year,class,status,gender,Sport
-Allegany,1997,4A,CH,Girls,Cross Country
-Allegany,1998,4A,CH,Girls,Cross Country
-Allegany,1988,4A,FN,Girls,Cross Country
-Atholton,1987,4A,CH,Girls,Cross Country
-Atholton,1988,4A,CH,Girls,Cross Country
-Atholton,1989,4A,CH,Girls,Cross Country
-Atholton,1986,4A,FN,Girls,Cross Country
-Beall,2001,4A,FN,Girls,Cross Country
-Bel Air,1975,4A,FN,Girls,Cross Country
-Bel Air,2009,4A,FN,Girls,Cross Country
-Bel Air,2010,4A,FN,Girls,Cross Country
-Bel Air,2018,4A,FN,Girls,Cross Country
-Bel Air,2019,4A,FN,Girls,Cross Country
-Bethesda-Chevy Chase,1976,4A,CH,Girls,Cross Country
-Bethesda-Chevy Chase,1977,4A,CH,Girls,Cross Country
-Bethesda-Chevy Chase,1978,4A,CH,Girls,Cross Country
-Bethesda-Chevy Chase,2002,4A,CH,Girls,Cross Country
-Bethesda-Chevy Chase,2011,4A,CH,Girls,Cross Country
-Bethesda-Chevy Chase,2012,4A,CH,Girls,Cross Country
-Bethesda-Chevy Chase,1979,4A,FN,Girls,Cross Country
-Bethesda-Chevy Chase,2013,4A,FN,Girls,Cross Country
-Bethesda-Chevy Chase,2014,4A,FN,Girls,Cross Country
-Montgomery Blair,1979,4A,FN,Girls,Cross Country
-Bohemia Manor,2008,4A,CH,Girls,Cross Country
-Bohemia Manor,2009,4A,CH,Girls,Cross Country
-Bohemia Manor,2010,4A,CH,Girls,Cross Country
-Bohemia Manor,2011,4A,CH,Girls,Cross Country
-Bohemia Manor,2007,4A,FN,Girls,Cross Country
-Bohemia Manor,2014,4A,FN,Girls,Cross Country
-Boonsboro,1984,4A,CH,Girls,Cross Country
-Boonsboro,1989,4A,CH,Girls,Cross Country
-Boonsboro,1990,4A,CH,Girls,Cross Country
-Boonsboro,1994,4A,CH,Girls,Cross Country
-Boonsboro,1995,4A,CH,Girls,Cross Country
-Boonsboro,2012,4A,CH,Girls,Cross Country
-Boonsboro,2015,4A,CH,Girls,Cross Country
-Boonsboro,2016,4A,CH,Girls,Cross Country
-Boonsboro,2017,4A,CH,Girls,Cross Country
-Boonsboro,2018,4A,CH,Girls,Cross Country
-Boonsboro,1978,4A,FN,Girls,Cross Country
-Boonsboro,1981,4A,FN,Girls,Cross Country
-Boonsboro,1991,4A,FN,Girls,Cross Country
-Boonsboro,1992,4A,FN,Girls,Cross Country
-Boonsboro,1993,4A,FN,Girls,Cross Country
-Boonsboro,2011,4A,FN,Girls,Cross Country
-Bowie,1984,4A,FN,Girls,Cross Country
-Broadneck,2002,4A,CH,Girls,Cross Country
-Broadneck,2003,4A,CH,Girls,Cross Country
-Broadneck,1998,4A,FN,Girls,Cross Country
-Brunswick,1982,4A,CH,Girls,Cross Country
-Brunswick,1983,4A,CH,Girls,Cross Country
-Brunswick,1985,4A,CH,Girls,Cross Country
-Brunswick,1991,4A,CH,Girls,Cross Country
-Brunswick,1992,4A,CH,Girls,Cross Country
-Brunswick,1993,4A,CH,Girls,Cross Country
-Brunswick,1989,4A,FN,Girls,Cross Country
-Brunswick,1990,4A,FN,Girls,Cross Country
-Brunswick,2017,4A,FN,Girls,Cross Country
-Brunswick,2018,4A,FN,Girls,Cross Country
-Brunswick,2019,4A,FN,Girls,Cross Country
-Calvert,2012,4A,CH,Girls,Cross Country
-Cambridge/South Dorchester,2013,4A,CH,Girls,Cross Country
-Catoctin,2016,4A,FN,Girls,Cross Country
-Catonsville,1993,4A,CH,Girls,Cross Country
-Catonsville,1994,4A,FN,Girls,Cross Country
-Catonsville,1996,4A,FN,Girls,Cross Country
-Catonsville,1999,4A,FN,Girls,Cross Country
-Centennial,1990,4A,CH,Girls,Cross Country
-Centennial,2013,4A,CH,Girls,Cross Country
-Centennial,2015,4A,CH,Girls,Cross Country
-Centennial,1987,4A,FN,Girls,Cross Country
-Centennial,2012,4A,FN,Girls,Cross Country
-Century,2009,4A,CH,Girls,Cross Country
-Century,2010,4A,CH,Girls,Cross Country
-Century,2011,4A,CH,Girls,Cross Country
-Century,2005,4A,FN,Girls,Cross Country
-Century,2007,4A,FN,Girls,Cross Country
-Century,2008,4A,FN,Girls,Cross Country
-Century,2015,4A,FN,Girls,Cross Country
-Winston Churchill,1979,4A,CH,Girls,Cross Country
-Winston Churchill,1991,4A,CH,Girls,Cross Country
-Winston Churchill,1977,4A,FN,Girls,Cross Country
-Winston Churchill,1978,4A,FN,Girls,Cross Country
-Winston Churchill,1980,4A,FN,Girls,Cross Country
-Winston Churchill,1985,4A,FN,Girls,Cross Country
-Crossland,1982,4A,CH,Girls,Cross Country
-Crossland,1983,4A,CH,Girls,Cross Country
-Crossland,1981,4A,FN,Girls,Cross Country
-Damascus,1994,4A,CH,Girls,Cross Country
-Damascus,1995,4A,FN,Girls,Cross Country
-Digital Harbor,2005,4A,FN,Girls,Cross Country
-Dulaney,1981,4A,CH,Girls,Cross Country
-Dulaney,1992,4A,CH,Girls,Cross Country
-Dulaney,1994,4A,CH,Girls,Cross Country
-Dulaney,1995,4A,CH,Girls,Cross Country
-Dulaney,1996,4A,CH,Girls,Cross Country
-Dulaney,1997,4A,CH,Girls,Cross Country
-Dulaney,2001,4A,CH,Girls,Cross Country
-Dulaney,1982,4A,FN,Girls,Cross Country
-Dulaney,1993,4A,FN,Girls,Cross Country
-Dulaney,1998,4A,FN,Girls,Cross Country
-Dulaney,1999,4A,FN,Girls,Cross Country
-Dulaney,2000,4A,FN,Girls,Cross Country
-Dulaney,2004,4A,FN,Girls,Cross Country
-Dulaney,2005,4A,FN,Girls,Cross Country
-Dulaney,2006,4A,FN,Girls,Cross Country
-Dulaney,2015,4A,FN,Girls,Cross Country
-Albert Einstein,2014,4A,FN,Girls,Cross Country
-Fallston,1993,4A,FN,Girls,Cross Country
-Frederick,1989,4A,CH,Girls,Cross Country
-Frederick,1995,4A,CH,Girls,Cross Country
-Frederick,1980,4A,FN,Girls,Cross Country
-Frederick,1981,4A,FN,Girls,Cross Country
-Frederick,1988,4A,FN,Girls,Cross Country
-Frederick,1990,4A,FN,Girls,Cross Country
-Frederick,2004,4A,FN,Girls,Cross Country
-Friendly,1976,4A,FN,Girls,Cross Country
-Glenelg,1990,4A,CH,Girls,Cross Country
-Glenelg,2003,4A,CH,Girls,Cross Country
-Glenelg,1983,4A,FN,Girls,Cross Country
-Glenelg,1989,4A,FN,Girls,Cross Country
-Glenelg,1992,4A,FN,Girls,Cross Country
-Glenelg,1998,4A,FN,Girls,Cross Country
-Glenelg,1999,4A,FN,Girls,Cross Country
-Glenelg,2000,4A,FN,Girls,Cross Country
-Glenelg,2001,4A,FN,Girls,Cross Country
-Great Mills,1989,4A,CH,Girls,Cross Country
-Hereford,1978,4A,CH,Girls,Cross Country
-Hereford,1979,4A,CH,Girls,Cross Country
-Hereford,1980,4A,CH,Girls,Cross Country
-Hereford,2004,4A,CH,Girls,Cross Country
-Hereford,2005,4A,CH,Girls,Cross Country
-Hereford,2010,4A,CH,Girls,Cross Country
-Hereford,2011,4A,CH,Girls,Cross Country
-Hereford,2013,4A,CH,Girls,Cross Country
-Hereford,2015,4A,CH,Girls,Cross Country
-Hereford,2016,4A,CH,Girls,Cross Country
-Hereford,2017,4A,CH,Girls,Cross Country
-Hereford,2018,4A,CH,Girls,Cross Country
-Hereford,1984,4A,FN,Girls,Cross Country
-Hereford,1996,4A,FN,Girls,Cross Country
-Hereford,2002,4A,FN,Girls,Cross Country
-Hereford,2003,4A,FN,Girls,Cross Country
-Hereford,2006,4A,FN,Girls,Cross Country
-Hereford,2007,4A,FN,Girls,Cross Country
-Hereford,2008,4A,FN,Girls,Cross Country
-Hereford,2009,4A,FN,Girls,Cross Country
-Hereford,2014,4A,FN,Girls,Cross Country
-Howard,2006,4A,CH,Girls,Cross Country
-Howard,2007,4A,CH,Girls,Cross Country
-Howard,2019,4A,CH,Girls,Cross Country
-Howard,2018,4A,FN,Girls,Cross Country
-Thomas Johnson,2009,4A,FN,Girls,Cross Country
-Walter Johnson,1996,4A,CH,Girls,Cross Country
-Walter Johnson,1997,4A,CH,Girls,Cross Country
-Walter Johnson,1998,4A,CH,Girls,Cross Country
-Walter Johnson,1999,4A,CH,Girls,Cross Country
-Walter Johnson,2013,4A,CH,Girls,Cross Country
-Walter Johnson,2014,4A,CH,Girls,Cross Country
-Walter Johnson,2015,4A,CH,Girls,Cross Country
-Walter Johnson,2016,4A,CH,Girls,Cross Country
-Walter Johnson,2017,4A,CH,Girls,Cross Country
-Walter Johnson,1991,4A,FN,Girls,Cross Country
-Walter Johnson,1992,4A,FN,Girls,Cross Country
-Walter Johnson,1993,4A,FN,Girls,Cross Country
-Walter Johnson,2002,4A,FN,Girls,Cross Country
-John F. Kennedy,1983,4A,CH,Girls,Cross Country
-Francis Scott Key,1994,4A,FN,Girls,Cross Country
-Laurel,1985,4A,CH,Girls,Cross Country
-Laurel,1986,4A,FN,Girls,Cross Country
-Laurel,1987,4A,FN,Girls,Cross Country
-Leonardtown,1989,4A,FN,Girls,Cross Country
-Liberty,2014,4A,CH,Girls,Cross Country
-Liberty,2019,4A,CH,Girls,Cross Country
-Liberty,1990,4A,FN,Girls,Cross Country
-Linganore,1993,4A,CH,Girls,Cross Country
-Linganore,1994,4A,CH,Girls,Cross Country
-Linganore,1995,4A,CH,Girls,Cross Country
-Linganore,2000,4A,FN,Girls,Cross Country
-Loch Raven,2004,4A,CH,Girls,Cross Country
-Loch Raven,1982,4A,FN,Girls,Cross Country
-Loch Raven,1983,4A,FN,Girls,Cross Country
-Loch Raven,1985,4A,FN,Girls,Cross Country
-Loch Raven,1986,4A,FN,Girls,Cross Country
-Loch Raven,1991,4A,FN,Girls,Cross Country
-Loch Raven,2003,4A,FN,Girls,Cross Country
-Loch Raven,2010,4A,FN,Girls,Cross Country
-Manchester Valley,2012,4A,FN,Girls,Cross Country
-McDonough,1981,4A,CH,Girls,Cross Country
-McDonough,1984,4A,FN,Girls,Cross Country
-Middletown,1981,4A,CH,Girls,Cross Country
-Middletown,1991,4A,CH,Girls,Cross Country
-Middletown,1992,4A,CH,Girls,Cross Country
-Middletown,1997,4A,CH,Girls,Cross Country
-Middletown,1998,4A,CH,Girls,Cross Country
-Middletown,1999,4A,CH,Girls,Cross Country
-Middletown,2000,4A,CH,Girls,Cross Country
-Middletown,1980,4A,FN,Girls,Cross Country
-Middletown,1990,4A,FN,Girls,Cross Country
-Middletown,2019,4A,FN,Girls,Cross Country
-Mount Hebron,1997,4A,FN,Girls,Cross Country
-Mount Hebron,1998,4A,FN,Girls,Cross Country
-Mount Hebron,2010,4A,FN,Girls,Cross Country
-North Carroll,1983,4A,CH,Girls,Cross Country
-North Carroll,1984,4A,CH,Girls,Cross Country
-North Carroll,1985,4A,CH,Girls,Cross Country
-North Carroll,1986,4A,CH,Girls,Cross Country
-North Carroll,2000,4A,CH,Girls,Cross Country
-North Carroll,1982,4A,FN,Girls,Cross Country
-North Carroll,1999,4A,FN,Girls,Cross Country
-North Carroll,2001,4A,FN,Girls,Cross Country
-North Hagerstown,1987,4A,CH,Girls,Cross Country
-North Harford,1986,4A,CH,Girls,Cross Country
-Northern-C,2016,4A,CH,Girls,Cross Country
-Northern-C,2017,4A,CH,Girls,Cross Country
-Northern-C,2018,4A,CH,Girls,Cross Country
-Northern-C,2019,4A,CH,Girls,Cross Country
-Northern-C,2015,4A,FN,Girls,Cross Country
-Northern-G,2019,4A,CH,Girls,Cross Country
-Northern-G,2016,4A,FN,Girls,Cross Country
-Northwest,2002,4A,CH,Girls,Cross Country
-Northwest,2003,4A,CH,Girls,Cross Country
-Northwest,2004,4A,FN,Girls,Cross Country
-Northwest,2008,4A,FN,Girls,Cross Country
-Northwest,2010,4A,FN,Girls,Cross Country
-Northwood,1975,4A,CH,Girls,Cross Country
-Northwood,1977,4A,CH,Girls,Cross Country
-Northwood,1978,4A,CH,Girls,Cross Country
-Northwood,1976,4A,FN,Girls,Cross Country
-Oakdale,2018,4A,FN,Girls,Cross Country
-Oakland Mills,1995,4A,FN,Girls,Cross Country
-Oakland Mills,2012,4A,FN,Girls,Cross Country
-Oxon Hill,1977,4A,FN,Girls,Cross Country
-Perry Hall,1993,4A,CH,Girls,Cross Country
-Poolesville,2013,4A,FN,Girls,Cross Country
-Quince Orchard,2001,4A,CH,Girls,Cross Country
-Quince Orchard,1991,4A,FN,Girls,Cross Country
-Quince Orchard,1992,4A,FN,Girls,Cross Country
-Quince Orchard,1994,4A,FN,Girls,Cross Country
-Quince Orchard,1996,4A,FN,Girls,Cross Country
-Quince Orchard,2012,4A,FN,Girls,Cross Country
-Reservoir,2012,4A,CH,Girls,Cross Country
-River Hill,2007,4A,CH,Girls,Cross Country
-River Hill,2008,4A,CH,Girls,Cross Country
-River Hill,2009,4A,CH,Girls,Cross Country
-River Hill,2014,4A,CH,Girls,Cross Country
-River Hill,2000,4A,FN,Girls,Cross Country
-River Hill,2005,4A,FN,Girls,Cross Country
-River Hill,2006,4A,FN,Girls,Cross Country
-River Hill,2011,4A,FN,Girls,Cross Country
-River Hill,2013,4A,FN,Girls,Cross Country
-River Hill,2016,4A,FN,Girls,Cross Country
-River Hill,2017,4A,FN,Girls,Cross Country
-Rockville,1980,4A,FN,Girls,Cross Country
-Eleanor Roosevelt,1986,4A,CH,Girls,Cross Country
-Eleanor Roosevelt,1988,4A,CH,Girls,Cross Country
-Eleanor Roosevelt,2004,4A,CH,Girls,Cross Country
-Eleanor Roosevelt,2005,4A,CH,Girls,Cross Country
-Eleanor Roosevelt,2006,4A,CH,Girls,Cross Country
-Eleanor Roosevelt,1978,4A,FN,Girls,Cross Country
-Eleanor Roosevelt,1987,4A,FN,Girls,Cross Country
-Eleanor Roosevelt,2003,4A,FN,Girls,Cross Country
-Eleanor Roosevelt,2007,4A,FN,Girls,Cross Country
-Severna Park,1987,4A,CH,Girls,Cross Country
-Severna Park,1998,4A,CH,Girls,Cross Country
-Severna Park,2005,4A,CH,Girls,Cross Country
-Severna Park,2006,4A,CH,Girls,Cross Country
-Severna Park,2009,4A,CH,Girls,Cross Country
-Severna Park,2018,4A,CH,Girls,Cross Country
-Severna Park,1997,4A,FN,Girls,Cross Country
-Severna Park,2017,4A,FN,Girls,Cross Country
-Severna Park,2019,4A,FN,Girls,Cross Country
-Sherwood,1979,4A,FN,Girls,Cross Country
-Smithsburg,1978,4A,CH,Girls,Cross Country
-Smithsburg,2000,4A,CH,Girls,Cross Country
-Smithsburg,2001,4A,CH,Girls,Cross Country
-Smithsburg,2006,4A,CH,Girls,Cross Country
-Smithsburg,2014,4A,CH,Girls,Cross Country
-Smithsburg,1979,4A,FN,Girls,Cross Country
-Smithsburg,1984,4A,FN,Girls,Cross Country
-Smithsburg,1985,4A,FN,Girls,Cross Country
-Smithsburg,2009,4A,FN,Girls,Cross Country
-Smithsburg,2013,4A,FN,Girls,Cross Country
-Smithsburg,2015,4A,FN,Girls,Cross Country
-South Carroll,2007,4A,CH,Girls,Cross Country
-South Carroll,2008,4A,FN,Girls,Cross Country
-South Carroll,2011,4A,FN,Girls,Cross Country
-Southern (G),1996,4A,CH,Girls,Cross Country
-Southern (G),1999,4A,CH,Girls,Cross Country
-Southern (G),1995,4A,FN,Girls,Cross Country
-Southern (G),1997,4A,FN,Girls,Cross Country
-Southern (G),2002,4A,FN,Girls,Cross Country
-Towson,1980,4A,CH,Girls,Cross Country
-Towson,1982,4A,CH,Girls,Cross Country
-Towson,1984,4A,CH,Girls,Cross Country
-Towson,2001,4A,CH,Girls,Cross Country
-Towson,2008,4A,CH,Girls,Cross Country
-Towson,1981,4A,FN,Girls,Cross Country
-Walkersville,1982,4A,FN,Girls,Cross Country
-Walkersville,1983,4A,FN,Girls,Cross Country
-Westminster,1984,4A,CH,Girls,Cross Country
-Westminster,1983,4A,FN,Girls,Cross Country
-Walt Whitman,1990,4A,CH,Girls,Cross Country
-Walt Whitman,1991,4A,CH,Girls,Cross Country
-Walt Whitman,1992,4A,CH,Girls,Cross Country
-Walt Whitman,2010,4A,CH,Girls,Cross Country
-Walt Whitman,1988,4A,FN,Girls,Cross Country
-Walt Whitman,1989,4A,FN,Girls,Cross Country
-Walt Whitman,1995,4A,FN,Girls,Cross Country
-Walt Whitman,2011,4A,FN,Girls,Cross Country
-Wilde Lake,1996,4A,CH,Girls,Cross Country
-Wilde Lake,1997,4A,FN,Girls,Cross Country
-Williamsport,1979,4A,CH,Girls,Cross Country
-Williamsport,1980,4A,CH,Girls,Cross Country
-Williamsport,1981,4A,CH,Girls,Cross Country
-Williamsport,1982,4A,CH,Girls,Cross Country
-Williamsport,2002,4A,CH,Girls,Cross Country
-Williamsport,2003,4A,CH,Girls,Cross Country
-Williamsport,2005,4A,CH,Girls,Cross Country
-Williamsport,1978,4A,FN,Girls,Cross Country
-Williamsport,2004,4A,FN,Girls,Cross Country
-Williamsport,2006,4A,FN,Girls,Cross Country
-Winters Mill,2004,4A,FN,Girls,Cross Country
-Charles W. Woodward,1985,4A,CH,Girls,Cross Country
-Thomas S. Wootton,2016,4A,FN,Girls,Cross Country
-C. Milton Wright,1988,4A,CH,Girls,Cross Country
-C. Milton Wright,1999,4A,CH,Girls,Cross Country
-C. Milton Wright,2000,4A,CH,Girls,Cross Country
-C. Milton Wright,2004,4A,CH,Girls,Cross Country
-C. Milton Wright,2007,4A,CH,Girls,Cross Country
-C. Milton Wright,2008,4A,CH,Girls,Cross Country
-C. Milton Wright,1985,4A,FN,Girls,Cross Country
-C. Milton Wright,1994,4A,FN,Girls,Cross Country
-C. Milton Wright,1996,4A,FN,Girls,Cross Country
-C. Milton Wright,2001,4A,FN,Girls,Cross Country
-C. Milton Wright,2002,4A,FN,Girls,Cross Country
-C. Milton Wright,2003,4A,FN,Girls,Cross Country
-C. Milton Wright,201,4A,FN,Girls,Cross Country
-Allegany,1970,4A,CH,Boys,Cross Country
-Allegany,1993,4A,CH,Boys,Cross Country
-Allegany,2009,4A,FN,Boys,Cross Country
-Atholton,1967,4A,CH,Boys,Cross Country
-Atholton,1989,4A,CH,Boys,Cross Country
-Atholton,2008,4A,CH,Boys,Cross Country
-Atholton,1979,4A,FN,Boys,Cross Country
-Atholton,1982,4A,FN,Boys,Cross Country
-Atholton,1983,4A,FN,Boys,Cross Country
-Atholton,1986,4A,FN,Boys,Cross Country
-Atholton,1997,4A,FN,Boys,Cross Country
-Atholton,2003,4A,FN,Boys,Cross Country
-Atholton,2004,4A,FN,Boys,Cross Country
-Atholton,2005,4A,FN,Boys,Cross Country
-Atholton,2006,4A,FN,Boys,Cross Country
-Atholton,2014,4A,FN,Boys,Cross Country
-Atholton,2015,4A,FN,Boys,Cross Country
-Bethesda-Chevy Chase,1969,4A,CH,Boys,Cross Country
-Bethesda-Chevy Chase,1971,4A,CH,Boys,Cross Country
-Bethesda-Chevy Chase,1973,4A,CH,Boys,Cross Country
-Bethesda-Chevy Chase,2007,4A,CH,Boys,Cross Country
-Bethesda-Chevy Chase,1961,4A,FN,Boys,Cross Country
-Bethesda-Chevy Chase,1966,4A,FN,Boys,Cross Country
-Bethesda-Chevy Chase,1985,4A,FN,Boys,Cross Country
-Beall,1974,4A,CH,Boys,Cross Country
-Beall,1980,4A,CH,Boys,Cross Country
-Beall,1981,4A,CH,Boys,Cross Country
-Beall,2003,4A,CH,Boys,Cross Country
-Beall,2004,4A,CH,Boys,Cross Country
-Beall,2005,4A,CH,Boys,Cross Country
-Beall,1960,4A,FN,Boys,Cross Country
-Beall,1972,4A,FN,Boys,Cross Country
-Beall,1975,4A,FN,Boys,Cross Country
-Beall,1983,4A,FN,Boys,Cross Country
-Beall,2002,4A,FN,Boys,Cross Country
-Bel Air,1947,4A,CH,Boys,Cross Country
-Bel Air,1948,4A,CH,Boys,Cross Country
-Bel Air,1960,4A,CH,Boys,Cross Country
-Bel Air,1963,4A,CH,Boys,Cross Country
-Bel Air,1946,4A,FN,Boys,Cross Country
-Bel Air,2006,4A,FN,Boys,Cross Country
-Bel Air,2008,4A,FN,Boys,Cross Country
-Montgomery Blair,1963,4A,CH,Boys,Cross Country
-Montgomery Blair,1956,4A,FN,Boys,Cross Country
-Bohemia Manor,2008,4A,CH,Boys,Cross Country
-Bohemia Manor,2009,4A,CH,Boys,Cross Country
-Bohemia Manor,2011,4A,CH,Boys,Cross Country
-Bohemia Manor,2016,4A,CH,Boys,Cross Country
-Bohemia Manor,2017,4A,CH,Boys,Cross Country
-Bohemia Manor,2012,4A,FN,Boys,Cross Country
-Bohemia Manor,2014,4A,FN,Boys,Cross Country
-Bohemia Manor,2018,4A,FN,Boys,Cross Country
-Boonsboro,2012,4A,CH,Boys,Cross Country
-Boonsboro,2015,4A,CH,Boys,Cross Country
-Boonsboro,2018,4A,CH,Boys,Cross Country
-Boonsboro,1968,4A,FN,Boys,Cross Country
-Boonsboro,1978,4A,FN,Boys,Cross Country
-Boonsboro,1981,4A,FN,Boys,Cross Country
-Boonsboro,1984,4A,FN,Boys,Cross Country
-Boonsboro,1990,4A,FN,Boys,Cross Country
-Boonsboro,1996,4A,FN,Boys,Cross Country
-Bowie,1984,4A,CH,Boys,Cross Country
-Broadneck,1984,4A,CH,Boys,Cross Country
-Broadneck,2004,4A,CH,Boys,Cross Country
-Broadneck,2005,4A,CH,Boys,Cross Country
-Broadneck,1990,4A,FN,Boys,Cross Country
-Broadneck,2000,4A,FN,Boys,Cross Country
-Broadneck,2002,4A,FN,Boys,Cross Country
-Brooklyn Park,1964,4A,CH,Boys,Cross Country
-Brooklyn Park,1961,4A,FN,Boys,Cross Country
-Brooklyn Park,1962,4A,FN,Boys,Cross Country
-Brunswick,1946,4A,CH,Boys,Cross Country
-Brunswick,1947,4A,CH,Boys,Cross Country
-Brunswick,1948,4A,CH,Boys,Cross Country
-Brunswick,1965,4A,CH,Boys,Cross Country
-Brunswick,1966,4A,CH,Boys,Cross Country
-Brunswick,1989,4A,CH,Boys,Cross Country
-Brunswick,1967,4A,FN,Boys,Cross Country
-Calvert,2017,4A,FN,Boys,Cross Country
-Catoctin,2010,4A,CH,Boys,Cross Country
-Catoctin,2012,4A,CH,Boys,Cross Country
-Catoctin,2013,4A,CH,Boys,Cross Country
-Catoctin,2014,4A,CH,Boys,Cross Country
-Catoctin,1976,4A,FN,Boys,Cross Country
-Catonsville,1946,4A,CH,Boys,Cross Country
-Catonsville,1959,4A,CH,Boys,Cross Country
-Catonsville,1960,4A,CH,Boys,Cross Country
-Catonsville,1964,4A,CH,Boys,Cross Country
-Catonsville,1947,4A,FN,Boys,Cross Country
-Centennial,1978,4A,CH,Boys,Cross Country
-Centennial,1980,4A,CH,Boys,Cross Country
-Centennial,1993,4A,CH,Boys,Cross Country
-Centennial,2018,4A,CH,Boys,Cross Country
-Centennial,1988,4A,FN,Boys,Cross Country
-Centennial,1989,4A,FN,Boys,Cross Country
-Centennial,1994,4A,FN,Boys,Cross Country
-Centennial,2001,4A,FN,Boys,Cross Country
-Centennial,2002,4A,FN,Boys,Cross Country
-Centennial,2017,4A,FN,Boys,Cross Country
-Centennial,2019,4A,FN,Boys,Cross Country
-Central Consolidated,1961,4A,CH,Boys,Cross Country
-Central Consolidated,1960,4A,FN,Boys,Cross Country
-Central Consolidated,1963,4A,FN,Boys,Cross Country
-Central (PG),1965,4A,CH,Boys,Cross Country
-Central (PG),1966,4A,CH,Boys,Cross Country
-Central (PG),1969,4A,CH,Boys,Cross Country
-Central (PG),1968,4A,FN,Boys,Cross Country
-Centreville,1956,4A,CH,Boys,Cross Country
-Century,2016,4A,FN,Boys,Cross Country
-Winston Churchill,1968,4A,CH,Boys,Cross Country
-Winston Churchill,1975,4A,CH,Boys,Cross Country
-Winston Churchill,1977,4A,CH,Boys,Cross Country
-Winston Churchill,1978,4A,CH,Boys,Cross Country
-Winston Churchill,1967,4A,FN,Boys,Cross Country
-Winston Churchill,2009,4A,FN,Boys,Cross Country
-Winston Churchill,2010,4A,FN,Boys,Cross Country
-Clear Spring,2005,4A,CH,Boys,Cross Country
-Clear Spring,2006,4A,CH,Boys,Cross Country
-Damascus,1961,4A,CH,Boys,Cross Country
-Damascus,1965,4A,CH,Boys,Cross Country
-Damascus,2009,4A,CH,Boys,Cross Country
-Damascus,1960,4A,FN,Boys,Cross Country
-Damascus,1995,4A,FN,Boys,Cross Country
-Damascus,1996,4A,FN,Boys,Cross Country
-Douglass (PG),1970,4A,FN,Boys,Cross Country
-Dulaney,1968,4A,CH,Boys,Cross Country
-Dulaney,1979,4A,CH,Boys,Cross Country
-Dulaney,1980,4A,CH,Boys,Cross Country
-Dulaney,1981,4A,CH,Boys,Cross Country
-Dulaney,1983,4A,CH,Boys,Cross Country
-Dulaney,2015,4A,CH,Boys,Cross Country
-Dulaney,2016,4A,CH,Boys,Cross Country
-Dulaney,1967,4A,FN,Boys,Cross Country
-Dulaney,1982,4A,FN,Boys,Cross Country
-Dulaney,2001,4A,FN,Boys,Cross Country
-Dulaney,2013,4A,FN,Boys,Cross Country
-Dulaney,2014,4A,FN,Boys,Cross Country
-Dulaney,2017,4A,FN,Boys,Cross Country
-Dundalk,1946,4A,CH,Boys,Cross Country
-Dundalk,1961,4A,CH,Boys,Cross Country
-Dundalk,1948,4A,FN,Boys,Cross Country
-Dundalk,1949,4A,FN,Boys,Cross Country
-Dundalk,1960,4A,FN,Boys,Cross Country
-Dundalk,1963,4A,FN,Boys,Cross Country
-Dundalk,1964,4A,FN,Boys,Cross Country
-Duval,1972,4A,CH,Boys,Cross Country
-Duval,1971,4A,FN,Boys,Cross Country
-Easton,1992,4A,FN,Boys,Cross Country
-Easton,1993,4A,FN,Boys,Cross Country
-Albert Einstein,1971,4A,FN,Boys,Cross Country
-Albert Einstein,1980,4A,FN,Boys,Cross Country
-Albert Einstein,1985,4A,FN,Boys,Cross Country
-Albert Einstein,2010,4A,FN,Boys,Cross Country
-Elkridge,1948,4A,CH,Boys,Cross Country
-Elkridge,1949,4A,CH,Boys,Cross Country
-Fairmont Heights,1979,4A,CH,Boys,Cross Country
-Fairmont Heights,1960,4A,FN,Boys,Cross Country
-Fallston,1981,4A,CH,Boys,Cross Country
-Fallston,1980,4A,FN,Boys,Cross Country
-Fort Hill,1995,4A,CH,Boys,Cross Country
-Fort Hill,1997,4A,CH,Boys,Cross Country
-Fort Hill,1964,4A,FN,Boys,Cross Country
-Franklin,1963,4A,FN,Boys,Cross Country
-Friendly,1976,4A,CH,Boys,Cross Country
-Friendly,1977,4A,FN,Boys,Cross Country
-Friendly,1980,4A,FN,Boys,Cross Country
-Gaithersburg,1961,4A,CH,Boys,Cross Country
-Gaithersburg,1971,4A,CH,Boys,Cross Country
-Gaithersburg,2000,4A,CH,Boys,Cross Country
-Gaithersburg,1965,4A,FN,Boys,Cross Country
-Gaithersburg,1970,4A,FN,Boys,Cross Country
-Gaithersburg,1973,4A,FN,Boys,Cross Country
-Gaithersburg,2001,4A,FN,Boys,Cross Country
-Gaithersburg,2004,4A,FN,Boys,Cross Country
-Glenelg,1983,4A,CH,Boys,Cross Country
-Glenelg,1991,4A,CH,Boys,Cross Country
-Glenelg,2001,4A,CH,Boys,Cross Country
-Glenelg,2002,4A,CH,Boys,Cross Country
-Glenelg,2007,4A,CH,Boys,Cross Country
-Glenelg,1987,4A,FN,Boys,Cross Country
-Glenelg,1990,4A,FN,Boys,Cross Country
-Glenelg,1999,4A,FN,Boys,Cross Country
-Glenelg,2000,4A,FN,Boys,Cross Country
-Glenelg,2009,4A,FN,Boys,Cross Country
-Glenelg,2010,4A,FN,Boys,Cross Country
-Hagerstown,1947,4A,CH,Boys,Cross Country
-Hagerstown,1948,4A,CH,Boys,Cross Country
-Hagerstown,1949,4A,CH,Boys,Cross Country
-Hammond,1982,4A,FN,Boys,Cross Country
-Havre de Grace,1979,4A,FN,Boys,Cross Country
-Havre de Grace Consolidated,1960,4A,CH,Boys,Cross Country
-Hereford,1957,4A,CH,Boys,Cross Country
-Hereford,1958,4A,CH,Boys,Cross Country
-Hereford,1959,4A,CH,Boys,Cross Country
-Hereford,1960,4A,CH,Boys,Cross Country
-Hereford,1962,4A,CH,Boys,Cross Country
-Hereford,1968,4A,CH,Boys,Cross Country
-Hereford,1970,4A,CH,Boys,Cross Country
-Hereford,1971,4A,CH,Boys,Cross Country
-Hereford,1974,4A,CH,Boys,Cross Country
-Hereford,1976,4A,CH,Boys,Cross Country
-Hereford,1977,4A,CH,Boys,Cross Country
-Hereford,1978,4A,CH,Boys,Cross Country
-Hereford,2010,4A,CH,Boys,Cross Country
-Hereford,2011,4A,CH,Boys,Cross Country
-Hereford,2012,4A,CH,Boys,Cross Country
-Hereford,1961,4A,FN,Boys,Cross Country
-Hereford,1969,4A,FN,Boys,Cross Country
-Hereford,1975,4A,FN,Boys,Cross Country
-Hereford,1992,4A,FN,Boys,Cross Country
-Hereford,1995,4A,FN,Boys,Cross Country
-High Point,1977,4A,FN,Boys,Cross Country
-High Point,1978,4A,FN,Boys,Cross Country
-High Point,1979,4A,FN,Boys,Cross Country
-Howard,1966,4A,FN,Boys,Cross Country
-Howard,1977,4A,FN,Boys,Cross Country
-Thomas Johnson,2013,4A,CH,Boys,Cross Country
-Thomas Johnson,2012,4A,FN,Boys,Cross Country
-Walter Johnson,2008,4A,CH,Boys,Cross Country
-Walter Johnson,2009,4A,CH,Boys,Cross Country
-Walter Johnson,2010,4A,CH,Boys,Cross Country
-Walter Johnson,2011,4A,CH,Boys,Cross Country
-Walter Johnson,1991,4A,FN,Boys,Cross Country
-Walter Johnson,2003,4A,FN,Boys,Cross Country
-Walter Johnson,2012,4A,FN,Boys,Cross Country
-Joppatowne,1991,4A,CH,Boys,Cross Country
-Joppatowne,1992,4A,CH,Boys,Cross Country
-John F. Kennedy,1974,4A,CH,Boys,Cross Country
-Kenwood,1956,4A,CH,Boys,Cross Country
-Kenwood,1958,4A,CH,Boys,Cross Country
-Kenwood,1962,4A,CH,Boys,Cross Country
-Kenwood,1967,4A,CH,Boys,Cross Country
-Kenwood,1959,4A,FN,Boys,Cross Country
-Kenwood,1976,4A,FN,Boys,Cross Country
-Francis Scott Key,1990,4A,CH,Boys,Cross Country
-Francis Scott Key,2006,4A,CH,Boys,Cross Country
-Francis Scott Key,1970,4A,FN,Boys,Cross Country
-Francis Scott Key,1985,4A,FN,Boys,Cross Country
-Francis Scott Key,1991,4A,FN,Boys,Cross Country
-Francis Scott Key,2007,4A,FN,Boys,Cross Country
-Laurel,1987,4A,FN,Boys,Cross Country
-Leonardtown,1961,4A,FN,Boys,Cross Country
-Liberty,2003,4A,CH,Boys,Cross Country
-Liberty,2004,4A,CH,Boys,Cross Country
-Liberty,2005,4A,CH,Boys,Cross Country
-Liberty,2015,4A,CH,Boys,Cross Country
-Liberty,2016,4A,CH,Boys,Cross Country
-Liberty,2017,4A,CH,Boys,Cross Country
-Liberty,2018,4A,CH,Boys,Cross Country
-Liberty,1984,4A,FN,Boys,Cross Country
-Liberty,1985,4A,FN,Boys,Cross Country
-Liberty,1994,4A,FN,Boys,Cross Country
-Liberty,2014,4A,FN,Boys,Cross Country
-Liberty,2019,4A,FN,Boys,Cross Country
-Linganore,1967,4A,CH,Boys,Cross Country
-Linganore,1996,4A,CH,Boys,Cross Country
-Linganore,2017,4A,CH,Boys,Cross Country
-Linganore,1997,4A,FN,Boys,Cross Country
-Linganore,1999,4A,FN,Boys,Cross Country
-Linganore,2011,4A,FN,Boys,Cross Country
-Linganore,2016,4A,FN,Boys,Cross Country
-Linganore,2018,4A,FN,Boys,Cross Country
-Loch Raven,1976,4A,CH,Boys,Cross Country
-Loch Raven,1981,4A,CH,Boys,Cross Country
-Loch Raven,1983,4A,CH,Boys,Cross Country
-Loch Raven,1990,4A,CH,Boys,Cross Country
-Loch Raven,2002,4A,CH,Boys,Cross Country
-Loch Raven,1982,4A,FN,Boys,Cross Country
-Loch Raven,1986,4A,FN,Boys,Cross Country
-Loch Raven,1988,4A,FN,Boys,Cross Country
-Loch Raven,1989,4A,FN,Boys,Cross Country
-Loch Raven,2001,4A,FN,Boys,Cross Country
-Col. Zadok Magruder,1973,4A,FN,Boys,Cross Country
-Col. Zadok Magruder,1975,4A,FN,Boys,Cross Country
-Middletown,1970,4A,CH,Boys,Cross Country
-Middletown,1972,4A,CH,Boys,Cross Country
-Middletown,1973,4A,CH,Boys,Cross Country
-Middletown,1976,4A,CH,Boys,Cross Country
-Middletown,1979,4A,CH,Boys,Cross Country
-Middletown,1982,4A,CH,Boys,Cross Country
-Middletown,1983,4A,CH,Boys,Cross Country
-Middletown,1984,4A,CH,Boys,Cross Country
-Middletown,1963,4A,FN,Boys,Cross Country
-Middletown,1964,4A,FN,Boys,Cross Country
-Middletown,1966,4A,FN,Boys,Cross Country
-Middletown,1969,4A,FN,Boys,Cross Country
-Middletown,1971,4A,FN,Boys,Cross Country
-Middletown,1977,4A,FN,Boys,Cross Country
-Middletown,1980,4A,FN,Boys,Cross Country
-Middletown,1996,4A,FN,Boys,Cross Country
-Middletown,2000,4A,FN,Boys,Cross Country
-Milford Mill,1953,4A,FN,Boys,Cross Country
-Milford Mill,1989,4A,FN,Boys,Cross Country
-Richard Montgomery,1975,4A,CH,Boys,Cross Country
-Richard Montgomery,1980,4A,CH,Boys,Cross Country
-Richard Montgomery,1990,4A,CH,Boys,Cross Country
-Richard Montgomery,1995,4A,CH,Boys,Cross Country
-Richard Montgomery,1979,4A,FN,Boys,Cross Country
-Richard Montgomery,1981,4A,FN,Boys,Cross Country
-Mount Hebron,1969,4A,CH,Boys,Cross Country
-Mount Hebron,2008,4A,CH,Boys,Cross Country
-Mount Hebron,2013,4A,FN,Boys,Cross Country
-North Carroll,1985,4A,CH,Boys,Cross Country
-North Carroll,1988,4A,CH,Boys,Cross Country
-North Carroll,2011,4A,FN,Boys,Cross Country
-North Dorchester,1985,4A,CH,Boys,Cross Country
-North Hagerstown,1972,4A,CH,Boys,Cross Country
-North Hagerstown,1998,4A,SF,Boys,Cross Country
-North Harford,1969,4A,CH,Boys,Cross Country
-North Harford,1982,4A,CH,Boys,Cross Country
-North Harford,1981,4A,SF,Boys,Cross Country
-Northern (G),2006,4A,FN,Boys,Cross Country
-Northwest,2001,4A,CH,Boys,Cross Country
-Northwest,2002,4A,CH,Boys,Cross Country
-Northwest,2004,4A,FN,Boys,Cross Country
-Northwest,2007,4A,FN,Boys,Cross Country
-Northwestern-PG,1973,4A,CH,Boys,Cross Country
-Northwestern-PG,1972,4A,FN,Boys,Cross Country
-Northwood,1962,4A,FN,Boys,Cross Country
-Northwood,2018,4A,FN,Boys,Cross Country
-Northwood,2019,4A,FN,Boys,Cross Country
-Oakdale,2019,4A,CH,Boys,Cross Country
-Oakland Mills,1975,4A,CH,Boys,Cross Country
-Oakland Mills,1984,4A,CH,Boys,Cross Country
-Oakland Mills,1985,4A,CH,Boys,Cross Country
-Oakland Mills,1986,4A,CH,Boys,Cross Country
-Oakland Mills,1987,4A,CH,Boys,Cross Country
-Oakland Mills,1988,4A,CH,Boys,Cross Country
-Oakland Mills,1989,4A,CH,Boys,Cross Country
-Oakland Mills,1992,4A,CH,Boys,Cross Country
-Oakland Mills,1994,4A,CH,Boys,Cross Country
-Oakland Mills,1999,4A,CH,Boys,Cross Country
-Oakland Mills,2000,4A,CH,Boys,Cross Country
-Oakland Mills,2001,4A,CH,Boys,Cross Country
-Oakland Mills,1973,4A,FN,Boys,Cross Country
-Oakland Mills,1974,4A,FN,Boys,Cross Country
-Oakland Mills,1976,4A,FN,Boys,Cross Country
-Oakland Mills,1990,4A,FN,Boys,Cross Country
-Oakland Mills,1991,4A,FN,Boys,Cross Country
-Oakland Mills,1993,4A,FN,Boys,Cross Country
-Oakland Mills,1997,4A,FN,Boys,Cross Country
-Oakland Mills,2003,4A,FN,Boys,Cross Country
-Oakland Mills,2004,4A,FN,Boys,Cross Country
-Oakland Mills,2015,4A,FN,Boys,Cross Country
-Ocean City,1952,4A,CH,Boys,Cross Country
-Ocean City,1955,4A,CH,Boys,Cross Country
-Old Post,1947,4A,CH,Boys,Cross Country
-Old Post,1948,4A,FN,Boys,Cross Country
-Paint Branch,1973,4A,FN,Boys,Cross Country
-Paint Branch,1974,4A,FN,Boys,Cross Country
-Parkville,1986,4A,CH,Boys,Cross Country
-Patterson Mill,2010,4A,FN,Boys,Cross Country
-Robert E. Peary,1982,4A,CH,Boys,Cross Country
-Robert E. Peary,1983,4A,FN,Boys,Cross Country
-Perry Hall,1987,4A,CH,Boys,Cross Country
-Perry Hall,1994,4A,FN,Boys,Cross Country
-Perryville,2013,4A,CH,Boys,Cross Country
-Pittsville,1946,4A,CH,Boys,Cross Country
-Pittsville,1949,4A,CH,Boys,Cross Country
-Pittsville,1947,4A,FN,Boys,Cross Country
-Poolesville,1964,4A,CH,Boys,Cross Country
-Poolesville,1966,4A,CH,Boys,Cross Country
-Poolesville,1965,4A,FN,Boys,Cross Country
-Poolesville,1967,4A,FN,Boys,Cross Country
-Poolesville,2013,4A,FN,Boys,Cross Country
-Quince Orchard,1992,4A,CH,Boys,Cross Country
-Quince Orchard,1993,4A,CH,Boys,Cross Country
-Quince Orchard,1994,4A,CH,Boys,Cross Country
-Quince Orchard,2006,4A,CH,Boys,Cross Country
-Quince Orchard,2007,4A,CH,Boys,Cross Country
-Quince Orchard,1991,4A,FN,Boys,Cross Country
-Quince Orchard,2009,4A,FN,Boys,Cross Country
-River Hill,1998,4A,CH,Boys,Cross Country
-River Hill,1999,4A,CH,Boys,Cross Country
-River Hill,2004,4A,CH,Boys,Cross Country
-River Hill,2007,4A,CH,Boys,Cross Country
-River Hill,2014,4A,CH,Boys,Cross Country
-River Hill,2015,4A,CH,Boys,Cross Country
-River Hill,2016,4A,CH,Boys,Cross Country
-River Hill,2019,4A,CH,Boys,Cross Country
-River Hill,2000,4A,FN,Boys,Cross Country
-River Hill,2003,4A,FN,Boys,Cross Country
-River Hill,2008,4A,FN,Boys,Cross Country
-River Hill,2018,4A,FN,Boys,Cross Country
-Rockville,1985,4A,CH,Boys,Cross Country
-Rockville,1984,4A,FN,Boys,Cross Country
-Eleanor Roosevelt,1984,4A,FN,Boys,Cross Country
-Eleanor Roosevelt,1986,4A,FN,Boys,Cross Country
-St. Michaels,1965,4A,FN,Boys,Cross Country
-Seneca Valley,1977,4A,CH,Boys,Cross Country
-Seneca Valley,1994,4A,CH,Boys,Cross Country
-Seneca Valley,1978,4A,FN,Boys,Cross Country
-Seneca Valley,1981,4A,FN,Boys,Cross Country
-Severna Park,2012,4A,CH,Boys,Cross Country
-Severna Park,2013,4A,CH,Boys,Cross Country
-Severna Park,2014,4A,CH,Boys,Cross Country
-Severna Park,2017,4A,CH,Boys,Cross Country
-Severna Park,2018,4A,CH,Boys,Cross Country
-Severna Park,2019,4A,CH,Boys,Cross Country
-Severna Park,1987,4A,FN,Boys,Cross Country
-Severna Park,1989,4A,FN,Boys,Cross Country
-Severna Park,1999,4A,FN,Boys,Cross Country
-Severna Park,2008,4A,FN,Boys,Cross Country
-Severna Park,2011,4A,FN,Boys,Cross Country
-Severna Park,2015,4A,FN,Boys,Cross Country
-Severna Park,2016,4A,FN,Boys,Cross Country
-Sherwood,1979,4A,CH,Boys,Cross Country
-Sherwood,2003,4A,CH,Boys,Cross Country
-Sherwood,2005,4A,FN,Boys,Cross Country
-Sherwood,2006,4A,FN,Boys,Cross Country
-Smithsburg,1977,4A,CH,Boys,Cross Country
-Smithsburg,2015,4A,FN,Boys,Cross Country
-Smithsburg,2019,4A,FN,Boys,Cross Country
-Somerset,1964,4A,CH,Boys,Cross Country
-Somerset,1965,4A,CH,Boys,Cross Country
-Somerset,1967,4A,CH,Boys,Cross Country
-Somerset,1968,4A,CH,Boys,Cross Country
-Somerset,1962,4A,FN,Boys,Cross Country
-Somerset,1966,4A,FN,Boys,Cross Country
-South Carroll,1997,4A,CH,Boys,Cross Country
-South Carroll,1998,4A,CH,Boys,Cross Country
-South Carroll,2000,4A,CH,Boys,Cross Country
-South Carroll,1999,4A,FN,Boys,Cross Country
-South Carroll,2007,4A,FN,Boys,Cross Country
-South Carroll,2008,4A,FN,Boys,Cross Country
-South Dorchester,1958,4A,CH,Boys,Cross Country
-South Dorchester,1959,4A,CH,Boys,Cross Country
-Southern (G),1993,4A,CH,Boys,Cross Country
-Southern (G),1994,4A,CH,Boys,Cross Country
-Southern (G),1995,4A,CH,Boys,Cross Country
-Southern (G),1996,4A,CH,Boys,Cross Country
-Southern (G),1997,4A,CH,Boys,Cross Country
-Southern (G),2014,4A,CH,Boys,Cross Country
-Southern (G),1998,4A,FN,Boys,Cross Country
-Southern (G),2013,4A,FN,Boys,Cross Country
-Southern (G),2016,4A,FN,Boys,Cross Country
-Southern (G),2017,4A,FN,Boys,Cross Country
-Sparrows Point,1973,4A,CH,Boys,Cross Country
-Sparrows Point,1972,4A,FN,Boys,Cross Country
-Springbrook,1962,4A,CH,Boys,Cross Country
-Springbrook,1965,4A,FN,Boys,Cross Country
-Springbrook,1968,4A,FN,Boys,Cross Country
-Springbrook,1975,4A,FN,Boys,Cross Country
-Surrattsville,1969,4A,FN,Boys,Cross Country
-Surrattsville,1974,4A,FN,Boys,Cross Country
-Sykesville,1963,4A,CH,Boys,Cross Country
-Sykesville,1962,4A,FN,Boys,Cross Country
-Towson,1952,4A,CH,Boys,Cross Country
-Towson,1953,4A,CH,Boys,Cross Country
-Towson,1955,4A,CH,Boys,Cross Country
-Towson,1974,4A,CH,Boys,Cross Country
-Towson,1987,4A,CH,Boys,Cross Country
-Towson,1970,4A,FN,Boys,Cross Country
-Harriet Tubman,1962,4A,CH,Boys,Cross Country
-Harriet Tubman,1963,4A,CH,Boys,Cross Country
-Harriet Tubman,1959,4A,FN,Boys,Cross Country
-Harriet Tubman,1964,4A,FN,Boys,Cross Country
-Urbana,1999,4A,CH,Boys,Cross Country
-Urbana,2000,4A,CH,Boys,Cross Country
-Urbana,2003,4A,CH,Boys,Cross Country
-Urbana,2002,4A,FN,Boys,Cross Country
-Urbana,2005,4A,FN,Boys,Cross Country
-Washington,1949,4A,FN,Boys,Cross Country
-Westmar,1998,4A,CH,Boys,Cross Country
-Westminster,1982,4A,CH,Boys,Cross Country
-Westminster,1989,4A,CH,Boys,Cross Country
-Westminster,1991,4A,CH,Boys,Cross Country
-Westminster,1996,4A,CH,Boys,Cross Country
-Westminster,1997,4A,CH,Boys,Cross Country
-Westminster,1998,4A,CH,Boys,Cross Country
-Westminster,1999,4A,CH,Boys,Cross Country
-Westminster,1976,4A,FN,Boys,Cross Country
-Westminster,1988,4A,FN,Boys,Cross Country
-Westminster,1992,4A,FN,Boys,Cross Country
-Westminster,1993,4A,FN,Boys,Cross Country
-Westminster,1995,4A,FN,Boys,Cross Country
-Wheaton,1965,4A,CH,Boys,Cross Country
-Wheaton,1966,4A,CH,Boys,Cross Country
-Walt Whitman,1970,4A,CH,Boys,Cross Country
-Walt Whitman,1986,4A,CH,Boys,Cross Country
-Walt Whitman,1988,4A,CH,Boys,Cross Country
-Walt Whitman,1990,4A,CH,Boys,Cross Country
-Walt Whitman,1991,4A,CH,Boys,Cross Country
-Walt Whitman,1992,4A,CH,Boys,Cross Country
-Walt Whitman,1995,4A,CH,Boys,Cross Country
-Walt Whitman,1969,4A,FN,Boys,Cross Country
-Walt Whitman,1974,4A,FN,Boys,Cross Country
-Walt Whitman,1983,4A,FN,Boys,Cross Country
-Walt Whitman,1996,4A,FN,Boys,Cross Country
-Walt Whitman,1997,4A,FN,Boys,Cross Country
-Walt Whitman,1998,4A,FN,Boys,Cross Country
-Wilde Lake,1971,4A,CH,Boys,Cross Country
-Wilde Lake,1996,4A,CH,Boys,Cross Country
-Wilde Lake,2005,4A,CH,Boys,Cross Country
-Wilde Lake,2006,4A,CH,Boys,Cross Country
-Wilde Lake,1994,4A,FN,Boys,Cross Country
-Wilde Lake,1995,4A,FN,Boys,Cross Country
-Wilde Lake,2007,4A,FN,Boys,Cross Country
-Williamsport,1972,4A,CH,Boys,Cross Country
-Williamsport,1975,4A,CH,Boys,Cross Country
-Williamsport,2019,4A,CH,Boys,Cross Country
-Williamsport,1971,4A,FN,Boys,Cross Country
-Williamsport,1978,4A,FN,Boys,Cross Country
-Williamsport,2011,4A,FN,Boys,Cross Country
-Williamsport,2012,4A,FN,Boys,Cross Country
-Winters Mill,2009,4A,CH,Boys,Cross Country
-Winters Mill,2010,4A,CH,Boys,Cross Country
-Winters Mill,2011,4A,CH,Boys,Cross Country
-Woodson,1968,4A,FN,Boys,Cross Country
-Charles W. Woodward,1972,4A,FN,Boys,Cross Country
-Thomas S. Wootton,1978,4A,CH,Boys,Cross Country
-C. Milton Wright,2001,4A,CH,Boys,Cross Country
-C. Milton Wright,2002,4A,CH,Boys,Cross Country
-C. Milton Wright,1992,4A,FN,Boys,Cross Country
-C. Milton Wright,1993,4A,FN,Boys,Cross Country
-C. Milton Wright,1998,4A,FN,Boys,Cross Country
+team, year, class, status, gender
+Northwood, 1975, Combined, Champion, Girls
+Bel Air, 1975, Combined, Finalist, Girls
+B-CC, 1976, AA, Champion, Girls
+Friendly, 1976, AA, Finalist, Girls
+Seneca Valley, 1976, ABC, Champion, Girls
+Northwood, 1976, ABC, Finalist, Girls
+Northwood, 1977, AA, Champion, Girls
+Churchill, 1977, AA, Finalist, Girls
+B-CC, 1977, ABC, Champion, Girls
+Oxon Hill, 1977, ABC, Finalist, Girls
+Northwood, 1978, AA, Champion, Girls
+Churchill, 1978, AA, Finalist, Girls
+B-CC, 1978, A, Champion, Girls
+Eleanor Roosevelt, 1978, A, Finalist, Girls
+Hereford, 1978, B, Champion, Girls
+Williamsport, 1978, B, Finalist, Girls
+Smithsburg, 1978, C, Champion, Girls
+Boonsboro, 1978, C, Finalist, Girls
+Churchill, 1979, AA, Champion, Girls
+Blair, 1979, AA, Finalist, Girls
+Seneca Valley, 1979, A, Champion, Girls
+B-CC, 1979, A, Finalist, Girls
+Hereford, 1979, B, Champion, Girls
+Sherwood, 1979, B, Finalist, Girls
+Williamsport, 1979, C, Champion, Girls
+Smithsburg, 1979, C, Finalist, Girls
+Towson, 1980, AA, Champion, Girls
+Churchill, 1980, AA, Finalist, Girls
+Seneca Valley, 1980, A, Champion, Girls
+Rockville, 1980, A, Finalist, Girls
+Hereford, 1980, B, Champion, Girls
+Frederick, 1980, B, Finalist, Girls
+Williamsport, 1980, C, Champion, Girls
+Middletown, 1980, C, Finalist, Girls
+Dulaney, 1981, AA, Champion, Girls
+Crossland, 1981, AA, Finalist, Girls
+McDonough, 1981, A, Champion, Girls
+Towson, 1981, A, Finalist, Girls
+Williamsport, 1981, B, Champion, Girls
+Frederick, 1981, B, Finalist, Girls
+Middletown, 1981, C, Champion, Girls
+Boonsboro, 1981, C, Finalist, Girls
+Crossland, 1982, AA, Champion, Girls
+Dulaney, 1982, AA, Finalist, Girls
+Towson, 1982, A, Champion, Girls
+Loch Raven, 1982, A, Finalist, Girls
+Williamsport, 1982, B, Champion, Girls
+North Carroll, 1982, B, Finalist, Girls
+Brunswick, 1982, C, Champion, Girls
+Walkersville, 1982, C, Finalist, Girls
+Crossland, 1983, AA, Champion, Girls
+Westminster, 1983, AA, Finalist, Girls
+Kennedy, 1983, A, Champion, Girls
+Loch Raven, 1983, A, Finalist, Girls
+North Carroll, 1983, B, Champion, Girls
+Glenelg, 1983, B, Finalist, Girls
+Brunswick, 1983, C, Champion, Girls
+Walkersville, 1983, C, Finalist, Girls
+Westminster, 1984, AA, Champion, Girls
+Bowie, 1984, AA, Finalist, Girls
+Towson, 1984, A, Champion, Girls
+McDonough, 1984, A, Finalist, Girls
+North Carroll, 1984, B, Champion, Girls
+Hereford, 1984, B, Finalist, Girls
+Boonsboro, 1984, C, Champion, Girls
+Smithsburg, 1984, C, Finalist, Girls
+Laurel, 1985, AA, Champion, Girls
+Churchill, 1985, AA, Finalist, Girls
+North Carroll, 1985, A, Champion, Girls
+Loch Raven, 1985, A, Finalist, Girls
+Woodward, 1985, B, Champion, Girls
+C. Milton Wright, 1985, B, Finalist, Girls
+Brunswick, 1985, C, Champion, Girls
+Smithsburg, 1985, C, Finalist, Girls
+Eleanor Roosevelt, 1986, AA, Champion, Girls
+Laurel, 1986, AA, Finalist, Girls
+North Carroll, 1986, A, Champion, Girls
+Loch Raven, 1986, A, Finalist, Girls
+North Harford, 1986, B-C, Champion, Girls
+Atholton, 1986, B-C, Finalist, Girls
+Severna Park, 1987, AA, Champion, Girls
+Eleanor Roosevelt, 1987, AA, Finalist, Girls
+North Hagerstown, 1987, A, Champion, Girls
+Laurel, 1987, A, Finalist, Girls
+Atholton, 1987, B-C, Champion, Girls
+Centennial, 1987, B-C, Finalist, Girls
+Eleanor Roosevelt, 1988, 4A, Champion, Girls
+Whitman, 1988, 4A, Finalist, Girls
+C. Milton Wright, 1988, 3A, Champion, Girls
+Frederick, 1988, 3A, Finalist, Girls
+Atholton, 1988, 2A-1A, Champion, Girls
+Allegany, 1988, 2A-1A, Finalist, Girls
+Frederick, 1989, 4A, Champion, Girls
+Whitman, 1989, 4A, Finalist, Girls
+Great Mills, 1989, 3A, Champion, Girls
+Leonardtown, 1989, 3A, Finalist, Girls
+Atholton, 1989, 2A, Champion, Girls
+Glenelg, 1989, 2A, Finalist, Girls
+Boonsboro, 1989, 1A, Champion, Girls
+Brunswick, 1989, 1A, Finalist, Girls
+Whitman, 1990, 4A, Champion, Girls
+Frederick, 1990, 4A, Finalist, Girls
+Centennial, 1990, 3A, Champion, Girls
+Liberty, 1990, 3A, Finalist, Girls
+Glenelg, 1990, 2A, Champion, Girls
+Middletown, 1990, 2A, Finalist, Girls
+Boonsboro, 1990, 1A, Champion, Girls
+Brunswick, 1990, 1A, Finalist, Girls
+Churchill, 1991, 4A, Champion, Girls
+Quince Orchard, 1991, 4A, Finalist, Girls
+Whitman, 1991, 3A, Champion, Girls
+Walter Johnson, 1991, 3A, Finalist, Girls
+Middletown, 1991, 2A, Champion, Girls
+Loch Raven, 1991, 2A, Finalist, Girls
+Brunswick, 1991, 1A, Champion, Girls
+Boonsboro, 1991, 1A, Finalist, Girls
+Dulaney, 1992, 4A, Champion, Girls
+Quince Orchard, 1992, 4A, Finalist, Girls
+Whitman, 1992, 3A, Champion, Girls
+Walter Johnson, 1992, 3A, Finalist, Girls
+Middletown, 1992, 2A, Champion, Girls
+Glenelg, 1992, 2A, Finalist, Girls
+Brunswick, 1992, 1A, Champion, Girls
+Boonsboro, 1992, 1A, Finalist, Girls
+Perry Hall, 1993, 4A, Champion, Girls
+Dulaney, 1993, 4A, Finalist, Girls
+Linganore, 1993, 3A, Champion, Girls
+Walter Johnson, 1993, 3A, Finalist, Girls
+Catonsville, 1993, 2A, Champion, Girls
+Fallston, 1993, 2A, Finalist, Girls
+Brunswick, 1993, 1A, Champion, Girls
+Boonsboro, 1993, 1A, Finalist, Girls
+Dulaney, 1994, 4A, Champion, Girls
+Quince Orchard, 1994, 4A, Finalist, Girls
+Linganore, 1994, 3A, Champion, Girls
+C.M. Wright, 1994, 3A, Finalist, Girls
+Damascus, 1994, 2A, Champion, Girls
+Catonsville, 1994, 2A, Finalist, Girls
+Boonsboro, 1994, 1A, Champion, Girls
+Francis Scott Key, 1994, 1A, Finalist, Girls
+Dulaney, 1995, 4A, Champion, Girls
+Whitman, 1995, 4A, Finalist, Girls
+Frederick, 1995, 3A, Champion, Girls
+Damascus, 1995, 3A, Finalist, Girls
+Linganore, 1995, 2A, Champion, Girls
+Oakland Mills, 1995, 2A, Finalist, Girls
+Boonsboro, 1995, 1A, Champion, Girls
+Southern Garrett, 1995, 1A, Finalist, Girls
+Dulaney, 1996, 4A, Champion, Girls
+Quince Orchard, 1996, 4A, Finalist, Girls
+Walter Johnson, 1996, 3A, Champion, Girls
+C. Milton Wright, 1996, 3A, Finalist, Girls
+Wilde Lake, 1996, 2A, Champion, Girls
+Catonsville, 1996, 2A, Finalist, Girls
+Southern Garrett, 1996, 1A, Champion, Girls
+Hereford, 1996, 1A, Finalist, Girls
+Dulaney, 1997, 4A, Champion, Girls
+Severna Park, 1997, 4A, Finalist, Girls
+Walter Johnson, 1997, 3A, Champion, Girls
+Wilde Lake, 1997, 3A, Finalist, Girls
+Middletown, 1997, 2A, Champion, Girls
+Mt. Hebron, 1997, 2A, Finalist, Girls
+Allegany, 1997, 1A, Champion, Girls
+Southern Garrett, 1997, 1A, Finalist, Girls
+Severna Park, 1998, 4A, Champion, Girls
+Dulaney, 1998, 4A, Finalist, Girls
+Walter Johnson, 1998, 3A, Champion, Girls
+Broadneck, 1998, 3A, Finalist, Girls
+Middletown, 1998, 2A, Champion, Girls
+Mt. Hebron, 1998, 2A, Finalist, Girls
+Allegany, 1998, 1A, Champion, Girls
+Glenelg, 1998, 1A, Finalist, Girls
+C. Milton Wright, 1999, 4A, Champion, Girls
+Dulaney, 1999, 4A, Finalist, Girls
+Walter Johnson, 1999, 3A, Champion, Girls
+North Carroll, 1999, 3A, Finalist, Girls
+Middletown, 1999, 2A, Champion, Girls
+Catonsville, 1999, 2A, Finalist, Girls
+Southern Garrett, 1999, 1A, Champion, Girls
+Glenelg, 1999, 1A, Finalist, Girls
+C. Milton Wright, 2000, 4A, Champion, Girls
+Dulaney, 2000, 4A, Finalist, Girls
+North Carroll, 2000, 3A, Champion, Girls
+River Hill, 2000, 3A, Finalist, Girls
+Middletown, 2000, 2A, Champion, Girls
+Linganore, 2000, 2A, Finalist, Girls
+Smithsburg, 2000, 1A, Champion, Girls
+Glenelg, 2000, 1A, Finalist, Girls
+Quince Orchard, 2001, 4A, Champion, Girls
+C. Milton Wright, 2001, 4A, Finalist, Girls
+Dulaney, 2001, 3A, Champion, Girls
+North Carroll, 2001, 3A, Finalist, Girls
+Towson, 2001, 2A, Champion, Girls
+Glenelg, 2001, 2A, Finalist, Girls
+Smithsburg, 2001, 1A, Champion, Girls
+Beall, 2001, 1A, Finalist, Girls
+Broadneck, 2002, 4A, Champion, Girls
+C. Milton Wright, 2002, 4A, Finalist, Girls
+Northwest, 2002, 3A, Champion, Girls
+Walter Johnson, 2002, 3A, Finalist, Girls
+Bethesda-CC, 2002, 2A, Champion, Girls
+Hereford, 2002, 2A, Finalist, Girls
+Williamsport, 2002, 1A, Champion, Girls
+Southern Garrett, 2002, 1A, Finalist, Girls
+Broadneck, 2003, 4A, Champion, Girls
+Eleanor Roosevelt, 2003, 4A, Finalist, Girls
+Northwest, 2003, 3A, Champion, Girls
+C. Milton Wright, 2003, 3A, Finalist, Girls
+Glenelg, 2003, 2A, Champion, Girls
+Hereford, 2003, 2A, Finalist, Girls
+Williamsport, 2003, 1A, Champion, Girls
+Loch Raven, 2003, 1A, Finalist, Girls
+Eleanor Roosevelt, 2004, 4A, Champion, Girls
+Dulaney, 2004, 4A, Finalist, Girls
+C.M. Wright, 2004, 3A, Champion, Girls
+Northwest, 2004, 3A, Finalist, Girls
+Hereford, 2004, 2A, Champion, Girls
+Winters Mill, 2004, 2A, Finalist, Girls
+Loch Raven, 2004, 1A, Champion, Girls
+Williamsport, 2004, 1A, Finalist, Girls
+Eleanor Roosevelt, 2005, 4A, Champion, Girls
+Dulaney, 2005, 4A, Finalist, Girls
+Severna Park, 2005, 3A, Champion, Girls
+River Hill, 2005, 3A, Finalist, Girls
+Hereford, 2005, 2A, Champion, Girls
+Century, 2005, 2A, Finalist, Girls
+Williamsport, 2005, 1A, Champion, Girls
+Digital Harbor, 2005, 1A, Finalist, Girls
+Eleanor Roosevelt, 2006, 4A, Champion, Girls
+Dulaney, 2006, 4A, Finalist, Girls
+Severna Park, 2006, 3A, Champion, Girls
+River Hill, 2006, 3A, Finalist, Girls
+Howard, 2006, 2A, Champion, Girls
+Hereford, 2006, 2A, Finalist, Girls
+Smithsburg, 2006, 1A, Champion, Girls
+Williamsport, 2006, 1A, Finalist, Girls
+C.M. Wright, 2007, 4A, Champion, Girls
+Eleanor Roosevelt, 2007, 4A, Finalist, Girls
+Howard, 2007, 3A, Champion, Girls
+Hereford, 2007, 3A, Finalist, Girls
+River Hill, 2007, 2A, Champion, Girls
+Century, 2007, 2A, Finalist, Girls
+South Carroll, 2007, 1A, Champion, Girls
+Bohemia Manor, 2007, 1A, Finalist, Girls
+C.M. Wright, 2008, 4A, Champion, Girls
+Northwest, 2008, 4A, Finalist, Girls
+Towson, 2008, 3A, Champion, Girls
+Hereford, 2008, 3A, Finalist, Girls
+River Hill, 2008, 2A, Champion, Girls
+Century, 2008, 2A, Finalist, Girls
+Bohemia Manor, 2008, 1A, Champion, Girls
+South Carroll, 2008, 1A, Finalist, Girls
+Severna Park, 2009, 4A, Champion, Girls
+Thomas Johnson, 2009, 4A, Finalist, Girls
+River Hill, 2009, 3A, Champion, Girls
+Hereford, 2009, 3A, Finalist, Girls
+Century, 2009, 2A, Champion, Girls
+Bel Air, 2009, 2A, Finalist, Girls
+Bohemia Manor, 2009, 1A, Champion, Girls
+Smithsburg, 2009, 1A, Finalist, Girls
+Walt Whitman, 2010, 4A, Champion, Girls
+Northwest, 2010, 4A, Finalist, Girls
+Hereford, 2010, 3A, Champion, Girls
+Mount Hebron, 2010, 3A, Finalist, Girls
+Century, 2010, 2A, Champion, Girls
+Bel Air, 2010, 2A, Finalist, Girls
+Bohemia Manor, 2010, 1A, Champion, Girls
+Loch Raven, 2010, 1A, Finalist, Girls
+Bethesda-CC, 2011, 4A, Champion, Girls
+Whitman, 2011, 4A, Finalist, Girls
+Hereford, 2011, 3A, Champion, Girls
+River Hill, 2011, 3A, Finalist, Girls
+Century, 2011, 2A, Champion, Girls
+South Carroll, 2011, 2A, Finalist, Girls
+Bohemia Manor, 2011, 1A, Champion, Girls
+Boonsboro, 2011, 1A, Finalist, Girls
+Bethesda-CC, 2012, 4A, Champion, Girls
+Quince Orchard, 2012, 4A, Finalist, Girls
+Reservoir, 2012, 3A, Champion, Girls
+Centennial, 2012, 3A, Finalist, Girls
+Calvert, 2012, 2A, Champion, Girls
+Oakland Mills, 2012, 2A, Finalist, Girls
+Boonsboro, 2012, 1A, Champion, Girls
+Manchester Valley, 2012, 1A, Finalist, Girls
+Walter Johnson, 2013, 4A, Champion, Girls
+Bethesda-CC, 2013, 4A, Finalist, Girls
+Centennial, 2013, 3A, Champion, Girls
+River Hill, 2013, 3A, Finalist, Girls
+Hereford, 2013, 2A, Champion, Girls
+Poolesville, 2013, 2A, Finalist, Girls
+Cambridge/SD, 2013, 1A, Champion, Girls
+Smithsburg, 2013, 1A, Finalist, Girls
+Walter Johnson, 2014, 4A, Champion, Girls
+Bethesda-CC, 2014, 4A, Finalist, Girls
+River Hill, 2014, 3A, Champion, Girls
+Albert Einstein, 2014, 3A, Finalist, Girls
+Liberty, 2014, 2A, Champion, Girls
+Hereford, 2014, 2A, Finalist, Girls
+Smithsburg, 2014, 1A, Champion, Girls
+Bohemia Manor, 2014, 1A, Finalist, Girls
+Walter Johnson, 2015, 4A, Champion, Girls
+Dulaney, 2015, 4A, Finalist, Girls
+Centennial, 2015, 3A, Champion, Girls
+Northern-Calvert, 2015, 3A, Finalist, Girls
+Hereford, 2015, 2A, Champion, Girls
+Century, 2015, 2A, Finalist, Girls
+Boonsboro, 2015, 1A, Champion, Girls
+Smithsburg, 2015, 1A, Finalist, Girls
+Walter Johnson, 2016, 4A, Champion, Girls
+Thomas Wootton, 2016, 4A, Finalist, Girls
+Northern-Calvert, 2016, 3A, Champion, Girls
+River Hill, 2016, 3A, Finalist, Girls
+Hereford, 2016, 2A, Champion, Girls
+Catoctin, 2016, 2A, Finalist, Girls
+Boonsboro, 2016, 1A, Champion, Girls
+Northern-Garrett, 2016, 1A, Finalist, Girls
+Walter Johnson, 2017, 4A, Champion, Girls
+Severna Park, 2017, 4A, Finalist, Girls
+Northern-Calvert, 2017, 3A, Champion, Girls
+C. Milton Wright, 2017, 3A, Finalist, Girls
+Hereford, 2017, 2A, Champion, Girls
+River Hill, 2017, 2A, Finalist, Girls
+Boonsboro, 2017, 1A, Champion, Girls
+Brunswick, 2017, 1A, Finalist, Girls
+Severna Park, 2018, 4A, Champion, Girls
+Howard, 2018, 4A, Finalist, Girls
+Northern-Calvert, 2018, 3A, Champion, Girls
+Bel Air, 2018, 3A, Finalist, Girls
+Hereford, 2018, 2A, Champion, Girls
+Oakdale, 2018, 2A, Finalist, Girls
+Boonsboro, 2018, 1A, Champion, Girls
+Brunswick, 2018, 1A, Finalist, Girls
+Howard, 2019, 4A, Champion, Girls
+Severna Park, 2019, 4A, Finalist, Girls
+Northern-Calvert, 2019, 3A, Champion, Girls
+Bel Air, 2019, 3A, Finalist, Girls
+Liberty, 2019, 2A, Champion, Girls
+Middletown, 2019, 2A, Finalist, Girls
+Northern-Garrett, 2019, 1A, Champion, Girls
+Brunswick, 2019, 1A, Finalist, Girls
+Walter Johnson, 2021, 4A, Champion, Girls
+Broadneck, 2021, 4A, Finalist, Girls
+Howard, 2021, 3A, Champion, Girls
+Northern-Calvert, 2021, 3A, Finalist, Girls
+Hereford, 2021, 2A, Champion, Girls
+Liberty, 2021, 2A, Finalist, Girls
+Northern-Garrett, 2021, 1A, Champion, Girls
+Smithsburg, 2021, 1A, Finalist, Girls
+Severna Park, 2022, 4A, Champion, Girls
+Walter Johnson, 2022, 4A, Finalist, Girls
+Towson, 2022, 3A, Champion, Girls
+Frederick, 2022, 3A, Finalist, Girls
+Hereford, 2022, 2A, Champion, Girls
+Poolesville, 2022, 2A, Finalist, Girls
+Northern-Garrett, 2022, 1A, Champion, Girls
+Smithsburg, 2022, 1A, Finalist, Girls
+Walter Johnson, 2023, 4A, Champion, Girls
+Frederick, 2023, 4A, Finalist, Girls
+Severna Park, 2023, 3A, Champion, Girls
+Howard, 2023, 3A, Finalist, Girls
+Hereford, 2023, 2A, Champion, Girls
+Centennial, 2023, 2A, Finalist, Girls
+Smithsburg, 2023, 1A, Champion, Girls
+Harford Technical, 2023, 1A, Finalist, Girls
+Catonsville, 1946, A, Champion, Boys
+None, 1946, A, Finalist, Boys
+Dundalk, 1946, B, Champion, Boys
+Bel Air, 1946, B, Finalist, Boys
+Brunswick, 1946, C, Champion, Boys
+None, 1946, C, Finalist, Boys
+Pittsville, 1946, D, Champion, Boys
+None, 1946, D, Finalist, Boys
+Hagerstown, 1947, A, Champion, Boys
+Catonsville, 1947, A, Finalist, Boys
+Bel Air, 1947, B, Champion, Boys
+None, 1947, B, Finalist, Boys
+Brunswick, 1947, C, Champion, Boys
+None, 1947, C, Finalist, Boys
+Old Post, 1947, D, Champion, Boys
+Pittsville, 1947, D, Finalist, Boys
+Hagerstown, 1948, A, Champion, Boys
+Dundalk, 1948, A, Finalist, Boys
+Bel Air, 1948, B, Champion, Boys
+None, 1948, B, Finalist, Boys
+Brunswick, 1948, C, Champion, Boys
+None, 1948, C, Finalist, Boys
+Elkridge, 1948, D, Champion, Boys
+Old Post, 1948, D, Finalist, Boys
+Hagerstown, 1949, A, Champion, Boys
+Dundalk, 1949, A, Finalist, Boys
+Elkridge, 1949, B, Champion, Boys
+Washington, 1949, B, Finalist, Boys
+Pittsville, 1949, C, Champion, Boys
+None, 1949, C, Finalist, Boys
+Towson, 1950, A, Champion, Boys
+None, 1950, A, Finalist, Boys
+Towson, 1952, A, Champion, Boys
+Catonsville, 1952, A, Finalist, Boys
+None, 1952, B, Champion, Boys
+None, 1952, B, Finalist, Boys
+Ocean City, 1952, C, Champion, Boys
+None, 1952, C, Finalist, Boys
+Towson, 1953, A, Champion, Boys
+Catonsville, 1953, A, Finalist, Boys
+Towson, 1954, A, Champion, Boys
+Montgomery Blair, 1954, A, Finalist, Boys
+Towson, 1955, A, Champion, Boys
+Montgomery Blair, 1955, A, Finalist, Boys
+Ocean City, 1955, C, Champion, Boys
+None, 1955, C, Finalist, Boys
+Kenwood, 1956, A, Champion, Boys
+Montgomery Blair, 1956, A, Finalist, Boys
+Centreville, 1956, C, Champion, Boys
+None, 1956, C, Finalist, Boys
+Montgomery Blair, 1957, A, Champion, Boys
+Kenwood, 1957, A, Finalist, Boys
+Hereford, 1957, B, Champion, Boys
+Arundel, 1957, B, Finalist, Boys
+Kenwood, 1958, A, Champion, Boys
+Dundalk, 1958, A, Finalist, Boys
+Hereford, 1958, B, Champion, Boys
+Damascus, 1958, B, Finalist, Boys
+South Dorchester, 1958, C, Champion, Boys
+None, 1958, C, Finalist, Boys
+Catonsville, 1959, A, Champion, Boys
+Kenwood, 1959, A, Finalist, Boys
+Hereford, 1959, B, Champion, Boys
+Easton, 1959, B, Finalist, Boys
+South Dorchester, 1959, C, Champion, Boys
+Harriet Tubman, 1959, C, Finalist, Boys
+Catonsville, 1960, AA, Champion, Boys
+Dundalk, 1960, AA, Finalist, Boys
+Bel Air, 1960, A, Champion, Boys
+Fairmont Heights/Beall, 1960, A, Finalist, Boys
+Hereford, 1960, B, Champion, Boys
+Damascus, 1960, B, Finalist, Boys
+Havre de Grace, 1960, C, Champion, Boys
+Central Consolidated, 1960, C, Finalist, Boys
+Dundalk, 1961, AA, Champion, Boys
+Bethesda-CC, 1961, AA, Finalist, Boys
+Gaithersburg, 1961, A, Champion, Boys
+Brooklyn Park, 1961, A, Finalist, Boys
+Damascus, 1961, B, Champion, Boys
+Hereford, 1961, B, Finalist, Boys
+Central Consolidated, 1961, C, Champion, Boys
+Leonardtown, 1961, C, Finalist, Boys
+Kenwood, 1962, AA, Champion, Boys
+Northwood, 1962, AA, Finalist, Boys
+Springbrook, 1962, A, Champion, Boys
+Brooklyn Park, 1962, A, Finalist, Boys
+Hereford, 1962, B, Champion, Boys
+Sykesville, 1962, B, Finalist, Boys
+Harriet Tubman, 1962, C, Champion, Boys
+Somerset, 1962, C, Finalist, Boys
+Montgomery Blair, 1963, AA, Champion, Boys
+Dundalk, 1963, AA, Finalist, Boys
+Bel Air, 1963, A, Champion, Boys
+Franklin, 1963, A, Finalist, Boys
+Sykesville, 1963, B, Champion, Boys
+Middletown, 1963, B, Finalist, Boys
+Harriet Tubman, 1963, C, Champion, Boys
+Central Consolidated, 1963, C, Finalist, Boys
+Catonsville, 1964, AA, Champion, Boys
+Dundalk, 1964, AA, Finalist, Boys
+Brooklyn Park, 1964, A, Champion, Boys
+Fort Hill, 1964, A, Finalist, Boys
+Somerset, 1964, B, Champion, Boys
+Middletown, 1964, B, Finalist, Boys
+Poolesville, 1964, C, Champion, Boys
+Harriet Tubman, 1964, C, Finalist, Boys
+Wheaton, 1965, AA, Champion, Boys
+Springbrook, 1965, AA, Finalist, Boys
+Central-PG, 1965, A, Champion, Boys
+Gaithersburg, 1965, A, Finalist, Boys
+Brunswick, 1965, B, Champion, Boys
+Damascus, 1965, B, Finalist, Boys
+Somerset, 1965, C, Champion, Boys
+Poolesville/St. Michaels, 1965, C, Finalist, Boys
+Wheaton, 1966, AA, Champion, Boys
+Bethesda-CC, 1966, AA, Finalist, Boys
+Central-PG, 1966, A, Champion, Boys
+Howard County, 1966, A, Finalist, Boys
+Brunswick, 1966, B, Champion, Boys
+Middletown, 1966, B, Finalist, Boys
+Poolesville, 1966, C, Champion, Boys
+Somerset, 1966, C, Finalist, Boys
+Kenwood, 1967, AA, Champion, Boys
+Dulaney, 1967, AA, Finalist, Boys
+Atholton, 1967, A, Champion, Boys
+Winston Churchill, 1967, A, Finalist, Boys
+Linganore, 1967, B, Champion, Boys
+Brunswick, 1967, B, Finalist, Boys
+Somerset, 1967, C, Champion, Boys
+Poolesville, 1967, C, Finalist, Boys
+Dulaney, 1968, AA, Champion, Boys
+Springbrook, 1968, AA, Finalist, Boys
+Winston Churchill, 1968, A, Champion, Boys
+Central-PG, 1968, A, Finalist, Boys
+Hereford, 1968, B, Champion, Boys
+Boonsboro, 1968, B, Finalist, Boys
+Somerset, 1968, C, Champion, Boys
+Woodson, 1968, C, Finalist, Boys
+Bethesda-CC, 1969, AA, Champion, Boys
+Walt Whitman, 1969, AA, Finalist, Boys
+Central-PG, 1969, A, Champion, Boys
+Surrattsville, 1969, A, Finalist, Boys
+North Harford, 1969, B, Champion, Boys
+Hereford, 1969, B, Finalist, Boys
+Mt. Hebron, 1969, C, Champion, Boys
+Middletown, 1969, C, Finalist, Boys
+Walt Whitman, 1970, AA, Champion, Boys
+Towson, 1970, AA, Finalist, Boys
+Allegany, 1970, A, Champion, Boys
+Gaithersburg, 1970, A, Finalist, Boys
+Hereford, 1970, B, Champion, Boys
+Francis Scott Key, 1970, B, Finalist, Boys
+Middletown, 1970, C, Champion, Boys
+Douglass-PG, 1970, C, Finalist, Boys
+Bethesda-CC, 1971, AA, Champion, Boys
+DuVal, 1971, AA, Finalist, Boys
+Gaithersburg, 1971, A, Champion, Boys
+Albert Einstein, 1971, A, Finalist, Boys
+Hereford, 1971, B, Champion, Boys
+Williamsport, 1971, B, Finalist, Boys
+Wilde Lake, 1971, C, Champion, Boys
+Middletown, 1971, C, Finalist, Boys
+DuVal, 1972, AA, Champion, Boys
+Northwestern-PG, 1972, AA, Finalist, Boys
+North Hagerstown, 1972, A, Champion, Boys
+Sparrows Point, 1972, A, Finalist, Boys
+Williamsport, 1972, B, Champion, Boys
+Charles W. Woodward, 1972, B, Finalist, Boys
+Middletown, 1972, C, Champion, Boys
+Beall, 1972, C, Finalist, Boys
+Northwestern-PG, 1973, AA, Champion, Boys
+Gaithersburg, 1973, AA, Finalist, Boys
+Bethesda-CC, 1973, A, Champion, Boys
+Col. Zadok Magruder, 1973, A, Finalist, Boys
+Sparrows Point, 1973, B, Champion, Boys
+Paint Branch, 1973, B, Finalist, Boys
+Middletown, 1973, C, Champion, Boys
+Oakland Mills, 1973, C, Finalist, Boys
+Towson, 1974, AA, Champion, Boys
+Walt Whitman, 1974, AA, Finalist, Boys
+John F. Kennedy, 1974, A, Champion, Boys
+Surrattsville, 1974, A, Finalist, Boys
+Hereford, 1974, B, Champion, Boys
+Paint Branch, 1974, B, Finalist, Boys
+Beall, 1974, C, Champion, Boys
+Oakland Mills, 1974, C, Finalist, Boys
+Winston Churchill, 1975, AA, Champion, Boys
+Springbrook, 1975, AA, Finalist, Boys
+Richard Montgomery, 1975, A, Champion, Boys
+Col. Zadok Magruder, 1975, A, Finalist, Boys
+Williamsport, 1975, B, Champion, Boys
+Hereford, 1975, B, Finalist, Boys
+Oakland Mills, 1975, C, Champion, Boys
+Beall, 1975, C, Finalist, Boys
+Friendly, 1976, AA, Champion, Boys
+Kenwood, 1976, AA, Finalist, Boys
+Loch Raven, 1976, A, Champion, Boys
+Westminster, 1976, A, Finalist, Boys
+Hereford, 1976, B, Champion, Boys
+Catoctin, 1976, B, Finalist, Boys
+Middletown, 1976, C, Champion, Boys
+Oakland Mills, 1976, C, Finalist, Boys
+Winston Churchill, 1977, AA, Champion, Boys
+High Point, 1977, AA, Finalist, Boys
+Seneca Valley, 1977, A, Champion, Boys
+Friendly, 1977, A, Finalist, Boys
+Hereford, 1977, B, Champion, Boys
+Howard, 1977, B, Finalist, Boys
+Smithsburg, 1977, C, Champion, Boys
+Middletown, 1977, C, Finalist, Boys
+Winston Churchill, 1978, AA, Champion, Boys
+High Point, 1978, AA, Finalist, Boys
+Thomas S. Wootton, 1978, A, Champion, Boys
+Seneca Valley, 1978, A, Finalist, Boys
+Hereford, 1978, B, Champion, Boys
+Williamsport, 1978, B, Finalist, Boys
+Centennial, 1978, C, Champion, Boys
+Boonsboro, 1978, C, Finalist, Boys
+Dulaney, 1979, AA, Champion, Boys
+High Point, 1979, AA, Finalist, Boys
+Fairmont Heights, 1979, A, Champion, Boys
+Richard Montgomery, 1979, A, Finalist, Boys
+Sherwood, 1979, B, Champion, Boys
+Atholton, 1979, B, Finalist, Boys
+Middletown, 1979, C, Champion, Boys
+Havre de Grace, 1979, C, Finalist, Boys
+Dulaney, 1980, AA, Champion, Boys
+Friendly, 1980, AA, Finalist, Boys
+Richard Montgomery, 1980, A, Champion, Boys
+Albert Einstein, 1980, A, Finalist, Boys
+Centennial, 1980, B, Champion, Boys
+Fallston, 1980, B, Finalist, Boys
+Beall, 1980, C, Champion, Boys
+Middletown, 1980, C, Finalist, Boys
+Dulaney, 1981, AA, Champion, Boys
+Seneca Valley, 1981, AA, Finalist, Boys
+Loch Raven, 1981, A, Champion, Boys
+Richard Montgomery, 1981, A, Finalist, Boys
+Fallston, 1981, B, Champion, Boys
+North Harford, 1981, B, Finalist, Boys
+Beall, 1981, C, Champion, Boys
+Boonsboro, 1981, C, Finalist, Boys
+Westminster, 1982, AA, Champion, Boys
+Dulaney, 1982, AA, Finalist, Boys
+Robert E. Peary, 1982, A, Champion, Boys
+Loch Raven, 1982, A, Finalist, Boys
+North Harford, 1982, B, Champion, Boys
+Atholton, 1982, B, Finalist, Boys
+Middletown, 1982, C, Champion, Boys
+Hammond, 1982, C, Finalist, Boys
+Dulaney, 1983, AA, Champion, Boys
+Walt Whitman, 1983, AA, Finalist, Boys
+Loch Raven, 1983, A, Champion, Boys
+Robert E. Peary, 1983, A, Finalist, Boys
+Glenelg, 1983, B, Champion, Boys
+Atholton, 1983, B, Finalist, Boys
+Middletown, 1983, C, Champion, Boys
+Beall, 1983, C, Finalist, Boys
+Bowie, 1984, AA, Champion, Boys
+Eleanor Roosevelt, 1984, AA, Finalist, Boys
+Broadneck, 1984, A, Champion, Boys
+Rockville, 1984, A, Finalist, Boys
+Oakland Mills, 1984, B, Champion, Boys
+Liberty, 1984, B, Finalist, Boys
+Middletown, 1984, C, Champion, Boys
+Boonsboro, 1984, C, Finalist, Boys
+Rockville, 1985, AA, Champion, Boys
+Bethesda-CC, 1985, AA, Finalist, Boys
+North Carroll, 1985, A, Champion, Boys
+Albert Einstein, 1985, A, Finalist, Boys
+Oakland Mills, 1985, B, Champion, Boys
+Liberty, 1985, B, Finalist, Boys
+North Dorchester, 1985, C, Champion, Boys
+Francis Scott Key, 1985, C, Finalist, Boys
+Walt Whitman, 1986, AA, Champion, Boys
+Eleanor Roosevelt, 1986, AA, Finalist, Boys
+Parkville, 1986, A, Champion, Boys
+Loch Raven, 1986, A, Finalist, Boys
+Oakland Mills, 1986, B-C, Champion, Boys
+Atholton, 1986, B-C, Finalist, Boys
+Perry Hall, 1987, AA, Champion, Boys
+Severna Park, 1987, AA, Finalist, Boys
+Towson, 1987, A, Champion, Boys
+Laurel, 1987, A, Finalist, Boys
+Oakland Mills, 1987, B-C, Champion, Boys
+Glenelg, 1987, B-C, Finalist, Boys
+Walt Whitman, 1988, 4A, Champion, Boys
+Westminster, 1988, 4A, Finalist, Boys
+North Carroll, 1988, 3A, Champion, Boys
+Loch Raven, 1988, 3A, Finalist, Boys
+Oakland Mills, 1988, 1A-2A, Champion, Boys
+Centennial, 1988, 1A-2A, Finalist, Boys
+Westminster, 1989, 4A, Champion, Boys
+Severna Park, 1989, 4A, Finalist, Boys
+Oakland Mills, 1989, 3A, Champion, Boys
+Centennial, 1989, 3A, Finalist, Boys
+Atholton, 1989, 2A, Champion, Boys
+Loch Raven, 1989, 2A, Finalist, Boys
+Brunswick, 1989, 1A, Champion, Boys
+Milford Mill, 1989, 1A, Finalist, Boys
+Walt Whitman, 1990, 4A, Champion, Boys
+Broadneck, 1990, 4A, Finalist, Boys
+Richard Montgomery, 1990, 3A, Champion, Boys
+Oakland Mills, 1990, 3A, Finalist, Boys
+Loch Raven, 1990, 2A, Champion, Boys
+Glenelg, 1990, 2A, Finalist, Boys
+Francis Scott Key, 1990, 1A, Champion, Boys
+Boonsboro, 1990, 1A, Finalist, Boys
+Westminster, 1991, 4A, Champion, Boys
+Quince Orchard, 1991, 4A, Finalist, Boys
+Walt Whitman, 1991, 3A, Champion, Boys
+Walter Johnson, 1991, 3A, Finalist, Boys
+Glenelg, 1991, 2A, Champion, Boys
+Oakland Mills, 1991, 2A, Finalist, Boys
+Joppatowne, 1991, 1A, Champion, Boys
+Francis Scott Key, 1991, 1A, Finalist, Boys
+Quince Orchard, 1992, 4A, Champion, Boys
+Westminster, 1992, 4A, Finalist, Boys
+Walt Whitman, 1992, 3A, Champion, Boys
+C. Milton Wright, 1992, 3A, Finalist, Boys
+Oakland Mills, 1992, 2A, Champion, Boys
+Hereford, 1992, 2A, Finalist, Boys
+Joppatowne, 1992, 1A, Champion, Boys
+Easton, 1992, 1A, Finalist, Boys
+Quince Orchard, 1993, 4A, Champion, Boys
+Westminster, 1993, 4A, Finalist, Boys
+Centennial, 1993, 3A, Champion, Boys
+C. Milton Wright, 1993, 3A, Finalist, Boys
+Allegany, 1993, 2A, Champion, Boys
+Oakland Mills, 1993, 2A, Finalist, Boys
+Southern Garrett, 1993, 1A, Champion, Boys
+Easton, 1993, 1A, Finalist, Boys
+Quince Orchard, 1994, 4A, Champion, Boys
+Perry Hall, 1994, 4A, Finalist, Boys
+Seneca Valley, 1994, 3A, Champion, Boys
+Centennial, 1994, 3A, Finalist, Boys
+Oakland Mills, 1994, 2A, Champion, Boys
+Liberty, 1994, 2A, Finalist, Boys
+Southern Garrett, 1994, 1A, Champion, Boys
+Wilde Lake, 1994, 1A, Finalist, Boys
+Walt Whitman, 1995, 4A, Champion, Boys
+Westminster, 1995, 4A, Finalist, Boys
+Richard Montgomery, 1995, 3A, Champion, Boys
+Damascus, 1995, 3A, Finalist, Boys
+Fort Hill, 1995, 2A, Champion, Boys
+Wilde Lake, 1995, 2A, Finalist, Boys
+Southern Garrett, 1995, 1A, Champion, Boys
+Hereford, 1995, 1A, Finalist, Boys
+Westminster, 1996, 4A, Champion, Boys
+Walt Whitman, 1996, 4A, Finalist, Boys
+Linganore, 1996, 3A, Champion, Boys
+Damascus, 1996, 3A, Finalist, Boys
+Wilde Lake, 1996, 2A, Champion, Boys
+Middletown, 1996, 2A, Finalist, Boys
+Southern Garrett, 1996, 1A, Champion, Boys
+Boonsboro, 1996, 1A, Finalist, Boys
+Westminster, 1997, 4A, Champion, Boys
+Walt Whitman, 1997, 4A, Finalist, Boys
+South Carroll, 1997, 3A, Champion, Boys
+Linganore, 1997, 3A, Finalist, Boys
+Fort Hill, 1997, 2A, Champion, Boys
+Atholton, 1997, 2A, Finalist, Boys
+Southern Garrett, 1997, 1A, Champion, Boys
+Oakland Mills, 1997, 1A, Finalist, Boys
+Westminster, 1998, 4A, Champion, Boys
+Walt Whitman, 1998, 4A, Finalist, Boys
+South Carroll, 1998, 3A, Champion, Boys
+C. Milton Wright, 1998, 3A, Finalist, Boys
+River Hill, 1998, 2A, Champion, Boys
+North Hagerstown, 1998, 2A, Finalist, Boys
+Westmar, 1998, 1A, Champion, Boys
+Southern Garrett, 1998, 1A, Finalist, Boys
+Westminster, 1999, 4A, Champion, Boys
+Severna Park, 1999, 4A, Finalist, Boys
+River Hill, 1999, 3A, Champion, Boys
+South Carroll, 1999, 3A, Finalist, Boys
+Urbana, 1999, 2A, Champion, Boys
+Linganore, 1999, 2A, Finalist, Boys
+Oakland Mills, 1999, 1A, Champion, Boys
+Glenelg, 1999, 1A, Finalist, Boys
+Gaithersburg, 2000, 4A, Champion, Boys
+Broadneck, 2000, 4A, Finalist, Boys
+South Carroll, 2000, 3A, Champion, Boys
+River Hill, 2000, 3A, Finalist, Boys
+Urbana, 2000, 2A, Champion, Boys
+Middletown, 2000, 2A, Finalist, Boys
+Oakland Mills, 2000, 1A, Champion, Boys
+Glenelg, 2000, 1A, Finalist, Boys
+C. Milton Wright, 2001, 4A, Champion, Boys
+Gaithersburg, 2001, 4A, Finalist, Boys
+Northwest, 2001, 3A, Champion, Boys
+Dulaney, 2001, 3A, Finalist, Boys
+Glenelg, 2001, 2A, Champion, Boys
+Centennial, 2001, 2A, Finalist, Boys
+Oakland Mills, 2001, 1A, Champion, Boys
+Loch Raven, 2001, 1A, Finalist, Boys
+C. Milton Wright, 2002, 4A, Champion, Boys
+Broadneck, 2002, 4A, Finalist, Boys
+Northwest, 2002, 3A, Champion, Boys
+Urbana, 2002, 3A, Finalist, Boys
+Glenelg, 2002, 2A, Champion, Boys
+Centennial, 2002, 2A, Finalist, Boys
+Loch Raven, 2002, 1A, Champion, Boys
+Beall, 2002, 1A, Finalist, Boys
+Sherwood, 2003, 4A, Champion, Boys
+Walter Johnson, 2003, 4A, Finalist, Boys
+Urbana, 2003, 3A, Champion, Boys
+River Hill, 2003, 3A, Finalist, Boys
+Liberty, 2003, 2A, Champion, Boys
+Atholton, 2003, 2A, Finalist, Boys
+Beall, 2003, 1A, Champion, Boys
+Oakland Mills, 2003, 1A, Finalist, Boys
+Broadneck, 2004, 4A, Champion, Boys
+Gaithersburg, 2004, 4A, Finalist, Boys
+River Hill, 2004, 3A, Champion, Boys
+Northwest, 2004, 3A, Finalist, Boys
+Liberty, 2004, 2A, Champion, Boys
+Atholton, 2004, 2A, Finalist, Boys
+Beall, 2004, 1A, Champion, Boys
+Oakland Mills, 2004, 1A, Finalist, Boys
+Broadneck, 2005, 4A, Champion, Boys
+Sherwood, 2005, 4A, Finalist, Boys
+Wilde Lake, 2005, 3A, Champion, Boys
+Urbana, 2005, 3A, Finalist, Boys
+Liberty, 2005, 2A, Champion, Boys
+Atholton, 2005, 2A, Finalist, Boys
+Clear Spring, 2005, 1A, Champion, Boys
+Beall, 2005, 1A, Finalist, Boys
+Quince Orchard, 2006, 4A, Champion, Boys
+Sherwood, 2006, 4A, Finalist, Boys
+Wilde Lake, 2006, 3A, Champion, Boys
+Bel Air, 2006, 3A, Finalist, Boys
+Francis Scott Key, 2006, 2A, Champion, Boys
+Atholton, 2006, 2A, Finalist, Boys
+Clear Spring, 2006, 1A, Champion, Boys
+Northern-Garrett, 2006, 1A, Finalist, Boys
+Quince Orchard, 2007, 4A, Champion, Boys
+Northwest, 2007, 4A, Finalist, Boys
+Bethesda-CC, 2007, 3A, Champion, Boys
+Wilde Lake, 2007, 3A, Finalist, Boys
+River Hill, 2007, 2A, Champion, Boys
+Francis Scott Key, 2007, 2A, Finalist, Boys
+Glenelg, 2007, 1A, Champion, Boys
+South Carroll, 2007, 1A, Finalist, Boys
+Walter Johnson, 2008, 4A, Champion, Boys
+Severna Park, 2008, 4A, Finalist, Boys
+Atholton, 2008, 3A, Champion, Boys
+Bel Air, 2008, 3A, Finalist, Boys
+Mt. Hebron, 2008, 2A, Champion, Boys
+River Hill, 2008, 2A, Finalist, Boys
+Bohemia Manor, 2008, 1A, Champion, Boys
+South Carroll, 2008, 1A, Finalist, Boys
+Walter Johnson, 2009, 4A, Champion, Boys
+Churchill, 2009, 4A, Finalist, Boys
+Damascus, 2009, 3A, Champion, Boys
+Quince Orchard, 2009, 3A, Finalist, Boys
+Winters Mill, 2009, 2A, Champion, Boys
+Glenelg, 2009, 2A, Finalist, Boys
+Bohemia Manor, 2009, 1A, Champion, Boys
+Allegany, 2009, 1A, Finalist, Boys
+Walter Johnson, 2010, 4A, Champion, Boys
+Churchill, 2010, 4A, Finalist, Boys
+Hereford, 2010, 3A, Champion, Boys
+Einstein, 2010, 3A, Finalist, Boys
+Winters Mill, 2010, 2A, Champion, Boys
+Glenelg, 2010, 2A, Finalist, Boys
+Catoctin, 2010, 1A, Champion, Boys
+Patterson Mill, 2010, 1A, Finalist, Boys
+Walter Johnson, 2011, 4A, Champion, Boys
+Severna Park, 2011, 4A, Finalist, Boys
+Hereford, 2011, 3A, Champion, Boys
+Linganore, 2011, 3A, Finalist, Boys
+Winters Mill, 2011, 2A, Champion, Boys
+Williamsport, 2011, 2A, Finalist, Boys
+Bohemia Manor, 2011, 1A, Champion, Boys
+North Carroll, 2011, 1A, Finalist, Boys
+Severna Park, 2012, 4A, Champion, Boys
+Walter Johnson, 2012, 4A, Finalist, Boys
+Hereford, 2012, 3A, Champion, Boys
+Thomas Johnson, 2012, 3A, Finalist, Boys
+Catoctin, 2012, 2A, Champion, Boys
+Williamsport, 2012, 2A, Finalist, Boys
+Boonsboro, 2012, 1A, Champion, Boys
+Bohemia Manor, 2012, 1A, Finalist, Boys
+Severna Park, 2013, 4A, Champion, Boys
+Dulaney, 2013, 4A, Finalist, Boys
+Thomas Johnson, 2013, 3A, Champion, Boys
+Mount Hebron, 2013, 3A, Finalist, Boys
+Catoctin, 2013, 2A, Champion, Boys
+Poolesville, 2013, 2A, Finalist, Boys
+Perryville, 2013, 1A, Champion, Boys
+Southern-Garrett, 2013, 1A, Finalist, Boys
+Severna Park, 2014, 4A, Champion, Boys
+Dulaney, 2014, 4A, Finalist, Boys
+River Hill, 2014, 3A, Champion, Boys
+Atholton, 2014, 3A, Finalist, Boys
+Catoctin, 2014, 2A, Champion, Boys
+Liberty, 2014, 2A, Finalist, Boys
+Southern-Garrett, 2014, 1A, Champion, Boys
+Bohemia Manor, 2014, 1A, Finalist, Boys
+Dulaney, 2015, 4A, Champion, Boys
+Severna Park, 2015, 4A, Finalist, Boys
+River Hill, 2015, 3A, Champion, Boys
+Atholton, 2015, 3A, Finalist, Boys
+Liberty, 2015, 2A, Champion, Boys
+Oakland Mills, 2015, 2A, Finalist, Boys
+Boonsboro, 2015, 1A, Champion, Boys
+Smithsburg, 2015, 1A, Finalist, Boys
+Dulaney, 2016, 4A, Champion, Boys
+Severna Park, 2016, 4A, Finalist, Boys
+River Hill, 2016, 3A, Champion, Boys
+Linganore, 2016, 3A, Finalist, Boys
+Liberty, 2016, 2A, Champion, Boys
+Century, 2016, 2A, Finalist, Boys
+Bohemia Manor, 2016, 1A, Champion, Boys
+Southern-Garrett, 2016, 1A, Finalist, Boys
+Severna Park, 2017, 4A, Champion, Boys
+Dulaney, 2017, 4A, Finalist, Boys
+Linganore, 2017, 3A, Champion, Boys
+Centennial, 2017, 3A, Finalist, Boys
+Liberty, 2017, 2A, Champion, Boys
+Calvert, 2017, 2A, Finalist, Boys
+Bohemia Manor, 2017, 1A, Champion, Boys
+Southern-Garrett, 2017, 1A, Finalist, Boys
+Severna Park, 2018, 4A, Champion, Boys
+Northwood, 2018, 4A, Finalist, Boys
+Centennial, 2018, 3A, Champion, Boys
+Linganore, 2018, 3A, Finalist, Boys
+Liberty, 2018, 2A, Champion, Boys
+River Hill, 2018, 2A, Finalist, Boys
+Boonsboro, 2018, 1A, Champion, Boys
+Bohemia Manor, 2018, 1A, Finalist, Boys
+Severna Park, 2019, 4A, Champion, Boys
+Northwood, 2019, 4A, Finalist, Boys
+River Hill, 2019, 3A, Champion, Boys
+Centennial, 2019, 3A, Finalist, Boys
+Oakdale, 2019, 2A, Champion, Boys
+Liberty, 2019, 2A, Finalist, Boys
+Williamsport, 2019, 1A, Champion, Boys
+Smithsburg, 2019, 1A, Finalist, Boys
+Severna Park, 2021, 4A, Champion, Boys
+Walt Whitman, 2021, 4A, Finalist, Boys
+Mount Hebron, 2021, 3A, Champion, Boys
+River Hill, 2021, 3A, Finalist, Boys
+Poolesville, 2021, 2A, Champion, Boys
+Liberty, 2021, 2A, Finalist, Boys
+Brunswick, 2021, 1A, Champion, Boys
+Fallston, 2021, 1A, Finalist, Boys
+Severna Park, 2022, 4A, Champion, Boys
+Winston Churchill, 2022, 4A, Finalist, Boys
+Towson, 2022, 3A, Champion, Boys
+Chopticon, 2022, 3A, Finalist, Boys
+Poolesville, 2022, 2A, Champion, Boys
+Century, 2022, 2A, Finalist, Boys
+Northern-Garrett, 2022, 1A, Champion, Boys
+Catoctin, 2022, 1A, Finalist, Boys
+Albert Einstein, 2023, 4A, Champion, Boys
+Winston Churchill, 2023, 4A, Finalist, Boys
+Towson, 2023, 3A, Champion, Boys
+Severna Park, 2023, 3A, Finalist, Boys
+Centennial, 2023, 2A, Champion, Boys
+Wilde Lake, 2023, 2A, Finalist, Boys
+Liberty, 2023, 1A, Champion, Boys
+Catoctin, 2023, 1A, Finalist, Boys
+
+
