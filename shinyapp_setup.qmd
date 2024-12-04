@@ -27,6 +27,7 @@ install.packages("DT")
 Using the tidyverse and read_csv, create a basic Shiny app using R allowing users to browse and search the attached CSV file. Presume that the project directory structure exists, with no static assets and the CSV file is at the root.
 ```
 
+
 3.  Download the file or copy the results into a file called app.R and put it inside the folder of your sport.
 4.  Click the "Run App" button to test it out. If it doesn't work try to debug why and a solution.
 
@@ -35,7 +36,7 @@ Using the tidyverse and read_csv, create a basic Shiny app using R allowing user
 Adjust the folder path below to match your sport and then copy and paste that line into the RStudio console.
 
 ``` r
-rsconnect::deployApp('winter/basketball', appMode = "shiny")
+rsconnect::deployApp('fall/soccer', appMode = "shiny")
 ```
 
 It should give you a URL to go to if the deployment is successful.
